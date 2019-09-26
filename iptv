@@ -1,1 +1,446 @@
 
+#EXTM3U
+#EXTINF:-1 group-title="LG-TV",Top Channel
+http://185.186.81.50:8003/play/a030
+#EXTINF:-1,Klan TV
+http://185.186.81.50:8003/play/a0e1
+#EXTINF:-1,Klan HD
+http://185.186.81.50:8003/play/a02z
+#EXTINF:-1,Vizion Plus
+http://185.186.81.50:8003/play/a0du
+#EXTINF:-1,TV 7
+http://185.186.81.50:8003/play/a019
+#EXTINF:-1,Film Aksion
+http://185.186.81.50:8003/play/a0bv
+#EXTINF:-1,CHANNEL ONE
+http://185.186.81.50:8003/play/a0cn
+#EXTINF:-1,Digi Gold 4
+http://185.186.81.50:8003/play/a0c1
+#EXTINF:-1,Ora News
+http://185.186.81.50:8003/play/a01a
+#EXTINF:-1,Pro 7 Maxx
+http://185.186.81.50:8003/play/a0d5
+#EXTINF:-1,RTV21 MIX HD
+http://185.186.81.50:8003/play/a01e
+#EXTINF:-1,Eurosport
+http://185.186.81.50:8003/play/a04q
+#EXTINF:-1,Dasma TV
+http://185.186.81.50:8003/play/a04m
+#EXTINF:-1,RTK 4
+http://185.186.81.50:8003/play/a04x
+#EXTINF:-1,Sky Drama
+http://185.186.81.50:8003/play/a00w
+#EXTINF:-1,Sky Aksion
+http://185.186.81.50:8003/play/a0dv
+#EXTINF:-1,Discovery Channel
+http://185.186.81.50:8003/play/a01q
+#EXTINF:-1,Sky Comedy
+http://185.186.81.50:8003/play/a00x
+#EXTINF:-1,B92 Info
+http://185.186.81.50:8003/play/a03e
+#EXTINF:-1,HRT1
+http://185.186.81.50:8003/play/a0ad
+#EXTINF:-1,A-MOL TV
+http://185.186.81.50:8003/play/a00i
+#EXTINF:-1,Film Dy HD
+http://185.186.81.50:8003/play/a0bu
+#EXTINF:-1,Plus TV
+http://185.186.81.50:8003/play/a01n
+#EXTINF:-1,FAST&FUN BOX
+http://185.186.81.50:8003/play/a0cl
+#EXTINF:-1,Sport2
+http://185.186.81.50:8003/play/a0c6
+#EXTINF:-1,TV Dukagjini HD
+http://185.186.81.50:8003/play/a01w
+#EXTINF:-1,TRING KIDS
+http://185.186.81.50:8003/play/a0au
+#EXTINF:-1,Klan Kosova
+http://185.186.81.50:8003/play/a00b
+#EXTINF:-1,SuperRTL
+http://185.186.81.50:8003/play/a03n
+#EXTINF:-1,K Sport 2
+http://185.186.81.50:8003/play/a03k
+#EXTINF:-1,Sky Histori
+http://185.186.81.50:8003/play/a03y
+#EXTINF:-1,Sky Shkence
+http://185.186.81.50:8003/play/a03z
+#EXTINF:-1,21 Popullore
+http://185.186.81.50:8003/play/a04c
+#EXTINF:-1,RAI 2
+http://185.186.81.50:8003/play/a0d0
+#EXTINF:-1,SMILE
+http://185.186.81.50:8003/play/a0cu
+#EXTINF:-1,ARTE
+http://185.186.81.50:8003/play/a00r
+#EXTINF:-1,POWER TURK HD
+http://185.186.81.50:8003/play/a0dc
+#EXTINF:-1,21 Mix
+http://185.186.81.50:8003/play/a00f
+#EXTINF:-1,Sky Planet
+http://185.186.81.50:8003/play/a0av
+#EXTINF:-1,K Sport 1
+http://185.186.81.50:8003/play/a04f
+#EXTINF:-1,FOX MOVIE
+http://185.186.81.50:8003/play/a0ai
+#EXTINF:-1,Star Drenas
+http://185.186.81.50:8003/play/a0b0
+#EXTINF:-1,KANAL 7 TURK
+http://185.186.81.50:8003/play/a0d9
+#EXTINF:-1,Tribuna Channel SD
+http://185.186.81.50:8003/play/a0df
+#EXTINF:-1,21 Popullore HD
+http://185.186.81.50:8003/play/a06i
+#EXTINF:-1,TV Opoja
+http://185.186.81.50:8003/play/a0a0
+#EXTINF:-1,Click Channel
+http://185.186.81.50:8003/play/a00q
+#EXTINF:-1,FILMBOX PLUS
+http://185.186.81.50:8003/play/a0am
+#EXTINF:-1,RTL
+http://185.186.81.50:8003/play/a051
+#EXTINF:-1,Infochannel
+http://185.186.81.50:8003/play/a0bs
+#EXTINF:-1,RAI NEWS
+http://185.186.81.50:8003/play/a0cy
+#EXTINF:-1,T7
+http://185.186.81.50:8003/play/a0ac
+#EXTINF:-1,MTR2
+http://185.186.81.50:8003/play/a0bp
+#EXTINF:-1,TLC
+http://185.186.81.50:8003/play/a0d8
+#EXTINF:-1,BBC World
+http://185.186.81.50:8003/play/a04i
+#EXTINF:-1,Travelingo
+http://185.186.81.50:8003/play/a0cs
+#EXTINF:-1,Tring Action
+http://185.186.81.50:8003/play/a04p
+#EXTINF:-1,National Geographic
+http://185.186.81.50:8003/play/a04g
+#EXTINF:-1,Folk +
+http://185.186.81.50:8003/play/a039
+#EXTINF:-1,TV Mitrovica
+http://185.186.81.50:8003/play/a00h
+#EXTINF:-1,FILMBOX FAMILY
+http://185.186.81.50:8003/play/a0ak
+#EXTINF:-1,RTK 1
+http://185.186.81.50:8003/play/a0ab
+#EXTINF:-1,RTCG SAT
+http://185.186.81.50:8003/play/a01x
+#EXTINF:-1,Tring Fantasy
+http://185.186.81.50:8003/play/a031
+#EXTINF:-1,Alsat M
+http://185.186.81.50:8003/play/a03g
+#EXTINF:-1,FIGHTBOX
+http://185.186.81.50:8003/play/a0dh
+#EXTINF:-1,RTK 3
+http://185.186.81.50:8003/play/a01b
+#EXTINF:-1,Besa TV
+http://185.186.81.50:8003/play/a00n
+#EXTINF:-1,Klan Kosova HD
+http://185.186.81.50:8003/play/a01u
+#EXTINF:-1,TV Dielli
+http://185.186.81.50:8003/play/a0cj
+#EXTINF:-1,Peace TV
+http://185.186.81.50:8003/play/a050
+#EXTINF:-1,Luxe TV
+http://185.186.81.50:8003/play/a0cr
+#EXTINF:-1,Klan Plus
+http://185.186.81.50:8003/play/a0e2
+#EXTINF:-1,RTK 2
+http://185.186.81.50:8003/play/a00v
+#EXTINF:-1,Star HD
+http://185.186.81.50:8003/play/a0bn
+#EXTINF:-1,Fashion TV
+http://185.186.81.50:8003/play/a04v
+#EXTINF:-1,First Channel
+http://185.186.81.50:8003/play/a00m
+#EXTINF:-1,Syri Vision
+http://185.186.81.50:8003/play/a03w
+#EXTINF:-1,TV Opinion
+http://185.186.81.50:8003/play/a0e0
+#EXTINF:-1,Tring Tring
+http://185.186.81.50:8003/play/a0dz
+#EXTINF:-1,Positive Gold TV
+http://185.186.81.50:8003/play/a01s
+#EXTINF:-1,SUITE TV
+http://185.186.81.50:8003/play/a0ct
+#EXTINF:-1,Digi Gold Atlantic
+http://185.186.81.50:8003/play/a0bz
+#EXTINF:-1,N24
+http://185.186.81.50:8003/play/a0d7
+#EXTINF:-1,RTV21 Maqedoni
+http://185.186.81.50:8003/play/a018
+#EXTINF:-1,VOX
+http://185.186.81.50:8003/play/a0d2
+#EXTINF:-1,TRING SPORT NEWS
+http://185.186.81.50:8003/play/a0di
+#EXTINF:-1,KTV HD
+http://185.186.81.50:8003/play/a01t
+#EXTINF:-1,Turbo Channel
+http://185.186.81.50:8003/play/a010
+#EXTINF:-1,Rrokum TV
+http://185.186.81.50:8003/play/a045
+#EXTINF:-1,K Sport 5 HD
+http://185.186.81.50:8003/play/a0b1
+#EXTINF:-1,Digi Gold Action
+http://185.186.81.50:8003/play/a0c0
+#EXTINF:-1,TV Llapi
+http://185.186.81.50:8003/play/a0bl
+#EXTINF:-1,Sofia HD
+http://185.186.81.50:8003/play/a0dt
+#EXTINF:-1,TV Tema
+http://185.186.81.50:8003/play/a03o
+#EXTINF:-1,K Sport 3 HD
+http://185.186.81.50:8003/play/a09l
+#EXTINF:-1,TV Dukagjini
+http://185.186.81.50:8003/play/a0dq
+#EXTINF:-1,KTV
+http://185.186.81.50:8003/play/a03d
+#EXTINF:-1,Tring Shqip
+http://185.186.81.50:8003/play/a06l
+#EXTINF:-1,TV Shenja
+http://185.186.81.50:8003/play/a03p
+#EXTINF:-1,ELRODI
+http://185.186.81.50:8003/play/a0cp
+#EXTINF:-1,TRT Turk
+http://185.186.81.50:8003/play/a04u
+#EXTINF:-1,Rrokum TV HD
+http://185.186.81.50:8003/play/a01o
+#EXTINF:-1,Kanali 7
+http://185.186.81.50:8003/play/a047
+#EXTINF:-1,RAI 3
+http://185.186.81.50:8003/play/a0d1
+#EXTINF:-1,BBF
+http://185.186.81.50:8003/play/a0az
+#EXTINF:-1,LIVING
+http://185.186.81.50:8003/play/a03i
+#EXTINF:-1,Tring Life
+http://185.186.81.50:8003/play/a03j
+#EXTINF:-1,FOX
+http://185.186.81.50:8003/play/a0dw
+#EXTINF:-1,Sport7
+http://185.186.81.50:8003/play/a0cc
+#EXTINF:-1,Sky Sport 2
+http://185.186.81.50:8003/play/a0c4
+#EXTINF:-1,DRAME
+http://185.186.81.50:8003/play/a0ci
+#EXTINF:-1,FILMBOX EXTRA
+http://185.186.81.50:8003/play/a0an
+#EXTINF:-1,EUROSPORT2 HD
+http://185.186.81.50:8003/play/a0dj
+#EXTINF:-1,RAI Uno
+http://185.186.81.50:8003/play/a00g
+#EXTINF:-1,T7
+http://185.186.81.50:8003/play/a0dn
+#EXTINF:-1,Fashion Box
+http://185.186.81.50:8003/play/a0bo
+#EXTINF:-1,TVSH
+http://185.186.81.50:8003/play/a03f
+#EXTINF:-1,Sky Max
+http://185.186.81.50:8003/play/a0b9
+#EXTINF:-1,RTL 2
+http://185.186.81.50:8003/play/a052
+#EXTINF:-1,Film Komedi
+http://185.186.81.50:8003/play/a0bw
+#EXTINF:-1,Digi Gold Cinema
+http://185.186.81.50:8003/play/a0by
+#EXTINF:-1,MUSE
+http://185.186.81.50:8003/play/a032
+#EXTINF:-1,CNN
+http://185.186.81.50:8003/play/a04k
+#EXTINF:-1,ID Xtra
+http://185.186.81.50:8003/play/a01k
+#EXTINF:-1,Tribuna Channel
+http://185.186.81.50:8003/play/a0dp
+#EXTINF:-1,360TUNEBOX
+http://185.186.81.50:8003/play/a0dg
+#EXTINF:-1,Tring Super
+http://185.186.81.50:8003/play/a0af
+#EXTINF:-1,K Sport 5 HD
+http://185.186.81.50:8003/play/a0do
+#EXTINF:-1,Diaspora TV
+http://185.186.81.50:8003/play/a0ah
+#EXTINF:-1,RTV21 NEWSBIZ
+http://185.186.81.50:8003/play/a0ay
+#EXTINF:-1,MTV Kosova
+http://185.186.81.50:8003/play/a02c
+#EXTINF:-1,TV Prizreni
+http://185.186.81.50:8003/play/a09f
+#EXTINF:-1,K Sport 3
+http://185.186.81.50:8003/play/a03q
+#EXTINF:-1,Baby TV
+http://185.186.81.50:8003/play/a04s
+#EXTINF:-1,SKY SHQIP
+http://185.186.81.50:8003/play/a0as
+#EXTINF:-1,TV8 HD
+http://185.186.81.50:8003/play/a0da
+#EXTINF:-1,ATV
+http://185.186.81.50:8003/play/a041
+#EXTINF:-1,JOLLY HD
+http://185.186.81.50:8003/play/a02y
+#EXTINF:-1,FILMBOX ARTHOUSE
+http://185.186.81.50:8003/play/a0ao
+#EXTINF:-1,24 KITCHEN
+http://185.186.81.50:8003/play/a0cx
+#EXTINF:-1,Sport10
+http://185.186.81.50:8003/play/a0c9
+#EXTINF:-1,Euronews
+http://185.186.81.50:8003/play/a04l
+#EXTINF:-1,RTV Islam
+http://185.186.81.50:8003/play/a0bq
+#EXTINF:-1,7HD
+http://185.186.81.50:8003/play/a0bm
+#EXTINF:-1,Eurosport 2
+http://185.186.81.50:8003/play/a04r
+#EXTINF:-1,MusicBOX
+http://185.186.81.50:8003/play/a011
+#EXTINF:-1,21 Plus
+http://185.186.81.50:8003/play/a04b
+#EXTINF:-1,ANIMAL PLANET
+http://185.186.81.50:8003/play/a0ax
+#EXTINF:-1,TV 21
+http://185.186.81.50:8003/play/a0dl
+#EXTINF:-1,Adria Net
+http://185.186.81.50:8003/play/a01m
+#EXTINF:-1,AMOL HD
+http://185.186.81.50:8003/play/a0cm
+#EXTINF:-1,Hayat
+http://185.186.81.50:8003/play/a03v
+#EXTINF:-1,ABC News
+http://185.186.81.50:8003/play/a034
+#EXTINF:-1,TV Puls
+http://185.186.81.50:8003/play/a00z
+#EXTINF:-1,HRT
+http://185.186.81.50:8003/play/a03u
+#EXTINF:-1,Nr1Turk
+http://185.186.81.50:8003/play/a06m
+#EXTINF:-1,Family HD
+http://185.186.81.50:8003/play/a0bx
+#EXTINF:-1,Pro Sieben
+http://185.186.81.50:8003/play/a049
+#EXTINF:-1,DW-TV
+http://185.186.81.50:8003/play/a043
+#EXTINF:-1,Boomerang
+http://185.186.81.50:8003/play/a03m
+#EXTINF:-1,BALLKANIKA
+http://185.186.81.50:8003/play/a0co
+#EXTINF:-1,Al Jazeera Balkans
+http://185.186.81.50:8003/play/a040
+#EXTINF:-1,Pro 7
+http://185.186.81.50:8003/play/a0d4
+#EXTINF:-1,Cartoon Network
+http://185.186.81.50:8003/play/a03t
+#EXTINF:-1,21 Junior
+http://185.186.81.50:8003/play/a04h
+#EXTINF:-1,TLC Balkans
+http://185.186.81.50:8003/play/a01l
+#EXTINF:-1,History Channel
+http://185.186.81.50:8003/play/a057
+#EXTINF:-1,Tek Rumeli
+http://185.186.81.50:8003/play/a005
+#EXTINF:-1,Sky 7
+http://185.186.81.50:8003/play/a02b
+#EXTINF:-1,Sport1
+http://185.186.81.50:8003/play/a0c5
+#EXTINF:-1,Show TV
+http://185.186.81.50:8003/play/a04t
+#EXTINF:-1,FOX Crime
+http://185.186.81.50:8003/play/a04e
+#EXTINF:-1, MTV Hits
+http://185.186.81.50:8003/play/a0cv
+#EXTINF:-1,TV 21
+http://185.186.81.50:8003/play/a03c
+#EXTINF:-1,FAX News
+http://185.186.81.50:8003/play/a09d
+#EXTINF:-1,Sport3
+http://185.186.81.50:8003/play/a0cg
+#EXTINF:-1,Film Drame
+http://185.186.81.50:8003/play/a038
+#EXTINF:-1,Duck TV
+http://185.186.81.50:8003/play/a00d
+#EXTINF:-1,TV DRITA
+http://185.186.81.50:8003/play/a0cw
+#EXTINF:-1,Sport5
+http://185.186.81.50:8003/play/a0ce
+#EXTINF:-1,NTV HD
+http://185.186.81.50:8003/play/a0db
+#EXTINF:-1,Zeri TV
+http://185.186.81.50:8003/play/a0a5
+#EXTINF:-1,SAT.1
+http://185.186.81.50:8003/play/a006
+#EXTINF:-1,Kral TV
+http://185.186.81.50:8003/play/a04d
+#EXTINF:-1,Sport6
+http://185.186.81.50:8003/play/a0cd
+#EXTINF:-1,3 PLUS
+http://185.186.81.50:8003/play/a0ap
+#EXTINF:-1,21 Plus HD
+http://185.186.81.50:8003/play/a01d
+#EXTINF:-1,SAT1 GOLD
+http://185.186.81.50:8003/play/a0d3
+#EXTINF:-1,Sport4
+http://185.186.81.50:8003/play/a0cf
+#EXTINF:-1,SKY NOVELA
+http://185.186.81.50:8003/play/a0at
+#EXTINF:-1,DOCUBOX
+http://185.186.81.50:8003/play/a0aw
+#EXTINF:-1,RTI
+http://185.186.81.50:8003/play/a0br
+#EXTINF:-1,Star TV
+http://185.186.81.50:8003/play/a07g
+#EXTINF:-1,FILMBOX PREMIUM
+http://185.186.81.50:8003/play/a0aj
+#EXTINF:-1,Tring Comedy
+http://185.186.81.50:8003/play/a03x
+#EXTINF:-1,K Sport 2 HD
+http://185.186.81.50:8003/play/a09k
+#EXTINF:-1,Klan Music
+http://185.186.81.50:8003/play/a0e3
+#EXTINF:-1,RTK1 HD
+http://185.186.81.50:8003/play/a0dk
+#EXTINF:-1,Film Nje HD
+http://185.186.81.50:8003/play/a0bt
+#EXTINF:-1,KABEL 1
+http://185.186.81.50:8003/play/a0d6
+#EXTINF:-1,Sport9
+http://185.186.81.50:8003/play/a0ca
+#EXTINF:-1,Film Autor
+http://185.186.81.50:8003/play/a036
+#EXTINF:-1,Tip TV
+http://185.186.81.50:8003/play/a0dy
+#EXTINF:-1,SKY News
+http://185.186.81.50:8003/play/a04j
+#EXTINF:-1,Film Thriller
+http://185.186.81.50:8003/play/a037
+#EXTINF:-1,TV5 Monde
+http://185.186.81.50:8003/play/a044
+#EXTINF:-1,K Sport 4
+http://185.186.81.50:8003/play/a03r
+#EXTINF:-1,RTV21 HD
+http://185.186.81.50:8003/play/a01c
+#EXTINF:-1,On TV
+http://185.186.81.50:8003/play/a008
+#EXTINF:-1,FILMBOX
+http://185.186.81.50:8003/play/a0al
+#EXTINF:-1,Sky Sport 1
+http://185.186.81.50:8003/play/a0c3
+#EXTINF:-1,K Sport 1 HD
+http://185.186.81.50:8003/play/a09j
+#EXTINF:-1,FOX Life
+http://185.186.81.50:8003/play/a0dx
+#EXTINF:-1,TV R
+http://185.186.81.50:8003/play/a0cq
+#EXTINF:-1,RAI 1
+http://185.186.81.50:8003/play/a0cz
+#EXTINF:-1,KRAL TV HD
+http://185.186.81.50:8003/play/a0dd
+#EXTINF:-1,TV Era
+http://185.186.81.50:8003/play/a00c
+#EXTINF:-1,Sport8
+http://185.186.81.50:8003/play/a0cb
+#EXTINF:-1,Nat Geo Wild
+http://185.186.81.50:8003/play/a03s
+#EXTINF:-1,Kanal D
+http://185.186.81.50:8003/play/a042
+#EXTINF:-1,Star TV TR
+http://185.186.81.50:8003/play/a048
