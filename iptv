@@ -1,9 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="LG-TV",Top Channel
-http://185.186.81.50:8003/play/a030
-
-#EXTINF:-1,RTSH Sport
+#EXTINF:-1 group-title="LG-TV",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_mob_p2/playlist.m3u8
 
 #EXTINF:-1,RTSH Shqip
