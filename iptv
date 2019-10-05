@@ -1,32 +1,32 @@
 
 #EXTM3U
 #EXTINF:-1 group-title="LG-TV",RTSH Sport
-http://79.106.48.2/live/rtsh_sport_mob_p2/playlist.m3u8
+http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
 #EXTINF:-1,Elrodi TV
 http://185.186.81.50:8003/play/a0cp
 #EXTINF:-1,RTSH Shqip
-http://79.106.48.2/live/rtsh_shqip_mob_p2/playlist.m3u8
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
 
 #EXTINF:-1,RTSH Plus
-http://79.106.48.2/live/rtsh_plus_mob_p2/playlist.m3u8
+http://79.106.48.2/live/rtsh_plus_ott_p2/playlist.m3u8
 
 #EXTINF:-1,RTSH Muzike
-http://79.106.48.2/live/rtsh_muzike_mob_p2/playlist.m3u8
+http://79.106.48.2/live/rtsh_muzike_ott_p2/playlist.m3u8
 
 #EXTINF:-1,RTSH Film
-http://79.106.48.2/live/rtsh_film_mob_p2/playlist.m3u8
+http://79.106.48.2/live/rtsh_film_ott_p2/playlist.m3u8
 
 #EXTINF:-1,RTSH Femije
-http://79.106.48.2/live/rtsh_femije_mob_p2/playlist.m3u8
+http://79.106.48.2/live/rtsh_femije_ott_p2/playlist.m3u8
 
 #EXTINF:-1,RTSH 3
-http://79.106.48.2/live/rtsh_3mob_p2/playlist.m3u8
+http://79.106.48.2/live/rtsh_ott_p2/playlist.m3u8
 
 #EXTINF:-1,RTSH 2
-http://79.106.48.2/live/rtsh_2mob_p2/playlist.m3u8
+http://79.106.48.2/live/rtsh_ott_p2/playlist.m3u8
 
 #EXTINF:-1,RTSH 1
-http://79.106.48.2/live/rtsh_1mob_p2/playlist.m3u8
+http://79.106.48.2/live/rtsh_ott_p2/playlist.m3u8
 #EXTINF:-1,X Premium 4
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/55.ts
 #EXTINF:-1,X Premium 3
