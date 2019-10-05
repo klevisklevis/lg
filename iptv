@@ -6,27 +6,20 @@ http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
 http://185.186.81.50:8003/play/a0cp
 #EXTINF:-1,RTSH Shqip
 http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
-
 #EXTINF:-1,RTSH Plus
 http://79.106.48.2/live/rtsh_plus_ott_p2/playlist.m3u8
-
 #EXTINF:-1,RTSH Muzike
 http://79.106.48.2/live/rtsh_muzike_ott_p2/playlist.m3u8
-
 #EXTINF:-1,RTSH Film
 http://79.106.48.2/live/rtsh_film_ott_p2/playlist.m3u8
-
 #EXTINF:-1,RTSH Femije
 http://79.106.48.2/live/rtsh_femije_ott_p2/playlist.m3u8
-
 #EXTINF:-1,RTSH 3
-http://79.106.48.2/live/rtsh3_ott/playlist.m3u8
-
+http://79.106.48.2/live/rtsh_3ott/playlist.m3u8
 #EXTINF:-1,RTSH 2
-http://79.106.48.2/live/rtsh2_ott/playlist.m3u8
-
+http://79.106.48.2/live/rtsh_2ott/playlist.m3u8
 #EXTINF:-1,RTSH 1
-http://79.106.48.2/live/rtsh1_ott/playlist.m3u8
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
 #EXTINF:-1,X Premium 4
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/55.ts
 #EXTINF:-1,X Premium 3
