@@ -165,6 +165,26 @@ http://163.172.84.252:8000/live/Tqifsha/kalamojt/2.ts
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/3.ts
 #EXTINF:-1,super Sport 4
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/4.ts
+#EXTINF:-1,Sky Sport Serie A HD
+http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/70.ts
+#EXTINF:-1,TS1
+http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/65.ts
+#EXTINF:-1,TS2
+http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/66.ts
+#EXTINF:-1,TS3
+http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/67.ts
+#EXTINF:-1,TS4
+http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/68.ts
+#EXTINF:-1,SS1
+http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/60.ts
+#EXTINF:-1,SS2
+http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/61.ts
+#EXTINF:-1,SS3
+http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/62.ts
+#EXTINF:-1,SS4
+http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/63.ts
+#EXTINF:-1,SS5
+http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/64.ts
 #EXTINF:-1,SKY NOVELA
 http://185.186.81.50:8003/play/a0at
 #EXTINF:-1,Tring Action
