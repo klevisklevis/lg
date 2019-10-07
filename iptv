@@ -1,138 +1,289 @@
+
 #EXTM3U
-#EXTINF:-1 group-title="LG-TV",RTSH Sport
+#EXTINF:-1,RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
 #EXTINF:-1,Elrodi TV
 http://185.186.81.50:8003/play/a0cp
+
 #EXTINF:-1,Elrodi TV HD
 http://stream.shqiptv.com:7080/ELRODI-8718-sd/index.m3u8
+
 #EXTINF:-1,RTSH Shqip
 http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
+
 #EXTINF:-1,RTSH Plus
 http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+
 #EXTINF:-1,RTSH Muzike
 http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
+
 #EXTINF:-1,RTSH Film
 http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+
 #EXTINF:-1,RTSH Femije
 http://79.106.48.2/live/rtsh_femije_ott_p3/playlist.m3u8
+
 #EXTINF:-1,RTSH 3
 http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
+
 #EXTINF:-1,RTSH 2
 http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+
 #EXTINF:-1,RTSH 1
 http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+
 #EXTINF:-1,TopNews
 https://stream-09.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irWApT7-DB_8fPfa4Ek45A98)/dm/3/x6inuzo/live.m3u8
+
 #EXTINF:-1,Report TV
 http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+
 #EXTINF:-1,ORA NEWS
 http://185.186.81.50:8003/play/a01a
+
 #EXTINF:-1,NEWS 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
 #EXTINF:-1,Tring Smile
 http://stream.shqiptv.com:7080/TRINGSMILE-8772-sd/index.m3u8
+
 #EXTINF:-1,Tring Action
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/50.ts
-#EXTINF:-1,Film Thriller
-http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/49.ts
+
 #EXTINF:-1,Tring World
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/37.ts
-#EXTINF:-1,Tring tring
-http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/46.ts
+
 #EXTINF:-1,Tring Super
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/41.ts
+
 #EXTINF:-1,Tring Shqip
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/40.ts
+
 #EXTINF:-1,Tring Planet
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/38.ts
+
 #EXTINF:-1,Tring Komedi
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/43.ts
+
 #EXTINF:-1,Tring Histori
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/39.ts
+
 #EXTINF:-1,Tring Fantazi
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/44.ts
+
 #EXTINF:-1,Tring 3 Plus
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/45.ts
+
 #EXTINF:-1,Smil
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/36.ts
-#EXTINF:-1,Junior
-http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/34.ts
+
 #EXTINF:-1,Jolly HD
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/35.ts
+
 #EXTINF:-1,Top Channel
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/7.ts
+
 #EXTINF:-1,Klan HD
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/8.ts
+
 #EXTINF:-1,Klan TV
 http://95.107.132.222:80/live/localdisk/KlanTV/SA/KlanTV.m3u8
+
 #EXTINF:-1,Klan plus
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/10.ts
+
 #EXTINF:-1,Vizion Plus
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/9.ts
+
 #EXTINF:-1,Alsat
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/11.ts
-#EXTINF:-1,T HD Channel
-http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/12.ts
-#EXTINF:-1,Film Nje HD
-http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/16.ts
+
 #EXTINF:-1,Film Komedi
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/14.ts
-#EXTINF:-1,Film Hits
-http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/15.ts
-#EXTINF:-1,Film Dy HD
-http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/17.ts
+
 #EXTINF:-1,Film Dram
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/18.ts
+
 #EXTINF:-1,Film Autor
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/19.ts
+
 #EXTINF:-1,Film Aksion
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/13.ts
+
 #EXTINF:-1,EXP Shkenca
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/20.ts
+
 #EXTINF:-1,EXP Natyra
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/21.ts
+
 #EXTINF:-1,EXP Histori
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/22.ts
+
 #EXTINF:-1,Cufo
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/23.ts
+
 #EXTINF:-1,Bang Bang
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/25.ts
+
 #EXTINF:-1,BG SPORT 1
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/184.ts
+
 #EXTINF:-1,ARENA SPORT 3
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/187.ts
+
 #EXTINF:-1,ARENA SPORT 2
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/185.ts
+
 #EXTINF:-1,ARENA SPORT 1
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/186.ts
+
 #EXTINF:-1,Zigo fusball
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/177.ts
+
 #EXTINF:-1,Uk.EURO SPPRT 2
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/176.ts
+
 #EXTINF:-1,uk zigo
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/178.ts
+
 #EXTINF:-1,tvibu sport 3
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/179.ts
+
 #EXTINF:-1,tvibu sport 2
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/180.ts
+
 #EXTINF:-1,fox sport 1
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/181.ts
+
 #EXTINF:-1,FILM SHQIP
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/175.ts
-#EXTINF:-1,k sport 4
-http://163.172.84.252:8000/live/Tqifsha/kalamojt/158.ts
-#EXTINF:-1,Tring Sport 2
-http://163.172.84.252:8000/live/Tqifsha/kalamojt/8.ts
-#EXTINF:-1,Tring Sport 3
-http://163.172.84.252:8000/live/Tqifsha/kalamojt/7.ts
-#EXTINF:-1,S sport 1
+#EXTINF:-1,Super Sport 1
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/1.ts
-#EXTINF:-1,S sport 2
+#EXTINF:-1,Super Sport 2
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/2.ts
-#EXTINF:-1,S sport 3
+#EXTINF:-1,Super Sport 3
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/3.ts
-#EXTINF:-1,s sport 4
+#EXTINF:-1,super Sport 4
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/4.ts
-#EXTINF:-1,s sport 5
-http://163.172.84.252:8000/live/Tqifsha/kalamojt/5.ts
+#EXTINF:-1,SKY NOVELA
+http://185.186.81.50:8003/play/a0at
+#EXTINF:-1,Tring Action
+http://185.186.81.50:8003/play/a04p
+#EXTINF:-1,24 KITCHEN
+http://185.186.81.50:8003/play/a0cx
+#EXTINF:-1,Tring Fantasy
+http://185.186.81.50:8003/play/a031
+#EXTINF:-1,7HD
+http://185.186.81.50:8003/play/a0bm
+#EXTINF:-1,MUSE
+http://185.186.81.50:8003/play/a032
+#EXTINF:-1,Sky Aksion
+http://185.186.81.50:8003/play/a0dv
+#EXTINF:-1,Sky Planet
+http://185.186.81.50:8003/play/a0av
+#EXTINF:-1,Sky Drama
+http://185.186.81.50:8003/play/a00w
+#EXTINF:-1,FILMBOX
+http://185.186.81.50:8003/play/a0al
+#EXTINF:-1,FILMBOX PLUS
+http://185.186.81.50:8003/play/a0am
+#EXTINF:-1,Tring Action
+http://185.186.81.50:8003/play/a04p
+#EXTINF:-1,Tring Comedy
+http://185.186.81.50:8003/play/a03x
+http://185.186.81.50:8003/play/a04f
+#EXTINF:-1,FILMBOX PREMIUM
+http://185.186.81.50:8003/play/a0aj
+#EXTINF:-1,ID Xtra
+http://185.186.81.50:8003/play/a01k
+#EXTINF:-1,National Geographic
+http://185.186.81.50:8003/play/a04g
+#EXTINF:-1,FOX
+http://185.186.81.50:8003/play/a0dw
+#EXTINF:-1,K Sport 1 HD
+http://185.186.81.50:8003/play/a09j
+#EXTINF:-1,K Sport 1
+http://185.186.81.50:8003/play/a04f
+#EXTINF:-1,K Sport 2
+http://185.186.81.50:8003/play/a03k
+#EXTINF:-1,K Sport 2 HD
+http://185.186.81.50:8003/play/a09k
+#EXTINF:-1,K Sport 3 HD
+http://185.186.81.50:8003/play/a09l
+#EXTINF:-1,K Sport 3
+http://185.186.81.50:8003/play/a03q
+#EXTINF:-1,K Sport 4
+http://185.186.81.50:8003/play/a03r
+#EXTINF:-1,K Sport 5 HD
+http://185.186.81.50:8003/play/a0do
+#EXTINF:-1,K Sport 5 HD
+http://185.186.81.50:8003/play/a0b1
+#EXTINF:-1,Sky Histori
+http://185.186.81.50:8003/play/a03y
+#EXTINF:-1,Sky Max
+http://185.186.81.50:8003/play/a0b9
+#EXTINF:-1,Sky Shkence
+http://185.186.81.50:8003/play/a03z
+#EXTINF:-1,Tring Super
+http://185.186.81.50:8003/play/a0af
+#EXTINF:-1,Sky Aksion
+http://185.186.81.50:8003/play/a0dv
+#EXTINF:-1,Tring Super
+http://185.186.81.50:8003/play/a0af
+#EXTINF:-1,TRING KIDS
+http://185.186.81.50:8003/play/a0au
+#EXTINF:-1,Tring Tring
+http://185.186.81.50:8003/play/a0dz
+#EXTINF:-1,History Channel
+http://185.186.81.50:8003/play/a057
+#EXTINF:-1,Tring Shqip
+http://185.186.81.50:8003/play/a06l
+
+#EXTINF:-1,Kanali 7
+http://185.186.81.50:8003/play/a047
+
+#EXTINF:-1,LIVING
+http://185.186.81.50:8003/play/a03i
+
+#EXTINF:-1,Nat Geo Wild
+http://185.186.81.50:8003/play/a03s
+
+#EXTINF:-1,TV Llapi
+http://185.186.81.50:8003/play/a0bl
+
+#EXTINF:-1,FIGHTBOX
+http://185.186.81.50:8003/play/a0dh
+#EXTINF:-1,JOLLY HD
+http://185.186.81.50:8003/play/a02y
+#EXTINF:-1,K Sport 2 HD
+http://185.186.81.50:8003/play/a09k
+#EXTINF:-1,BALLKANIKA
+http://185.186.81.50:8003/play/a0co
+#EXTINF:-1,Discovery Channel
+http://185.186.81.50:8003/play/a01q
+
+#EXTINF:-1,Duck TV
+http://185.186.81.50:8003/play/a00d
+
+#EXTINF:-1,Klan Plus
+http://185.186.81.50:8003/play/a0e2
+
+#EXTINF:-1,EUROSPORT2 HD
+http://185.186.81.50:8003/play/a0dj
+
+#EXTINF:-1,Tring Life
+http://185.186.81.50:8003/play/a03j
+
+#EXTINF:-1,DOCUBOX
+http://185.186.81.50:8003/play/a0aw
+
+#EXTINF:-1,MTV Hits
+http://185.186.81.50:8003/play/a0cv
+
+#EXTINF:-1,Peace TV
+http://185.186.81.50:8003/play/a050
+
+#EXTINF:-1,21 Popullore HD
+http://185.186.81.50:8003/play/a06i
 
