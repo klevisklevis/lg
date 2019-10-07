@@ -37,8 +37,7 @@ http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
 https://stream-09.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irWApT7-DB_8fPfa4Ek45A98)/dm/3/x6inuzo/live.m3u8
 
 #EXTINF:-1,Report TV
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-
+http://95.107.132.131:3344/udp/238.20.15.5:9009
 #EXTINF:-1,ORA NEWS
 http://185.186.81.50:8003/play/a01a
 
