@@ -122,10 +122,10 @@ http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/22.ts
 
 #EXTINF:-1,Cufo
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/23.ts
-
 #EXTINF:-1,Bang Bang
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/25.ts
-
+#EXTINF:-1,FILM SHQIP
+http://163.172.84.252:8000/live/Tqifsha/kalamojt/175.ts
 #EXTINF:-1,BG SPORT 1
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/184.ts
 
@@ -155,9 +155,6 @@ http://163.172.84.252:8000/live/Tqifsha/kalamojt/180.ts
 
 #EXTINF:-1,fox sport 1
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/181.ts
-
-#EXTINF:-1,FILM SHQIP
-http://163.172.84.252:8000/live/Tqifsha/kalamojt/175.ts
 #EXTINF:-1,Super Sport 1
 http://163.172.84.252:8000/live/Tqifsha/kalamojt/1.ts
 #EXTINF:-1,Super Sport 2
@@ -200,6 +197,12 @@ http://185.186.81.50:8003/play/a03y
 http://185.186.81.50:8003/play/a0b9
 #EXTINF:-1,Sky Shkence
 http://185.186.81.50:8003/play/a03z
+#EXTINF:-1,Tring Action
+http://185.186.81.50:8003/play/a04p
+#EXTINF:-1,Tring Comedy
+http://185.186.81.50:8003/play/a03x
+#EXTINF:-1,JOLLY HD
+http://185.186.81.50:8003/play/a02y
 #EXTINF:-1,Tring Shqip
 http://185.186.81.50:8003/play/a06l
 #EXTINF:-1,Tring Super
@@ -224,22 +227,14 @@ http://185.186.81.50:8003/play/a0dz
 http://185.186.81.50:8003/play/a0bm
 #EXTINF:-1,MUSE
 http://185.186.81.50:8003/play/a032
+#EXTINF:-1,FILMBOX PREMIUM
+http://185.186.81.50:8003/play/a0aj
 #EXTINF:-1,DOCUBOX
 http://185.186.81.50:8003/play/a0aw
 #EXTINF:-1,FILMBOX
 http://185.186.81.50:8003/play/a0al
 #EXTINF:-1,FILMBOX PLUS
 http://185.186.81.50:8003/play/a0am
-#EXTINF:-1,Tring Action
-http://185.186.81.50:8003/play/a04p
-#EXTINF:-1,Tring Comedy
-http://185.186.81.50:8003/play/a03x
-#EXTINF:-1,TTT
-http://185.186.81.50:8003/play/a04f
-#EXTINF:-1,FILMBOX PREMIUM
-http://185.186.81.50:8003/play/a0aj
-#EXTINF:-1,ID Xtra
-http://185.186.81.50:8003/play/a01k
 #EXTINF:-1,National Geographic
 http://185.186.81.50:8003/play/a04g
 #EXTINF:-1,FOX
@@ -268,6 +263,8 @@ http://185.186.81.50:8003/play/a01q
 http://185.186.81.50:8003/play/a057
 #EXTINF:-1,Nat Geo Wild
 http://185.186.81.50:8003/play/a03s
+#EXTINF:-1,ID Xtra
+http://185.186.81.50:8003/play/a01k
 #EXTINF:-1,Kanali 7
 http://185.186.81.50:8003/play/a047
 
@@ -277,8 +274,6 @@ http://185.186.81.50:8003/play/a03i
 http://185.186.81.50:8003/play/a0bl
 #EXTINF:-1,FIGHTBOX
 http://185.186.81.50:8003/play/a0dh
-#EXTINF:-1,JOLLY HD
-http://185.186.81.50:8003/play/a02y
 #EXTINF:-1,BALLKANIKA
 http://185.186.81.50:8003/play/a0co
 #EXTINF:-1,Duck TV
