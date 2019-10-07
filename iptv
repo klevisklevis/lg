@@ -227,6 +227,10 @@ http://185.186.81.50:8003/play/a0dz
 http://185.186.81.50:8003/play/a0bm
 #EXTINF:-1,MUSE
 http://185.186.81.50:8003/play/a032
+#EXTINF:-1,FILMBOX EXTRA
+http://185.186.81.50:8003/play/a0an
+#EXTINF:-1,FILMBOX FAMILY
+http://185.186.81.50:8003/play/a0ak
 #EXTINF:-1,FILMBOX PREMIUM
 http://185.186.81.50:8003/play/a0aj
 #EXTINF:-1,DOCUBOX
@@ -235,6 +239,8 @@ http://185.186.81.50:8003/play/a0aw
 http://185.186.81.50:8003/play/a0al
 #EXTINF:-1,FILMBOX PLUS
 http://185.186.81.50:8003/play/a0am
+#EXTINF:-1,FILMBOX ARTHOUSE
+http://185.186.81.50:8003/play/a0ao
 #EXTINF:-1,National Geographic
 http://185.186.81.50:8003/play/a04g
 #EXTINF:-1,FOX
@@ -257,6 +263,8 @@ http://185.186.81.50:8003/play/a03r
 http://185.186.81.50:8003/play/a0do
 #EXTINF:-1,K Sport 5 HD
 http://185.186.81.50:8003/play/a0b1
+#EXTINF:-1,ANIMAL PLANET
+http://185.186.81.50:8003/play/a0ax
 #EXTINF:-1,Discovery Channel
 http://185.186.81.50:8003/play/a01q
 #EXTINF:-1,History Channel
@@ -267,7 +275,6 @@ http://185.186.81.50:8003/play/a03s
 http://185.186.81.50:8003/play/a01k
 #EXTINF:-1,Kanali 7
 http://185.186.81.50:8003/play/a047
-
 #EXTINF:-1,LIVING
 http://185.186.81.50:8003/play/a03i
 #EXTINF:-1,TV Llapi
