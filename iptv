@@ -88,13 +88,14 @@ http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/8.ts
 
 #EXTINF:-1,Klan TV
 http://95.107.132.222:80/live/localdisk/KlanTV/SA/KlanTV.m3u8
-
+#EXTINF:-1,Klan TV 2
+http://185.186.81.50:8003/play/a02z
 #EXTINF:-1,Klan plus
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/10.ts
-
 #EXTINF:-1,Vizion Plus
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/9.ts
-
+#EXTINF:-1,Vizion Plus 2
+http://185.186.81.50:8003/play/a0du
 #EXTINF:-1,Alsat
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/11.ts
 
@@ -187,22 +188,44 @@ http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/63.ts
 http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/64.ts
 #EXTINF:-1,SKY NOVELA
 http://185.186.81.50:8003/play/a0at
-#EXTINF:-1,Tring Action
-http://185.186.81.50:8003/play/a04p
-#EXTINF:-1,24 KITCHEN
-http://185.186.81.50:8003/play/a0cx
-#EXTINF:-1,Tring Fantasy
-http://185.186.81.50:8003/play/a031
-#EXTINF:-1,7HD
-http://185.186.81.50:8003/play/a0bm
-#EXTINF:-1,MUSE
-http://185.186.81.50:8003/play/a032
 #EXTINF:-1,Sky Aksion
 http://185.186.81.50:8003/play/a0dv
 #EXTINF:-1,Sky Planet
 http://185.186.81.50:8003/play/a0av
 #EXTINF:-1,Sky Drama
 http://185.186.81.50:8003/play/a00w
+#EXTINF:-1,Sky Histori
+http://185.186.81.50:8003/play/a03y
+#EXTINF:-1,Sky Max
+http://185.186.81.50:8003/play/a0b9
+#EXTINF:-1,Sky Shkence
+http://185.186.81.50:8003/play/a03z
+#EXTINF:-1,Tring Shqip
+http://185.186.81.50:8003/play/a06l
+#EXTINF:-1,Tring Super
+http://185.186.81.50:8003/play/a0af
+#EXTINF:-1,Sky Aksion
+http://185.186.81.50:8003/play/a0dv
+#EXTINF:-1,Tring Super
+http://185.186.81.50:8003/play/a0af
+#EXTINF:-1,Tring Action
+http://185.186.81.50:8003/play/a04p
+#EXTINF:-1,24 KITCHEN
+http://185.186.81.50:8003/play/a0cx
+#EXTINF:-1,Tring Fantasy
+http://185.186.81.50:8003/play/a031
+#EXTINF:-1,Tring Life
+http://185.186.81.50:8003/play/a03j
+#EXTINF:-1,TRING KIDS
+http://185.186.81.50:8003/play/a0au
+#EXTINF:-1,Tring Tring
+http://185.186.81.50:8003/play/a0dz
+#EXTINF:-1,7HD
+http://185.186.81.50:8003/play/a0bm
+#EXTINF:-1,MUSE
+http://185.186.81.50:8003/play/a032
+#EXTINF:-1,DOCUBOX
+http://185.186.81.50:8003/play/a0aw
 #EXTINF:-1,FILMBOX
 http://185.186.81.50:8003/play/a0al
 #EXTINF:-1,FILMBOX PLUS
@@ -211,6 +234,7 @@ http://185.186.81.50:8003/play/a0am
 http://185.186.81.50:8003/play/a04p
 #EXTINF:-1,Tring Comedy
 http://185.186.81.50:8003/play/a03x
+#EXTINF:-1,TTT
 http://185.186.81.50:8003/play/a04f
 #EXTINF:-1,FILMBOX PREMIUM
 http://185.186.81.50:8003/play/a0aj
@@ -238,50 +262,25 @@ http://185.186.81.50:8003/play/a03r
 http://185.186.81.50:8003/play/a0do
 #EXTINF:-1,K Sport 5 HD
 http://185.186.81.50:8003/play/a0b1
-#EXTINF:-1,Sky Histori
-http://185.186.81.50:8003/play/a03y
-#EXTINF:-1,Sky Max
-http://185.186.81.50:8003/play/a0b9
-#EXTINF:-1,Sky Shkence
-http://185.186.81.50:8003/play/a03z
-#EXTINF:-1,Tring Super
-http://185.186.81.50:8003/play/a0af
-#EXTINF:-1,Sky Aksion
-http://185.186.81.50:8003/play/a0dv
-#EXTINF:-1,Tring Super
-http://185.186.81.50:8003/play/a0af
-#EXTINF:-1,TRING KIDS
-http://185.186.81.50:8003/play/a0au
-#EXTINF:-1,Tring Tring
-http://185.186.81.50:8003/play/a0dz
+#EXTINF:-1,Discovery Channel
+http://185.186.81.50:8003/play/a01q
 #EXTINF:-1,History Channel
 http://185.186.81.50:8003/play/a057
-#EXTINF:-1,Tring Shqip
-http://185.186.81.50:8003/play/a06l
-
+#EXTINF:-1,Nat Geo Wild
+http://185.186.81.50:8003/play/a03s
 #EXTINF:-1,Kanali 7
 http://185.186.81.50:8003/play/a047
 
 #EXTINF:-1,LIVING
 http://185.186.81.50:8003/play/a03i
-
-#EXTINF:-1,Nat Geo Wild
-http://185.186.81.50:8003/play/a03s
-
 #EXTINF:-1,TV Llapi
 http://185.186.81.50:8003/play/a0bl
-
 #EXTINF:-1,FIGHTBOX
 http://185.186.81.50:8003/play/a0dh
 #EXTINF:-1,JOLLY HD
 http://185.186.81.50:8003/play/a02y
-#EXTINF:-1,K Sport 2 HD
-http://185.186.81.50:8003/play/a09k
 #EXTINF:-1,BALLKANIKA
 http://185.186.81.50:8003/play/a0co
-#EXTINF:-1,Discovery Channel
-http://185.186.81.50:8003/play/a01q
-
 #EXTINF:-1,Duck TV
 http://185.186.81.50:8003/play/a00d
 
@@ -290,12 +289,6 @@ http://185.186.81.50:8003/play/a0e2
 
 #EXTINF:-1,EUROSPORT2 HD
 http://185.186.81.50:8003/play/a0dj
-
-#EXTINF:-1,Tring Life
-http://185.186.81.50:8003/play/a03j
-
-#EXTINF:-1,DOCUBOX
-http://185.186.81.50:8003/play/a0aw
 
 #EXTINF:-1,MTV Hits
 http://185.186.81.50:8003/play/a0cv
