@@ -98,19 +98,24 @@ http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/9.ts
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/839238388?ticket=A8D7687AA7DA6A91C779E0823562D275E06C7882&profile=pass%20
 #EXTINF:-1,Alsat
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/11.ts
-
+#EXTINF:-1,T HD Channel
+http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/12.ts
+#EXTINF:-1,Film Thriller
+http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/49.ts
+#EXTINF:-1,Film Nje HD
+http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/16.ts
 #EXTINF:-1,Film Komedi
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/14.ts
-
+#EXTINF:-1,Film Hits
+http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/15.ts
+#EXTINF:-1,Film Dy HD
+http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/17.ts
 #EXTINF:-1,Film Dram
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/18.ts
-
 #EXTINF:-1,Film Autor
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/19.ts
-
 #EXTINF:-1,Film Aksion
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/13.ts
-
 #EXTINF:-1,EXP Shkenca
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/20.ts
 
