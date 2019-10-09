@@ -196,6 +196,7 @@ http://iptvshqiplive.diskstation.org:9981/stream/channelid/1751914639?ticket=925
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/932658195?ticket=52A921CC97717556F327F0EA579A4F770EC0D64F&profile=pass
 #EXTINF:0,Super Sport News
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/547677311?ticket=A0F7F4814578AA4B472B96DFC17058CCDA211B41&profile=pass
+#EXTM3U
 EXTINF:-1,group-title="LG-TV 2",Tring 3
 http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55388
 #EXTINF:-1,Tring Comedy
