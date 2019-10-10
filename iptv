@@ -82,14 +82,10 @@ http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/35.ts
 
 #EXTINF:-1,Top Channel
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/7.ts
-#EXTINF:-1,Top Channel HD
-http://iptvshqiplive.diskstation.org:9981/stream/channelid/674387384?ticket=6CA4E789DE8CAEEEFC8A1DFFF35D96B9EB09EB84&profile=pass%20
 #EXTINF:-1,Klan HD
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/8.ts
 #EXTINF:-1,Klan TV
 http://95.107.132.222:80/live/localdisk/KlanTV/SA/KlanTV.m3u8
-#EXTINF:-1,Klan TV 2
-http://iptvshqiplive.diskstation.org:9981/stream/channelid/723945705?ticket=79E23F5EDB5E28C7D6990BCDF0DD981C0639580E&profile=pass
 #EXTINF:-1,Klan plus
 http://163.172.39.96:8000/live/AvQeBNooh2/Uq0yEwn8fB/10.ts
 #EXTINF:-1,Vizion Plus
@@ -188,14 +184,6 @@ http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/62.ts
 http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/63.ts
 #EXTINF:-1,SS5
 http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/64.ts
-#EXTINF:0,Super Sport 2
-http://iptvshqiplive.diskstation.org:9981/stream/channelid/893557965?ticket=C3F825D31FA52661492CECC95408DFBB6E346295&profile=pass%20
-#EXTINF:0,Super Sport 3
-http://iptvshqiplive.diskstation.org:9981/stream/channelid/1751914639?ticket=925B021EAFBCCCBC5518074BA9F9A4A18D0BF1AA&profile=pass
-#EXTINF:0,Super Sport 4
-http://iptvshqiplive.diskstation.org:9981/stream/channelid/932658195?ticket=52A921CC97717556F327F0EA579A4F770EC0D64F&profile=pass
-#EXTINF:0,Super Sport News
-http://iptvshqiplive.diskstation.org:9981/stream/channelid/547677311?ticket=A0F7F4814578AA4B472B96DFC17058CCDA211B41&profile=pass
 EXTINF:-1,group-title="LG-TV 2",TOP CHANNAL HD
 http://45.67.159.39:8081/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMTkgMTE6MjE6NTAgQU0maGFzaF92YWx1ZT0zdEhJV3NmbHhPb0JKK0VZYXpwVCtBPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
 #EXTINF:1,TOP CHANNAL
