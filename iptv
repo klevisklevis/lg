@@ -187,139 +187,273 @@ http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/62.ts
 http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/63.ts
 #EXTINF:-1,SS5
 http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/64.ts
-#EXTINF:-1,group-title="LG-TV 2",TOP CHANNAL HD
-http://45.67.159.39:8081/live/top/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMTkgMTE6MjE6NTAgQU0maGFzaF92YWx1ZT0zdEhJV3NmbHhPb0JKK0VZYXpwVCtBPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,TOP CHANNAL
-http://45.67.159.39:8081/live/top1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAxOSAxMTozODo0NCBBTSZoYXNoX3ZhbHVlPTBFdUpsMVQvNEhiTVFBRDRyZkU4aUE9PSZ2YWxpZG1pbnV0ZXM9MiZzdHJtX2xlbj01=
-#EXTINF:1,KLAN HD
-http://45.67.159.39:8081/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAxOSAxMTozODo0NCBBTSZoYXNoX3ZhbHVlPTBFdUpsMVQvNEhiTVFBRDRyZkU4aUE9PSZ2YWxpZG1pbnV0ZXM9MiZzdHJtX2xlbj01=
-#EXTINF:1,KLAN TV
-http://45.67.159.39:8081/live/klan1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOSAxOjE1OjI5IEFNJmhhc2hfdmFsdWU9dUVPMERJK3NIS25mODV5dzZLcldsUT09JnZhbGlkbWludXRlcz0yJnN0cm1fbGVuPTU=
-#EXTINF:1,VIZION + HD
-http://45.67.159.39:8081/live/vizionplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAxOSAxMTozODo0NCBBTSZoYXNoX3ZhbHVlPTBFdUpsMVQvNEhiTVFBRDRyZkU4aUE9PSZ2YWxpZG1pbnV0ZXM9MiZzdHJtX2xlbj01
-#EXTINF:1,VIZION + 
-http://45.67.159.39:8081/live/vizionplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOSAxOjIxOjMzIEFNJmhhc2hfdmFsdWU9anN1TWtCL2FLYTNlNkdEQXBlMWQ1UT09JnZhbGlkbWludXRlcz0yJnN0cm1fbGVuPTU=
-#EXTINF:1,KLAN PLUS HD
-http://45.67.159.39:8081/live/klanplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMTkgMTE6MjI6NTcgQU0maGFzaF92YWx1ZT0rdTVyUHFNV1hUdGw3VUErY2Zwd3dnPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,KLAN PLUS
-http://45.67.159.39:8081/live/klanplus1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOSAxOjI3OjA1IEFNJmhhc2hfdmFsdWU9dW9RWWdHRnJpcUFPdDMyNDVqNTdZZz09JnZhbGlkbWludXRlcz0yJnN0cm1fbGVuPTU=
-#EXTINF:1,ABC NEWS
-http://45.67.159.39:8081/live/abcnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6MjA6MTcgQU0maGFzaF92YWx1ZT0wMmh6LzZLS1NvQVRrQUdsOWl0bjhRPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,ABC NEWS HD
-http://45.67.159.39:8081/live/abcnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,AL SAT MK
-http://45.67.159.39:8081/live/alsat/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6MTg6MTUgQU0maGFzaF92YWx1ZT1aRjYwSTlnS3hBcWh2QXlCR0FGTW1RPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,AL SAT MK HD
-http://45.67.159.39:8081/live/alsat/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,KLAN MK
-http://45.67.159.39:8081/live/klanmk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6MTc6MTMgQU0maGFzaF92YWx1ZT04MG1mRXFKSVB4Q2pBR3BUckJsa2N3PT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,KLAN MK HD
-http://45.67.159.39:8081/live/klanmk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,KLAN KOSOVA
-http://45.67.159.39:8081/live/klanks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6MTY6MzkgQU0maGFzaF92YWx1ZT1Rc0cvY2cvSmtDTExJemxzTHBFUHZBPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,KLAN KOSOVA HD
-http://45.67.159.39:8081/live/klanks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,BBF 
-http://45.67.159.39:8081/live/bbf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6NDM6NTEgQU0maGFzaF92YWx1ZT1YMDZ2Vkc2cHp6dkhvc2VOMnpHMlhnPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,BBF HD
-http://45.67.159.39:8081/live/bbf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,RTV PULS
-http://rtvpuls.itprishtina.com:8005/rtvpuls-eset/index.m3u8
-#EXTINF:1,TRING JOLLY HD
-http://45.67.159.39:8081/live/jolly/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6NDM6NTEgQU0maGFzaF92YWx1ZT1YMDZ2Vkc2cHp6dkhvc2VOMnpHMlhnPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,TRING JOLLY 
-http://45.67.159.39:8081/live/jolly/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,CUFO
-http://45.67.159.39:8081/live/cufo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6NDI6MzggQU0maGFzaF92YWx1ZT1lSHBSNWxxTUpUQjFJQTV4cFNYS2ZnPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,CUFO HD
-http://45.67.159.39:8081/live/cufo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,JUNIOR TV
-http://45.67.159.39:8081/live/junior/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6NDM6NTEgQU0maGFzaF92YWx1ZT1YMDZ2Vkc2cHp6dkhvc2VOMnpHMlhnPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,JUNIOR TV HD
-http://45.67.159.39:8081/live/junior/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,BANG BANG
-http://45.67.159.39:8081/live/bang1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6NDI6MTUgQU0maGFzaF92YWx1ZT1vL3RrV3piN29aeHNsRWVORlM5Ui9nPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,BANG BANG HD
-http://45.67.159.39:8081/live/bang1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,TRING TRING
-http://45.67.159.39:8081/live/tring/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6NDM6NTEgQU0maGFzaF92YWx1ZT1YMDZ2Vkc2cHp6dkhvc2VOMnpHMlhnPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,TRING TRING HD
-http://45.67.159.39:8081/live/tring/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,TRING SHQIP
-http://45.67.159.39:8081/live/tshqip/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6NDM6NTEgQU0maGFzaF92YWx1ZT1YMDZ2Vkc2cHp6dkhvc2VOMnpHMlhnPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,TRING SHQIP HD
-http://45.67.159.39:8081/live/tshqip/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,NEWS 24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:1,ORA NEWS
-http://145.239.2.153:8081/oranews/live/playlist.m3u8
-#EXTINF:1,REPORT TV
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-#EXTINF:1,ESP SHKENC
-http://45.67.159.39:8081/live/shkence1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6MjY6NTEgQU0maGFzaF92YWx1ZT1EVHV2cjl4MENaa0dWdVUrMjJUSWJ3PT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,ESP SHKENC HD
-http://45.67.159.39:8081/live/shkence1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,ESP NATYRE
-http://45.67.159.39:8081/live/natyre1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6Mjg6MTcgQU0maGFzaF92YWx1ZT1yNGJrNWh6UzdLNFpuVDhSa3J5dGxBPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,ESP NATYRE HD
-http://45.67.159.39:8081/live/natyre1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,ESP HISTORI
-http://45.67.159.39:8081/live/histori1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6Mjc6NDAgQU0maGFzaF92YWx1ZT1MS2poTGNVMUszbjNyRTdIOWw2cmt3PT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,ESP HISTORI HD
-http://45.67.159.39:8081/live/histori1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,RTV 21
-http://85.10.194.182:8081/live/rtv21/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6MTk6MDEgQU0maGFzaF92YWx1ZT10dWlwYURlcGVJeEUySHlZNDl1Z0p3PT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,RTV 21 HD
-http://45.67.159.39:8081/live/rtv21/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,KOHA TV
-http://85.10.194.182:8081/live/ktv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6MTk6MjIgQU0maGFzaF92YWx1ZT1lN0ZlajAvMmx5L0lxbW5EUS8xcnhnPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,KOHA TV HD
-http://45.67.159.39:8081/live/ktv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,TOP NEWS
-http://45.67.159.39:8081/live/topnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6NDA6MzYgQU0maGFzaF92YWx1ZT1yYW1ydm5yc3hTcTBmL2IvSUNwVGlnPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,TOP NEWS HD
-http://45.67.159.39:8081/live/topnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,FILM ACTION
-http://45.67.159.39:8081/live/aksion1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6MzE6MzIgQU0maGFzaF92YWx1ZT1mRXp3RVFFbGo4OUJaekgyby9UWTRnPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,FILM ACTION HD
-http://45.67.159.39:8081/live/aksion1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,SHQIP ACTION
-http://45.67.159.39:8081/live/shqipaksion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6NDA6MDMgQU0maGFzaF92YWx1ZT00d25pTjllb2RyRjV6bjNXYmVZSXp3PT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,SHQIP ACTION HD
-http://45.67.159.39:8081/live/shqipaksion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,TRING ACTION
-http://45.67.159.39:8081/live/taksion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6MzI6MzcgQU0maGFzaF92YWx1ZT1XM2FDWHhZOUlNYkxOOWRmWmhHTmpnPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,TRING AKTION HD
-http://45.67.159.39:8081/live/taksion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,TRING PLANET
-http://45.67.159.39:8081/live/t-planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6Mjk6NDggQU0maGFzaF92YWx1ZT1LU1RYTlkvVEh0QjlLbEljS0lmNm1BPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,TRING WORLD
-http://45.67.159.39:8081/live/t-world/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6MzA6MTcgQU0maGFzaF92YWx1ZT1kQXhUZmRPeHgrdldVYzlaUWZVNHBRPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,TRING WORLD HD
-http://45.67.159.39:8081/live/t-world/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,TRING HISTORI
-http://85.10.194.182:8081/live/t-histori/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMTI6Mjk6MTUgQU0maGFzaF92YWx1ZT1CYXJZMGlFajdWZHVLOTVIVWpjMVd3PT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,TRING HISTORI HD
-http://45.67.159.39:8081/live/t-histori/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMjowMDo0NyBBTSZoYXNoX3ZhbHVlPXBhaUJyeXhOUk1MRTdnOG82Y1o4c1E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,SUPERSPORT 1
-http://45.67.159.39:8081/live/s1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMTkgODo1Nzo0NiBBTSZoYXNoX3ZhbHVlPXJWVld2RUF3eE4weDhJaVFPc1RnaEE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,SUPERSPORT 1 HD
-http://45.67.159.39:8081/live/s1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMTkgMTE6MjA6MDMgQU0maGFzaF92YWx1ZT1JVFV1UWEveHowOUNYWC9KM1JiN3JBPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,SUPERSPORT 2
-http://45.67.159.39:8081/live/s2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMTkgODo1ODowNyBBTSZoYXNoX3ZhbHVlPS9iVEpmTlh3UkhsOHNQYjhrM1FGMmc9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,SUPERSPORT 2 HD
-http://45.67.159.39:8081/live/s2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMTkgMTE6MjA6MzcgQU0maGFzaF92YWx1ZT1CTEhXa2VrYWVGaWZqazZzTGxUVjNRPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,SUPERSPORT 3
-http://45.67.159.39:8081/live/ss3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMTkgODo1ODozMiBBTSZoYXNoX3ZhbHVlPWFjd01uN29vNXE1aTFUbVUwY0lUNUE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,SUPWRSPORT 3 HD
-http://54.38.216.79:8081/live/ss3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAxOSA0OjU5OjQ1IFBNJmhhc2hfdmFsdWU9Yk13UUFwM0ZrT2xLaEZSTkw3QmVxUT09JnZhbGlkbWludXRlcz0yJnN0cm1fbGVuPTU==
-#EXTINF:1,SUPERSPORT 4
-http://45.67.159.39:8081/live/s4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMTkgODo1ODo1NyBBTSZoYXNoX3ZhbHVlPWtjM3IzVE9MdnEzZ2dNL1V4TGVSTVE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,SUPERSPORT 4 HD
-http://45.67.159.39:8081/live/s4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMTkgMTE6MjE6MjIgQU0maGFzaF92YWx1ZT1CTnhyNGc0TjRFam9ISFhTTVEyTG5RPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
-#EXTINF:1,SUPERSPORT 5
-http://45.67.159.39:8081/live/ss5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMToyNjozMiBBTSZoYXNoX3ZhbHVlPUg0blpOTjc3OE00dUNCRTNFLzRScVE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,sky sport 1 uk
-http://45.67.159.39:8081/live/sky1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTkgMToyNjo1OSBBTSZoYXNoX3ZhbHVlPWsvai9XSXlsRk5odDFBdk0vNUZzaEE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
-#EXTINF:1,sky sport 1 uk
-http://54.38.216.79:8081/live/sky1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAxOSAxMToxMjozOSBQTSZoYXNoX3ZhbHVlPXAwbzVGREJabTM0V1QyeDNiS1hrcnc9PSZ2YWxpZG1pbnV0ZXM9MiZzdHJtX2xlbj01
+#EXTINF:-1,group-title="LG-TV 2",Tring 3
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55388
+#EXTINF:-1,Tring Comedy
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55387
+#EXTINF:-1,Tring Fantasy
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55386
+#EXTINF:-1,Tring Histori
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55385
+#EXTINF:-1,Tring Live
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55384
+#EXTINF:-1,Tring Max
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55383
+#EXTINF:-1,Tring Planet
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55382
+#EXTINF:-1,Tring Shqip
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55381
+#EXTINF:-1,Tring Smile
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55380
+#EXTINF:-1,Tring Sport 1
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55379
+#EXTINF:-1,Tring Sport 1 HD (B)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55378
+#EXTINF:-1,Tring Sport 2
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55377
+#EXTINF:-1,Tring Sport 2 HD (B)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55376
+#EXTINF:-1,Tring Sport 3
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55375
+#EXTINF:-1,Tring Sport 4
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55374
+#EXTINF:-1,tring Sport News
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55373
+#EXTINF:-1,Tring Super
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55372
+#EXTINF:-1,Tring Tring
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55371
+#EXTINF:-1,Tring World
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55370
+#EXTINF:-1,RTK
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55437
+#EXTINF:-1,RTK (B)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55436
+#EXTINF:-1,RTK 2
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55435
+#EXTINF:-1,RTK 3
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55434
+#EXTINF:-1,RTSH Shqip
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55433
+#EXTINF:-1,RTV 21 HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55432
+#EXTINF:-1,RTV 21 HD (B)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55431
+#EXTINF:-1,RTV 21 HD Junior
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55430
+#EXTINF:-1,RTV 21 HD Popullore
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55429
+#EXTINF:-1,RTV 21 M HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55428
+#EXTINF:-1,RTV 21 Plus
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55427
+#EXTINF:-1,RTV Pendimi
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55426
+#EXTINF:-1,Alb Humor
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55489
+#EXTINF:-1,24 Kitchen
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55491
+#EXTINF:-1,A1 Shqiptare
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55490
+#EXTINF:-1,Alsat-M
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55488
+#EXTINF:-1,Alsat-M HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55487
+#EXTINF:-1,Baby TV
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55486
+#EXTINF:-1,Bang Bang
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55485
+#EXTINF:-1,Besa TV
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55484
+#EXTINF:-1,Click HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55483
+#EXTINF:-1,Cufo TV
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55482
+#EXTINF:-1,Dasma
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55481
+#EXTINF:-1,Digi Gold
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55480
+#EXTINF:-1,Digi Gold 2
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55479
+#EXTINF:-1,Era TV
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55478
+#EXTINF:-1,Euro AL
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55477
+#EXTINF:-1,First TV
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55464
+#EXTINF:-1,FirstTV (B)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55463
+#EXTINF:-1,Folk
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55462
+#EXTINF:-1,Folklorit  (AL)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55461
+#EXTINF:-1,IN TV
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55460
+#EXTINF:-1,Islam TV
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55459
+#EXTINF:-1,Jolly HD Cinema
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55458
+#EXTINF:-1,Kanali 9
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55456
+#EXTINF:-1,Klan HD (AL)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55453
+#EXTINF:-1,Klan HD Beckup
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55452
+#EXTINF:-1,Klan Kosova
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55451
+#EXTINF:-1,Klan Kosova (B)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55450
+#EXTINF:-1,Klan TV UHD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55449
+#EXTINF:-1,KTV.
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55448
+#EXTINF:-1,KTV (B)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55447
+#EXTINF:-1,News 24
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55442
+#EXTINF:-1,Opoja
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55441
+#EXTINF:-1,Ora News
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55440
+#EXTINF:-1,PlusHD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55439
+#EXTINF:-1,RRokum
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55438
+#EXTINF:-1,saudia Quran
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55425
+#EXTINF:-1,Sky Shqip
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55411
+#EXTINF:-1,T  HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55396
+#EXTINF:-1,T7
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55395
+#EXTINF:-1,TipTV
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55394
+#EXTINF:-1,Travel  Channel
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55389
+#EXTINF:-1,tV Bujanovac
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55369
+#EXTINF:-1,Tv Globi Gostivar
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55368
+#EXTINF:-1,TV Koha Tetovë HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55367
+#EXTINF:-1,tV Mitrovica
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55366
+#EXTINF:-1,TV Opinion
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55365
+#EXTINF:-1,TV Presheva
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55364
+#EXTINF:-1,TV Shenja
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55363
+#EXTINF:-1,TV Tirana
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55362
+#EXTINF:-1,TV Uskana
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55361
+#EXTINF:-1,Tvsh
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55360
+#EXTINF:-1,Zico TV
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55358
+#EXTINF:-1,Zjarr TV
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55357
+#EXTINF:-1,Vision Plus
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55359
+#EXTINF:-1,Junior .
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55457
+#EXTINF:-1,Explorer History
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55476
+#EXTINF:-1,Explorer Natyre
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55475
+#EXTINF:-1,Explorer Shkence
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55474
+#EXTINF:-1,Film Aksion
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55473
+#EXTINF:-1,Film Autor
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55472
+#EXTINF:-1,Film Drame
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55471
+#EXTINF:-1,Film Dy HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55470
+#EXTINF:-1,Film Hits
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55469
+#EXTINF:-1,Film Komedi
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55468
+#EXTINF:-1,Film Nje HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55467
+#EXTINF:-1,Film Stinet
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55466
+#EXTINF:-1,Film Thriler
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55465
+#EXTINF:-1,Kino Action
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55455
+#EXTINF:-1,Kino Premiere 2
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55454
+#EXTINF:-1,ShqipTV Aksion HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55424
+#EXTINF:-1,ShqipTV Film HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55423
+#EXTINF:-1,ShqipTV Hinidi HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55422
+#EXTINF:-1,ShqipTV Horror HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55421
+#EXTINF:-1,ShqipTV Humor HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55420
+#EXTINF:-1,ShqipTV Islam HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55419
+#EXTINF:-1,ShqipTV Jete HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55418
+#EXTINF:-1,ShqipTV Komedi HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55417
+#EXTINF:-1,ShqipTV Mimi HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55416
+#EXTINF:-1,ShqipTV Qifteli HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55415
+#EXTINF:-1,ShqipTV Stupcat HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55414
+#EXTINF:-1,ShqipTV Tom & Jerry HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55413
+#EXTINF:-1,ShqipTV Western HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55412
+#EXTINF:-1,SS1 HD (B)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55410
+#EXTINF:-1,SS2 HD (B)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55409
+#EXTINF:-1,SS3 HD (B)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55408
+#EXTINF:-1,SS4 HD (B)
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55407
+#EXTINF:-1,Top Channel Beckup
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55393
+#EXTINF:-1,Top Channel HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55392
+#EXTINF:-1,Top Channel SD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55391
+#EXTINF:-1,Top Channel UHD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55390
+#EXTINF:-1,Kujtesa Sport 1
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55446
+#EXTINF:-1,Kujtesa Sport 2
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55445
+#EXTINF:-1,Kujtesa Sport 3
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55444
+#EXTINF:-1,Kujtesa Sport 4
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55443
+#EXTINF:-1,Supersport 1
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55406
+#EXTINF:-1,SuperSport 1 HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55405
+#EXTINF:-1,Supersport 2
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55404
+#EXTINF:-1,SuperSport 2 HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55403
+#EXTINF:-1,Supersport 3
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55402
+#EXTINF:-1,SuperSport 3 HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55401
+#EXTINF:-1,Supersport 4
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55400
+#EXTINF:-1,SuperSport 4 HD
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55399
+#EXTINF:-1,Supersport Kosova 1
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55398
+#EXTINF:-1,Supersport Kosova 2
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55397
