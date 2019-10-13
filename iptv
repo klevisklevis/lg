@@ -140,26 +140,6 @@ http://163.172.39.96:8000/live/Shqiptv/loku/62.ts
 http://163.172.39.96:8000/live/Shqiptv/loku/63.ts
 #EXTINF:-1,SS5
 http://163.172.39.96:8000/live/Shqiptv/loku/64.ts
-#EXTINF:-1,Sky Sport Serie A HD
-http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/70.ts
-#EXTINF:-1,TS1
-http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/65.ts
-#EXTINF:-1,TS2
-http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/66.ts
-#EXTINF:-1,TS3
-http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/67.ts
-#EXTINF:-1,TS4
-http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/68.ts
-#EXTINF:-1,SS1
-http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/60.ts
-#EXTINF:-1,SS2
-http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/61.ts
-#EXTINF:-1,SS3
-http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/62.ts
-#EXTINF:-1,SS4
-http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/63.ts
-#EXTINF:-1,SS5
-http://163.172.39.96:8000/live/sx0ScCwODo/paXBJiGlyn/64.ts
 #EXTINF:-1,group-title="LG-TV 2",Tring 3
 http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55388
 #EXTINF:-1,Tring Comedy
