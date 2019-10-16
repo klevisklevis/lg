@@ -41,8 +41,7 @@ http://95.107.132.131:3344/udp/238.20.15.5:9009
 #EXTINF:-1,Report TV
 rtmp://66.55.93.204/livepkgr/stream?adbe-live-event=report
 #EXTINF:-1,ORA NEWS
-http://185.186.81.50:8003/play/a01a
-
+https://tv.oranews.tv:443/channelone/channelone/playlist.m3u8
 #EXTINF:-1,NEWS 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1,Tring Action
