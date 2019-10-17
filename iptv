@@ -44,6 +44,8 @@ rtmp://66.55.93.204/livepkgr/stream?adbe-live-event=report
 https://tv.oranews.tv:443/channelone/channelone/playlist.m3u8
 #EXTINF:-1,NEWS 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,AlbMusic
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1,Tring Action
 http://163.172.39.96:8000/live/Tvshqip/new/50.ts
 #EXTINF:-1,Film Thriller
