@@ -81,7 +81,8 @@ http://51.15.3.71:8081/live/TOPCHANNEL/chunks.m3u8?nimblesessionid=5231119&wmsAu
 #EXTINF:-1,Klan HD
 http://163.172.39.96:8000/live/Tvshqip/new/8.ts
 #EXTINF:-1,Klan TV
-http://51.15.3.71:8081/live/KLANTV/chunks.m3u8?nimblesessionid=5231286&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAxOSAxMDo1MjoxMiBQTSZoYXNoX3ZhbHVlPUhWNjBrdi9uUFRIdm0vNURCWDR6b2c9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj01#EXTINF:-1,Klan plus
+http://51.15.3.71:8081/live/KLANTV/chunks.m3u8?nimblesessionid=5231286&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAxOSAxMDo1MjoxMiBQTSZoYXNoX3ZhbHVlPUhWNjBrdi9uUFRIdm0vNURCWDR6b2c9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj01
+#EXTINF:-1,Klan plus
 http://163.172.39.96:8000/live/Tvshqip/new/10.ts
 #EXTINF:-1,Vizion Plus
 http://163.172.39.96:8000/live/Tvshqip/new/9.ts
