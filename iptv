@@ -5,8 +5,8 @@ http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
 http://edge01eu.ekranet.com:80/elroditv_240p/index.m3u8?e=asdasd&c=elroditv_240p&mac=&apps=elroditv_240p&appsfinal=appsfinal
 #EXTINF:-1,Elrodi TV HD
 http://stream.shqiptv.com:7080/ELRODI-8718-sd/index.m3u8
-#EXTINF:-1,BBF 
-http://45.67.159.39:8081/live/bbf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAxOSAxMjo1Nzo0MiBBTSZoYXNoX3ZhbHVlPXgvNFJYM2VQSDVKeHVsZThJMmh5Zmc9PSZ2YWxpZG1pbnV0ZXM9MiZzdHJtX2xlbj01
+#EXTINF:-1,AlbMusic
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1,RTSH Shqip
 http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
 
@@ -44,8 +44,6 @@ rtmp://66.55.93.204/livepkgr/stream?adbe-live-event=report
 https://tv.oranews.tv:443/channelone/channelone/playlist.m3u8
 #EXTINF:-1,NEWS 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1,AlbMusic
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1,Tring Action
 http://163.172.39.96:8000/live/Tvshqip/new/50.ts
 #EXTINF:-1,Film Thriller
