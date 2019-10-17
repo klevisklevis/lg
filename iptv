@@ -76,6 +76,8 @@ http://163.172.39.96:8000/live/Tvshqip/new/34.ts
 http://163.172.39.96:8000/live/Tvshqip/new/35.ts
 #EXTINF:-1,Top Channel
 http://163.172.39.96:8000/live/Tvshqip/new/7.ts
+#EXTINF:-1,Top Channel SD
+http://51.15.3.71:8081/live/TOPCHANNEL/chunks.m3u8?nimblesessionid=5231119&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAxOSAxMDozMzoxOCBQTSZoYXNoX3ZhbHVlPXE2bSswMDd0N3pwRzdGY1RVV3YwOFE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj01
 #EXTINF:-1,Klan TV
 http://163.172.39.96:8000/live/Tvshqip/new/8.ts
 #EXTINF:-1,Klan plus
