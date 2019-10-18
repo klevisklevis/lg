@@ -145,11 +145,11 @@ http://163.172.39.96:8000/live/Shqiptv/loku/62.ts
 http://163.172.39.96:8000/live/Shqiptv/loku/63.ts
 #EXTINF:-1,SS5
 http://163.172.39.96:8000/live/Shqiptv/loku/64.ts
-#EXTINF:-1,KUJTESA SPORT 1
-http://163.172.84.252:8888/live/Lk/tv/4.ts
-#EXTINF:-1,KUJTESA SPORT 2
-http://163.172.84.252:8888/live/Lk/tv/3.ts
-#EXTINF:-1,KUJTESA SPORT 3
-http://163.172.84.252:8888/live/Lk/tv/2.ts
 #EXTINF:-1,KUJTESA SPORT 4
-http://163.172.84.252:8888/live/Lk/tv/1.ts
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/1
+#EXTINF:-1,KUJTESA SPORT 3
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/2
+#EXTINF:-1,KUJTESA SPORT 2
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/3
+#EXTINF:-1,KUJTESA SPORT 1
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/4
