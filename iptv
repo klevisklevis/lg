@@ -77,8 +77,10 @@ http://51.159.3.14:8081/live/TRING3PLUS/chunks.m3u8?nimblesessionid=2661754&wmsA
 http://163.172.39.96:8000/live/Tvshqip/new/36.ts
 #EXTINF:-1,Junior
 http://163.172.39.96:8000/live/Tvshqip/new/34.ts
-#EXTINF:-1,Jolly HD
+#EXTINF:-1,Jolly 
 http://163.172.39.96:8000/live/Tvshqip/new/35.ts
+#EXTINF:-1,Jolly HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/549
 #EXTINF:-1,Top Channel
 http://163.172.39.96:8000/live/Tvshqip/new/7.ts
 #EXTINF:-1,Top Channel SD
