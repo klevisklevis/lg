@@ -7,30 +7,20 @@ http://edge01eu.ekranet.com:80/elroditv_240p/index.m3u8?e=asdasd&c=elroditv_240p
 http://stream.shqiptv.com:7080/ELRODI-8718-sd/index.m3u8
 #EXTINF:-1,AlbMusic
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-
 #EXTINF:-1,RTSH Shqip
 http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
-
 #EXTINF:-1,RTSH Plus
 http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
-
 #EXTINF:-1,RTSH Muzike
 http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
-
-
 #EXTINF:-1,RTSH Film
 http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
-
 #EXTINF:-1,RTSH Femije
 http://79.106.48.2/live/rtsh_femije_ott_p3/playlist.m3u8
-
 #EXTINF:-1,RTSH 3
 http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
-#EXTINF:-1,BBF 
-http://45.67.159.39:8081/live/bbf/chunks.m3u8?nimblesessionid=15192546&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAxOSAxMTo0MDoxOCBQTSZoYXNoX3ZhbHVlPXZOd1k0aDFQTVdNUkExTzhGemNsYmc9PSZ2YWxpZG1pbnV0ZXM9MiZzdHJtX2xlbj01
 #EXTINF:-1,RTSH 2
 http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
-
 #EXTINF:-1,RTSH 1
 http://79.106.48.2/live/rtsh_1ott_p4/playlist.m3u8
 #EXTINF:-1,RTSH 24
@@ -40,7 +30,7 @@ http://edge01eu.ekranet.com:80/scantv/index.m3u8?e=asdasd&c=scantv&mac=&apps=sca
 #EXTINF:-1,ABC News
 http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:-1,TopNews
-https://www.dailymotion.com/cdn/live/video/x6inuzo.m3u8?sec=blx-n_3QXB1bkT5J5Bu09vDTYqJjgChp7IhuJnY3IwvK6L63Elge06fziRNYp2BxEgHHlIb3vG6kq46gYNGuRQ
+https://www.dailymotion.com/cdn/live/video/x6inuzo.m3u8?sec=blx-n_3QXB1bkT5J5Bu09nzBEnSp02RLrmeCyBI9RvL40wdjVsyjfCZIf_oijDzf_GU7FRwnkA5e1lGzXqiT8g
 #EXTINF:-1,Report TV HD
 http://95.107.132.131:3344/udp/238.20.15.5:9009
 #EXTINF:-1,Report TV
