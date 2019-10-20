@@ -3,8 +3,6 @@
 http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
 #EXTINF:-1,Elrodi TV
 http://edge01eu.ekranet.com:80/elroditv_240p/index.m3u8?e=asdasd&c=elroditv_240p&mac=&apps=elroditv_240p&appsfinal=appsfinal
-#EXTINF:-1,Elrodi TV HD
-http://stream.shqiptv.com:7080/ELRODI-8718-sd/index.m3u8
 #EXTINF:-1,AlbMusic
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1,RTSH Shqip
