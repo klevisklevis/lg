@@ -49,6 +49,46 @@ rtmp://66.55.93.204/livepkgr/stream?adbe-live-event=report
 https://tv.oranews.tv:443/channelone/channelone/playlist.m3u8
 #EXTINF:-1,NEWS 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,Tring 3 Plus
+http://xt.bossna-caffe.com:25461/live/1234567/1234567/1659.ts
+#EXTINF:-1,3 Plus
+http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55388
+#EXTINF:-1,Jolly HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/549
+#EXTINF:-1,Top Channel SD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/904
+#EXTINF:-1,Klan HD
+http://95.107.132.222:80/live/localdisk/KlanTV/SA/KlanTV.m3u8
+#EXTINF:-1,Top Channel
+http://163.172.39.96:8000/live/Tvshqip/new/7.ts
+#EXTINF:-1,Klan TV
+http://163.172.39.96:8000/live/Tvshqip/new/8.ts
+#EXTINF:-1,Klan plus
+http://163.172.39.96:8000/live/Tvshqip/new/10.ts
+#EXTINF:-1,Vizion Plus
+http://163.172.39.96:8000/live/Tvshqip/new/9.ts
+#EXTINF:-1,film famly
+http://163.172.39.96:8000/live/Tvshqip/new/74.ts
+#EXTINF:-1,X shkence
+http://163.172.39.96:8000/live/Tvshqip/new/75.ts
+#EXTINF:-1,X Natyre
+http://163.172.39.96:8000/live/Tvshqip/new/76.ts
+#EXTINF:-1,X Histori HD
+http://163.172.39.96:8000/live/Tvshqip/new/78.ts
+#EXTINF:-1,X dark
+http://163.172.39.96:8000/live/Tvshqip/new/79.ts
+#EXTINF:-1,X action
+http://163.172.39.96:8000/live/Tvshqip/new/80.ts
+#EXTINF:-1,X  Humor
+http://163.172.39.96:8000/live/Tvshqip/new/77.ts
+#EXTINF:-1,x prem 1
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/5
+#EXTINF:-1,x prem 2
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/6
+#EXTINF:-1,x prem 3
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/7
+#EXTINF:-1,x prem 4
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/8
 #EXTINF:-1,Tring Action
 http://163.172.39.96:8000/live/Tvshqip/new/50.ts
 #EXTINF:-1,Film Thriller
@@ -70,29 +110,13 @@ http://163.172.39.96:8000/live/Tvshqip/new/39.ts
 #EXTINF:-1,Tring Fantazi
 http://163.172.39.96:8000/live/Tvshqip/new/44.ts
 #EXTINF:-1,Tring 3 Plus
-http://xt.bossna-caffe.com:25461/live/1234567/1234567/1659.ts
-#EXTINF:-1,3 Plus
-http://nettv-xcruiser.com:8000/4NfrcwWxMg/2hvEVk6BkH/55388
+http://163.172.39.96:8000/live/Tvshqip/new/45.ts
 #EXTINF:-1,Smil
 http://163.172.39.96:8000/live/Tvshqip/new/36.ts
 #EXTINF:-1,Junior
 http://163.172.39.96:8000/live/Tvshqip/new/34.ts
-#EXTINF:-1,Jolly 
-http://163.172.39.96:8000/live/Tvshqip/new/35.ts
 #EXTINF:-1,Jolly HD
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/549
-#EXTINF:-1,Top Channel
-http://163.172.39.96:8000/live/Tvshqip/new/7.ts
-#EXTINF:-1,Top Channel SD
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/904
-#EXTINF:-1,Klan HD
-http://163.172.39.96:8000/live/Tvshqip/new/8.ts
-#EXTINF:-1,Klan TV
-http://95.107.132.222:80/live/localdisk/KlanTV/SA/KlanTV.m3u8
-#EXTINF:-1,Klan plus
-http://163.172.39.96:8000/live/Tvshqip/new/10.ts
-#EXTINF:-1,Vizion Plus
-http://163.172.39.96:8000/live/Tvshqip/new/9.ts
+http://163.172.39.96:8000/live/Tvshqip/new/35.ts
 #EXTINF:-1,Alsat
 http://163.172.39.96:8000/live/Tvshqip/new/11.ts
 #EXTINF:-1,T HD Channel
@@ -121,14 +145,20 @@ http://163.172.39.96:8000/live/Tvshqip/new/22.ts
 http://163.172.39.96:8000/live/Tvshqip/new/23.ts
 #EXTINF:-1,Bang Bang
 http://163.172.39.96:8000/live/Tvshqip/new/25.ts
+#EXTINF:-1,KUJTESA SPORT 4
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/1
+#EXTINF:-1,KUJTESA SPORT 3
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/2
+#EXTINF:-1,KUJTESA SPORT 2
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/3
+#EXTINF:-1,KUJTESA SPORT 1
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/4
 #EXTINF:-1,Arena 3
 http://163.172.39.96:8000/live/Shqiptv/loku/73.ts
 #EXTINF:-1,Arena 2
 http://163.172.39.96:8000/live/Shqiptv/loku/72.ts
 #EXTINF:-1,Arena 1
 http://163.172.39.96:8000/live/Shqiptv/loku/71.ts
-#EXTINF:-1,Sky Sport Serie A HD
-http://163.172.39.96:8000/live/Shqiptv/loku/70.ts
 #EXTINF:-1,TS1
 http://163.172.39.96:8000/live/Shqiptv/loku/65.ts
 #EXTINF:-1,TS2
@@ -147,11 +177,5 @@ http://163.172.39.96:8000/live/Shqiptv/loku/62.ts
 http://163.172.39.96:8000/live/Shqiptv/loku/63.ts
 #EXTINF:-1,SS5
 http://163.172.39.96:8000/live/Shqiptv/loku/64.ts
-#EXTINF:-1,KUJTESA SPORT 4
-http://163.172.84.252:25461/live/Testloku/mQdI6mwyi5/1.m3u8
-#EXTINF:-1,KUJTESA SPORT 3
-http://163.172.84.252:25461/live/Testloku/mQdI6mwyi5/2.m3u8
-#EXTINF:-1,KUJTESA SPORT 2
-http://163.172.84.252:25461/live/Testloku/mQdI6mwyi5/3.m3u8
-#EXTINF:-1,KUJTESA SPORT 1
-http://163.172.84.252:25461/live/Testloku/mQdI6mwyi5/4.m3u8
+
+
