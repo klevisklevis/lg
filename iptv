@@ -161,5 +161,22 @@ http://163.172.39.96:8000/live/Shqiptv/loku/62.ts
 http://163.172.39.96:8000/live/Shqiptv/loku/63.ts
 #EXTINF:-1,SS5
 http://163.172.39.96:8000/live/Shqiptv/loku/64.ts
-
+#EXTINF:-1,Bein_Sport_1_HD
+http://8d4a1a46-stream.nmbs.top/c/8/722.m3u8
+#EXTINF:-1,Bein_Sport_2_HD
+http://8d4a1a46-stream.nmbs.top/c/8/723.m3u8
+#EXTINF:-1,Bein_Sport_3_HD
+http://8d4a1a46-stream.nmbs.top/c/8/724.m3u8
+#EXTINF:-1,Bein_Sport_4_HD
+http://8d4a1a46-stream.nmbs.top/c/8/725.m3u8
+#EXTINF:-1,Bein_Sport_5_HD
+http://8d4a1a46-stream.nmbs.top/c/8/726.m3u8
+#EXTINF:-1,Bein_Sport_6_HD
+http://8d4a1a46-stream.nmbs.top/c/8/727.m3u8
+#EXTINF:-1,Bein_Sport_7_HD
+http://8d4a1a46-stream.nmbs.top/c/8/728.m3u8
+#EXTINF:-1,Bein_Sport_8_HD
+http://8d4a1a46-stream.nmbs.top/c/8/729.m3u8
+#EXTINF:-1,Bein_Sport_9_HD
+http://8d4a1a46-stream.nmbs.top/c/8/730.m3u8
 
