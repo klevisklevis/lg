@@ -195,4 +195,19 @@ http://8d4a1a46-stream.nmbs.top/c/8/738.m3u8
 http://8d4a1a46-stream.nmbs.top/c/8/737.m3u8
 #EXTINF:-1,Arena Sport 1
 http://8d4a1a46-stream.nmbs.top/c/8/736.m3u8
+#EXTINF:-1,TRING SPORT 3
+http://51.15.13.58:8000/live/ime44/ime33/36.ts
+#EXTINF:-1,TRING SPORT 1
+http://51.15.13.58:8000/live/ime44/ime33/34.ts
+#EXTINF:-1,TRING  SPORT 2
+http://51.15.13.58:8000/live/ime44/ime33/35.ts
+#EXTINF:-1,KUJTESA SPORT 4
+http://51.15.13.58:8000/live/ime44/ime33/18.ts
+#EXTINF:-1,KUJTESA SPORT 3
+http://51.15.13.58:8000/live/ime44/ime33/17.ts
+#EXTINF:-1,KUJTESA SPORT 2
+http://51.15.13.58:8000/live/ime44/ime33/16.ts
+#EXTINF:-1,KUJTESA SPORT 1
+http://51.15.13.58:8000/live/ime44/ime33/15.ts
+
 
