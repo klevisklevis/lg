@@ -129,6 +129,10 @@ http://163.172.39.96:8000/live/Tvshqip/new/22.ts
 http://163.172.39.96:8000/live/Tvshqip/new/23.ts
 #EXTINF:-1,Bang Bang
 http://163.172.39.96:8000/live/Tvshqip/new/25.ts
+#EXTINF:-1,Sky Max
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/10
+#EXTINF:-1,Sky Aksion
+http://163.172.84.252:25461/Testloku/mQdI6mwyi5/9
 #EXTINF:-1,KUJTESA SPORT 4
 http://163.172.84.252:25461/Testloku/mQdI6mwyi5/1
 #EXTINF:-1,KUJTESA SPORT 3
