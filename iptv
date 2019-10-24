@@ -2,7 +2,7 @@
 #EXTINF:-1,group-title="LG-TV",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
 #EXTINF:-1,Elrodi TV
-http://edge01eu.ekranet.com:80/elroditv_240p/index.m3u8?e=asdasd&c=elroditv_240p&mac=&apps=elroditv_240p&appsfinal=appsfinal
+http://edge01eu.ekranet.com:80/elroditv_240p/index.m3u8?e=asdasd&c=elroditv_240p&mac=00:1A:79:28:07:98&apps=elroditv_240p&appsfinal=appsfinal
 #EXTINF:-1,AlbMusic
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1,RTSH Shqip
