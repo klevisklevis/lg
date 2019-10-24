@@ -211,5 +211,129 @@ http://51.15.13.58:8000/live/ime44/ime33/17.ts
 http://51.15.13.58:8000/live/ime44/ime33/16.ts
 #EXTINF:-1,KUJTESA SPORT 1
 http://51.15.13.58:8000/live/ime44/ime33/15.ts
+#EXTINF:-1,group-title="LG-TV",VizionPlus
+http://185.204.32.29:6735/VizionPlus/stream/playlist.m3u8
+#EXTINF:0,Top Chanel
+http://185.204.32.29:6735/TopChannel/stream/playlist.m3u8
+#EXTINF:0,KlanHD
+http://185.204.32.29:6735/KlanHD/stream/playlist.m3u8
+#EXTINF:0,Klan Plus
+http://185.204.32.29:6735/KlanPlus/stream/playlist.m3u8
+#EXTINF:0,Tv1 Channel
+http://185.204.32.29:6735/Tv1Channel/stream/playlist.m3u8
+#EXTINF:0,Blue Sky
+http://185.204.32.29:6735/BlueSky/srteam/playlist.m3u8
+#EXTINF:0,Star Plus
+http://185.204.32.29:6735/StarPlus/stream/playlist.m3u8
+#EXTINF:0,TringAksion
+http://185.204.32.29:6735/TringAksion/stream/playlist.m3u8
+#EXTINF:0,Tring comedy
+http://185.204.32.29:6735/Comedy/stream/playlist.m3u8
+#EXTINF:0,Tring Life
+http://185.204.32.29:6735/TringLife/stream/playlist.m3u8
+#EXTINF:0,tring Fantazi
+http://185.204.32.29:6735/TringFantasy/stream/playlist.m3u8
+#EXTINF:0,TringSuper
+http://185.204.32.29:6735/TringSuper/stream/playlist.m3u8
+#EXTINF:0,FOX CRIME
+http://185.204.32.29:6735/FOXCrime/stream/playlist.m3u8
+#EXTINF:0,KIDS
+http://185.204.32.29:6735/Kids/stream/playlist.m3u8
+#EXTINF:0,kIDS TV
+http://185.204.32.29:6735/KidsTv/stream/playlist.m3u8
+#EXTINF:0,Tip TV
+http://185.204.32.29:6735/TipTV/stream/playlist.m3u8
+#EXTINF:0,Tring Tring
+http://185.204.32.29:6735/TringTring/stream/playlist.m3u8
+#EXTINF:0,KlanHD
+http://185.204.32.29:6735/KlanHD/stream/playlist.m3u8
+#EXTINF:0,Tring Shqip
+http://185.204.32.29:6735/TringShqip/stream/playlist.m3u8
+#EXTINF:0,TRING WORLD
+http://185.204.32.29:6735/TringWorld/stream/playlist.m3u8
+#EXTINF:0,TRING PLANET
+http://185.204.32.29:6735/TringPlanet/stream/playlist.m3u8
+#EXTINF:0,TRING HISTORI
+http://185.204.32.29:6735/TringHistory/stream/playlist.m3u8
+#EXTINF:0,supersport 1
+http://185.204.32.29:6735/UltraNetS1/stream/playlist.m3u8
+#EXTINF:0,supersport 2
+http://185.204.32.29:6735/UltraNetS2/stream/playlist.m3u8
+#EXTINF:0,supersport 3
+http://185.204.32.29:6735/UltraNetS3/stream/playlist.m3u8
+#EXTINF:0,supersport 4
+http://185.204.32.29:6735/UltraNetS4/stream/playlist.m3u8
+#EXTINF:0,supersport 5
+http://185.204.32.29:6735/UltraNetS5/stream/playlist.m3u8
+#EXTINF:0,supersport 6
+http://185.204.32.29:6735/UltraNetS6/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 1
+http://185.204.32.29:6735/Sport1/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 2
+http://185.204.32.29:6735/Sport2/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 3
+http://185.204.32.29:6735/Sport3/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 4
+http://185.204.32.29:6735/Sport4/stream/playlist.m3u8
+#EXTINF:0, Folk +
+http://185.204.32.29:6735/FolkPlus/stream/playlist.m3u8
+#EXTINF:0, RTSH Femije
+http://185.204.32.29:6735/RTSHFemije/stream/playlist.m3u8
+#EXTINF:0, Rai 1
+http://185.204.32.29:6735/Rai1/stream/playlist.m3u8
+#EXTINF:0, CANALE 5
+http://185.204.32.29:6735/Canale5/stream/playlist.m3u8
+#EXTINF:0,ITALIA1
+http://185.204.32.29:6735/Italia1/stream/playlist.m3u8
+#EXTINF:0, Living
+http://185.204.32.29:6735/Living/stream/playlist.m3u8
+#EXTINF:0, Channel One
+http://185.204.32.29:6735/ChannelOne/stream/playlist.m3u8
+#EXTINF:0, Ora News
+http://185.204.32.29:6735/OraNews/stream/playlist.m3u8
+#EXTINF:0, 3 Plus
+http://185.204.32.29:6735/3Plus/stream/playlist.m3u8
+#EXTINF:0, Smile
+http://185.204.32.29:6735/Smile/stream/playlist.m3u8
+#EXTINF:0, Muse
+http://185.204.32.29:6735/Muse/stream/playlist.m3u8
+#EXTINF:0, Kanali 7
+http://185.204.32.29:6735/Kanali7/stream/playlist.m3u8
+#EXTINF:0, Click Tv
+http://185.204.32.29:6735/Click/stream/playlist.m3u8
+#EXTINF:0, JoLLy HD
+http://185.204.32.29:6735/Jolly/stream/playlist.m3u8
+#EXTINF:0, Apollon Tv
+http://185.204.32.29:6735/Apollon/stream/playlist.m3u8
+#EXTINF:0, BBF Music
+http://185.204.32.29:6735/BBF/stream/playlist.m3u8
+#EXTINF:0, Eroldi
+http://185.204.32.29:6735/Elrodi/stream/playlist.m3u8
+#EXTINF:0, RTSH Sport
+http://185.204.32.29:6735/RTSHSport/stream/playlist.m3u8
+#EXTINF:0, RTSH Music
+http://185.204.32.29:6735/RTSHMusic/stream/playlist.m3u8
+#EXTINF:0, RTV 21
+http://185.204.32.29:6735/RTV21/stream/playlist.m3u8
+#EXTINF:0, KTV
+http://185.204.32.29:6735/KTV/stream/playlist.m3u8
+#EXTINF:0, TEMa TV
+http://185.204.32.29:6735/TemaTV/stream/playlist.m3u8
+#EXTINF:0, Fox
+http://185.204.32.29:6735/FOX/stream/playlist.m3u8
+#EXTINF:0, BBV
+http://185.204.32.29:6735/BBC/stream/playlist.m3u8
+#EXTINF:0, CNN
+http://185.204.32.29:6735/CNN/stream/playlist.m3u8
+#EXTINF:0, LUXE
+http://185.204.32.29:6735/Luxe/stream/playlist.m3u8
+#EXTINF:0, News 24
+http://185.204.32.29:6735/News24/stream/playlist.m3u8
+#EXTINF:0, ABC News
+http://185.204.32.29:6735/ABCNews/stream/playlist.m3u8
+#EXTINF:0, Alsat
+http://185.204.32.29:6735/Alsat/stream/playlist.m3u8
+#EXTINF:0, Report Tv
+http://185.204.32.29:6735/ReportTV/stream/playlist.m3u8
 
 
