@@ -211,7 +211,7 @@ http://51.15.13.58:8000/live/ime44/ime33/17.ts
 http://51.15.13.58:8000/live/ime44/ime33/16.ts
 #EXTINF:-1,KUJTESA SPORT 1
 http://51.15.13.58:8000/live/ime44/ime33/15.ts
-#EXTINF:-1,group-title="LG-TV",VizionPlus
+#EXTINF:-1,group-title="LG-TV 2",VizionPlus
 http://185.204.32.29:6735/VizionPlus/stream/playlist.m3u8
 #EXTINF:0,Top Chanel
 http://185.204.32.29:6735/TopChannel/stream/playlist.m3u8
@@ -335,5 +335,460 @@ http://185.204.32.29:6735/ABCNews/stream/playlist.m3u8
 http://185.204.32.29:6735/Alsat/stream/playlist.m3u8
 #EXTINF:0, Report Tv
 http://185.204.32.29:6735/ReportTV/stream/playlist.m3u8
-
+#EXTINF:-1,group-title="LG-TV 3",Top Channel HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/236.ts
+#EXTINF:0,TVSH HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/217.ts
+#EXTINF:0,Klan HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/294.ts
+#EXTINF:0,Klan Plus HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/290.ts
+#EXTINF:0,Klan Macedonia
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/291.ts
+#EXTINF:0,Klan Kosova HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/292.ts
+#EXTINF:0,Vizion Plus
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/214.ts
+#EXTINF:0,ALSAT M  HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/375.ts
+#EXTINF:0,Top News
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/234.ts
+#EXTINF:0,Ora News
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/272.ts
+#EXTINF:0,News 24
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/273.ts
+#EXTINF:0,Kanali 7
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/296.ts
+#EXTINF:0,Abc News HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/379.ts
+#EXTINF:0,Report TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/271.ts
+#EXTINF:0,FAX News
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/313.ts
+#EXTINF:0,UTV News
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/215.ts
+#EXTINF:0,Scan TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/247.ts
+#EXTINF:0,A2 CNN
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/380.ts
+#EXTINF:0,Channel One HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/336.ts
+#EXTINF:0,Rtsh 1 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/265.ts
+#EXTINF:0,Rtsh 2 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/264.ts
+#EXTINF:0,Rtsh 3 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/262.ts
+#EXTINF:0,RTSH 24
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/263.ts
+#EXTINF:0,RTSH Plus
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/255.ts
+#EXTINF:0,Rtsh Film HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/260.ts
+#EXTINF:0,RTSH Femije
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/261.ts
+#EXTINF:0,RTSH Muzike
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/256.ts
+#EXTINF:0,RTSH Kuvend
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/257.ts
+#EXTINF:0,Rtsh Shqip HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/254.ts
+#EXTINF:0,RTSH Korca
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/258.ts
+#EXTINF:0,RTSH Gjirokastra
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/259.ts
+#EXTINF:0,Film Nje HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/306.ts
+#EXTINF:0,Film Dy HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/309.ts
+#EXTINF:0,Family HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/314.ts
+#EXTINF:0,Film Komedi
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/307.ts
+#EXTINF:0,Film Aksion
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/312.ts
+#EXTINF:0,Film Drame
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/310.ts
+#EXTINF:0,Film Thriller
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/305.ts
+#EXTINF:0,Film Hits
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/308.ts
+#EXTINF:0,Film Autor
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/311.ts
+#EXTINF:0,Eurofilm
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/318.ts
+#EXTINF:0,Stinet
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/244.ts
+#EXTINF:0,T HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/241.ts
+#EXTINF:0,Jolly HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/298.ts
+#EXTINF:0,Living HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/283.ts
+#EXTINF:0,Timeless Drama Channel  (TDC)
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/239.ts
+#EXTINF:0,Tring Super HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/224.ts
+#EXTINF:0,Tring Fantasy
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/230.ts
+#EXTINF:0,Tring Comedy
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/231.ts
+#EXTINF:0,Tring Action
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/232.ts
+#EXTINF:0,Tring Shqip
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/225.ts
+#EXTINF:0,Tring Life
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/227.ts
+#EXTINF:0,Tring International
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/228.ts
+#EXTINF:0,Tring 3 Plus
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/233.ts
+#EXTINF:0,Smile
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/246.ts
+#EXTINF:0,Fox
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/301.ts
+#EXTINF:0,Fox Life
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/300.ts
+#EXTINF:0,AL: FOX Crime
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/366.ts
+#EXTINF:0,Muse
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/276.ts
+#EXTINF:0,X Premium 1 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/205.ts
+#EXTINF:0,X Premium 2 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/204.ts
+#EXTINF:0,X Premium 3 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/203.ts
+#EXTINF:0,X Premium 4 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/202.ts
+#EXTINF:0,X Family HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/209.ts
+#EXTINF:0,X Drama HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/210.ts
+#EXTINF:0,X Action HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/213.ts
+#EXTINF:0,X Comedy HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/212.ts
+#EXTINF:0,X Thriller HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/199.ts
+#EXTINF:0,X Dark HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/211.ts
+#EXTINF:0,X Western HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/198.ts
+#EXTINF:0,X Humor HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/207.ts
+#EXTINF:0,X Shkenca HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/200.ts
+#EXTINF:0,X Sci-Fi HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/201.ts
+#EXTINF:0,X Natyra HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/206.ts
+#EXTINF:0,X Histori HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/208.ts
+#EXTINF:0,AL: Super Sport 1 HD VIP
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/420.ts
+#EXTINF:0,AL: Super Sport 2 HD VIP
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/419.ts
+#EXTINF:0,AL: Super Sport 3 HD VIP
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/418.ts
+#EXTINF:0,AL: Super Sport 4 HD VIP
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/417.ts
+#EXTINF:0,AL: Super Sport 5 HD VIP
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/416.ts
+#EXTINF:0,AL SS-1 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/430.ts
+#EXTINF:0,AL SS-2 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/428.ts
+#EXTINF:0,AL SS-3 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/426.ts
+#EXTINF:0,AL SS-4 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/424.ts
+#EXTINF:0,AL SS-5 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/422.ts
+#EXTINF:0,AL SS-6 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/421.ts
+#EXTINF:0,SuperSport News
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/401.ts
+#EXTINF:0,SuperSport 2
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/406.ts
+#EXTINF:0,SuperSport 3
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/405.ts
+#EXTINF:0,SuperSport 4
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/404.ts
+#EXTINF:0,SuperSport 5
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/403.ts
+#EXTINF:0,SuperSport 6
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/402.ts
+#EXTINF:0,SS Kosova 1 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/408.ts
+#EXTINF:0,SS Kosova 2 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/407.ts
+#EXTINF:0,K  Sport 1 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/413.ts
+#EXTINF:0,K  Sport 2 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/412.ts
+#EXTINF:0,K  Sport 3 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/411.ts
+#EXTINF:0,K  Sport 4 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/410.ts
+#EXTINF:0,Eurosport
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/415.ts
+#EXTINF:0,Eurosport 2
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/414.ts
+#EXTINF:0,Tring Sport News HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/395.ts
+#EXTINF:0,Tring Sport 1 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/399.ts
+#EXTINF:0,Tring Sport 2 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/398.ts
+#EXTINF:0,Tring Sport 3 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/397.ts
+#EXTINF:0,Tring Sport 4 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/396.ts
+#EXTINF:0,Telesport
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/400.ts
+#EXTINF:0,Rtsh Sport
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/409.ts
+#EXTINF:0,Tring Planet
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/226.ts
+#EXTINF:0,Tring History
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/229.ts
+#EXTINF:0,Tring World
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/222.ts
+#EXTINF:0,Nat Geo Tring
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/274.ts
+#EXTINF:0,EXP Shkenca
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/315.ts
+#EXTINF:0,EXP Natyra
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/316.ts
+#EXTINF:0,EXP Histori
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/317.ts
+#EXTINF:0,TV Kukesi
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/242.ts
+#EXTINF:0,STV Folk
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/243.ts
+#EXTINF:0,BBF Music
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/337.ts
+#EXTINF:0,My Music
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/275.ts
+#EXTINF:0,Melody TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/281.ts
+#EXTINF:0,IN TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/299.ts
+#EXTINF:0,Folklorit
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/302.ts
+#EXTINF:0,Folk
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/303.ts
+#EXTINF:0,Era Tv
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/329.ts
+#EXTINF:0,Elrodi
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/330.ts
+#EXTINF:0,Club TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/333.ts
+#EXTINF:0,Click
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/334.ts
+#EXTINF:0,City TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/335.ts
+#EXTINF:0,ALB UK
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/340.ts
+#EXTINF:0,AL:Syri Blue HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/342.ts
+#EXTINF:0,AL: MTV Kosova
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/357.ts
+#EXTINF:0,AL: TV Adriamed
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/371.ts
+#EXTINF:0,AL: Blue Sky
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/372.ts
+#EXTINF:0,Klan Music
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/304.ts
+#EXTINF:0,Bang Bang
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/338.ts
+#EXTINF:0,Cufo TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/332.ts
+#EXTINF:0,Junior TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/297.ts
+#EXTINF:0,Tip TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/238.ts
+#EXTINF:0,Kids
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/295.ts
+#EXTINF:0,Tring Tring
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/223.ts
+#EXTINF:0,Baby TV Digitalb
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/339.ts
+#EXTINF:0,Disney Channel Albania
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/331.ts
+#EXTINF:0,Tema Tv
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/240.ts
+#EXTINF:0,TV Rozafa Shkoder
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/219.ts
+#EXTINF:0,TV Kopliku
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/220.ts
+#EXTINF:0,TV Shenja
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/218.ts
+#EXTINF:0,TV 1 Shkoder
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/221.ts
+#EXTINF:0,TNT TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/237.ts
+#EXTINF:0,Star Plus Shkodra
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/245.ts
+#EXTINF:0,LUXE TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/282.ts
+#EXTINF:0,ALB Dreams
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/341.ts
+#EXTINF:0,AL:Camel TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/345.ts
+#EXTINF:0,AL: TV Tetova
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/346.ts
+#EXTINF:0,AL: TV Saranda
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/347.ts
+#EXTINF:0,AL: TV Opoja
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/348.ts
+#EXTINF:0,AL: TV Mitrovica
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/349.ts
+#EXTINF:0,AL: Tribuna Channel
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/350.ts
+#EXTINF:0,AL: T7
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/351.ts
+#EXTINF:0,AL: Kitchen24 shqip
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/365.ts
+#EXTINF:0,AL: Besa TV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/373.ts
+#EXTINF:0,AL: ARTA NEWS
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/374.ts
+#EXTINF:0,AL: TV Shijaku
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/376.ts
+#EXTINF:0,AL TV Dukagjini
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/377.ts
+#EXTINF:0,ACTV
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/378.ts
+#EXTINF:0,Ktv HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/284.ts
+#EXTINF:0,RTK 1
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/269.ts
+#EXTINF:0,RTK 2
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/268.ts
+#EXTINF:0,RTK 3
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/267.ts
+#EXTINF:0,RTK 4
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/266.ts
+#EXTINF:0,RTV 21
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/253.ts
+#EXTINF:0,RTV 21 M
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/251.ts
+#EXTINF:0,RTV 21 Plus
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/250.ts
+#EXTINF:0,RTV 21 Junior HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/252.ts
+#EXTINF:0,RTV 21 Popullore
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/249.ts
+#EXTINF:0,RTV Zik HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/248.ts
+#EXTINF:0,EX-YO: Arena Sport 1 HR
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/750.ts
+#EXTINF:0,EX-YO: Arena Sport 1 RS
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/749.ts
+#EXTINF:0,EX-YO: Arena Sport 2 HR
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/748.ts
+#EXTINF:0,EX-YO: Arena Sport 2 RS
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/747.ts
+#EXTINF:0,EX-YO: Arena Sport 3 HR
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/746.ts
+#EXTINF:0,EX-YO: Arena Sport 3 RS
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/745.ts
+#EXTINF:0,EX-YO: Arena Sport 4 HR
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/744.ts
+#EXTINF:0,EX-YO: Arena Sport 4 RS
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/743.ts
+#EXTINF:0,EX-YO: Arena Sport 5 HR
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/742.ts
+#EXTINF:0,EX-YO: Arena Sport 5 RS
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/741.ts
+#EXTINF:0,EX-YO: Sport Klub 1
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/740.ts
+#EXTINF:0,EX-YO: Sport Klub 2
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/739.ts
+#EXTINF:0,EX-YO: Sport Klub 3
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/738.ts
+#EXTINF:0,EX-YO: Sport Klub 4
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/737.ts
+#EXTINF:0,EX-YO: Sport Klub 5
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/736.ts
+#EXTINF:0,EX-YO: Sport Klub 6
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/735.ts
+#EXTINF:0,DE -- Sky Sport News HD local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/841.ts
+#EXTINF:0,DE -- Sky Sport Austria 1 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/855.ts
+#EXTINF:0,DE -- Sky Sport Austria 2 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/854.ts
+#EXTINF:0,DE -- Sky Sport Austria 3 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/853.ts
+#EXTINF:0,DE -- Sky Sport Austria 4 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/852.ts
+#EXTINF:0,DE -- Sky Sport 1 HD local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/866.ts
+#EXTINF:0,DE -- Sky Sport 2 HD local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/863.ts
+#EXTINF:0,DE -- Sky Sport 3 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/862.ts
+#EXTINF:0,DE -- Sky Sport 4 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/861.ts
+#EXTINF:0,DE -- Sky Sport 5 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/860.ts
+#EXTINF:0,DE -- Sky Sport 6 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/859.ts
+#EXTINF:0,DE -- Sky Sport 7 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/858.ts
+#EXTINF:0,DE -- Sky Sport 8 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/857.ts
+#EXTINF:0,DE -- Sky Sport 9 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/856.ts
+#EXTINF:0,DE -- Sky Sport 10 HD 1080p Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/865.ts
+#EXTINF:0,DE -- Sky Sport 11 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/864.ts
+#EXTINF:0,DE -- Sky Sport Bundesliga 1 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/851.ts
+#EXTINF:0,DE -- Sky Sport Bundesliga 2 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/849.ts
+#EXTINF:0,DE -- Sky Sport Bundesliga 3 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/848.ts
+#EXTINF:0,DE -- Sky Sport Bundesliga 4 HD  Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/847.ts
+#EXTINF:0,DE -- Sky Sport Bundesliga 5 HD  Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/846.ts
+#EXTINF:0,DE -- Sky Sport Bundesliga 6 HD  Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/845.ts
+#EXTINF:0,DE -- Sky Sport Bundesliga 7 HD Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/844.ts
+#EXTINF:0,DE -- Sky Sport Bundesliga 8 HD 1080p Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/843.ts
+#EXTINF:0,DE -- Sky Sport Bundesliga 9 HD 1080p Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/842.ts
+#EXTINF:0,DE -- Sky Sport Bundesliga 10 HD 1080p Local
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/850.ts
+#EXTINF:0,AR: beIN Sports News
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1002.ts
+#EXTINF:0,AR: beIN Sports 1 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1013.ts
+#EXTINF:0,AR: beIN Sports 2 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1010.ts
+#EXTINF:0,AR: beIN Sports 3 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1009.ts
+#EXTINF:0,AR: beIN Sports 4 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1008.ts
+#EXTINF:0,AR: beIN Sports 5 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1007.ts
+#EXTINF:0,AR: beIN Sports 6 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1006.ts
+#EXTINF:0,AR: beIN Sports 7 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1005.ts
+#EXTINF:0,AR: beIN Sports 8 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1004.ts
+#EXTINF:0,AR: beIN Sports 9 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1003.ts
+#EXTINF:0,AR: beIN Sports 10 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1012.ts
+#EXTINF:0,AR: beIN Sports 11 HD
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1011.ts
 
