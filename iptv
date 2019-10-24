@@ -336,11 +336,11 @@ http://185.204.32.29:6735/Alsat/stream/playlist.m3u8
 #EXTINF:0, Report Tv
 http://185.204.32.29:6735/ReportTV/stream/playlist.m3u8
 #EXTINF:-1,group-title="LG-TV 3",Top Channel HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/236.ts
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/235.ts
 #EXTINF:0,TVSH HD
 http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/217.ts
 #EXTINF:0,Klan HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/294.ts
+http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/293.ts
 #EXTINF:0,Klan Plus HD
 http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/290.ts
 #EXTINF:0,Klan Macedonia
