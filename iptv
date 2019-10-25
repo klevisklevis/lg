@@ -335,460 +335,1520 @@ http://185.204.32.29:6735/ABCNews/stream/playlist.m3u8
 http://185.204.32.29:6735/Alsat/stream/playlist.m3u8
 #EXTINF:0, Report Tv
 http://185.204.32.29:6735/ReportTV/stream/playlist.m3u8
-#EXTINF:-1,group-title="LG-TV 3",Top Channel HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/235.ts
-#EXTINF:0,TVSH HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/217.ts
-#EXTINF:0,Klan HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/293.ts
-#EXTINF:0,Klan Plus HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/290.ts
-#EXTINF:0,Klan Macedonia
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/291.ts
-#EXTINF:0,Klan Kosova HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/292.ts
-#EXTINF:0,Vizion Plus
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/214.ts
-#EXTINF:0,ALSAT M  HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/375.ts
-#EXTINF:0,Top News
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/234.ts
-#EXTINF:0,Ora News
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/272.ts
-#EXTINF:0,News 24
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/273.ts
-#EXTINF:0,Kanali 7
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/296.ts
-#EXTINF:0,Abc News HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/379.ts
-#EXTINF:0,Report TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/271.ts
-#EXTINF:0,FAX News
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/313.ts
-#EXTINF:0,UTV News
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/215.ts
-#EXTINF:0,Scan TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/247.ts
-#EXTINF:0,A2 CNN
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/380.ts
-#EXTINF:0,Channel One HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/336.ts
-#EXTINF:0,Rtsh 1 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/265.ts
-#EXTINF:0,Rtsh 2 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/264.ts
-#EXTINF:0,Rtsh 3 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/262.ts
-#EXTINF:0,RTSH 24
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/263.ts
-#EXTINF:0,RTSH Plus
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/255.ts
-#EXTINF:0,Rtsh Film HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/260.ts
-#EXTINF:0,RTSH Femije
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/261.ts
-#EXTINF:0,RTSH Muzike
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/256.ts
-#EXTINF:0,RTSH Kuvend
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/257.ts
-#EXTINF:0,Rtsh Shqip HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/254.ts
-#EXTINF:0,RTSH Korca
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/258.ts
-#EXTINF:0,RTSH Gjirokastra
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/259.ts
-#EXTINF:0,Film Nje HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/306.ts
-#EXTINF:0,Film Dy HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/309.ts
-#EXTINF:0,Family HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/314.ts
-#EXTINF:0,Film Komedi
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/307.ts
-#EXTINF:0,Film Aksion
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/312.ts
-#EXTINF:0,Film Drame
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/310.ts
-#EXTINF:0,Film Thriller
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/305.ts
-#EXTINF:0,Film Hits
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/308.ts
-#EXTINF:0,Film Autor
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/311.ts
-#EXTINF:0,Eurofilm
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/318.ts
-#EXTINF:0,Stinet
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/244.ts
-#EXTINF:0,T HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/241.ts
-#EXTINF:0,Jolly HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/298.ts
-#EXTINF:0,Living HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/283.ts
-#EXTINF:0,Timeless Drama Channel  (TDC)
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/239.ts
-#EXTINF:0,Tring Super HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/224.ts
-#EXTINF:0,Tring Fantasy
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/230.ts
-#EXTINF:0,Tring Comedy
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/231.ts
-#EXTINF:0,Tring Action
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/232.ts
-#EXTINF:0,Tring Shqip
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/225.ts
-#EXTINF:0,Tring Life
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/227.ts
-#EXTINF:0,Tring International
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/228.ts
-#EXTINF:0,Tring 3 Plus
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/233.ts
-#EXTINF:0,Smile
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/246.ts
-#EXTINF:0,Fox
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/301.ts
-#EXTINF:0,Fox Life
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/300.ts
-#EXTINF:0,AL: FOX Crime
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/366.ts
-#EXTINF:0,Muse
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/276.ts
-#EXTINF:0,X Premium 1 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/205.ts
-#EXTINF:0,X Premium 2 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/204.ts
-#EXTINF:0,X Premium 3 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/203.ts
-#EXTINF:0,X Premium 4 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/202.ts
-#EXTINF:0,X Family HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/209.ts
-#EXTINF:0,X Drama HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/210.ts
-#EXTINF:0,X Action HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/213.ts
-#EXTINF:0,X Comedy HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/212.ts
-#EXTINF:0,X Thriller HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/199.ts
-#EXTINF:0,X Dark HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/211.ts
-#EXTINF:0,X Western HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/198.ts
-#EXTINF:0,X Humor HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/207.ts
-#EXTINF:0,X Shkenca HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/200.ts
-#EXTINF:0,X Sci-Fi HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/201.ts
-#EXTINF:0,X Natyra HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/206.ts
-#EXTINF:0,X Histori HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/208.ts
-#EXTINF:0,AL: Super Sport 1 HD VIP
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/420.ts
-#EXTINF:0,AL: Super Sport 2 HD VIP
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/419.ts
-#EXTINF:0,AL: Super Sport 3 HD VIP
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/418.ts
-#EXTINF:0,AL: Super Sport 4 HD VIP
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/417.ts
-#EXTINF:0,AL: Super Sport 5 HD VIP
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/416.ts
-#EXTINF:0,AL SS-1 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/430.ts
-#EXTINF:0,AL SS-2 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/428.ts
-#EXTINF:0,AL SS-3 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/426.ts
-#EXTINF:0,AL SS-4 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/424.ts
-#EXTINF:0,AL SS-5 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/422.ts
-#EXTINF:0,AL SS-6 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/421.ts
-#EXTINF:0,SuperSport News
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/401.ts
-#EXTINF:0,SuperSport 2
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/406.ts
-#EXTINF:0,SuperSport 3
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/405.ts
-#EXTINF:0,SuperSport 4
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/404.ts
-#EXTINF:0,SuperSport 5
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/403.ts
-#EXTINF:0,SuperSport 6
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/402.ts
-#EXTINF:0,SS Kosova 1 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/408.ts
-#EXTINF:0,SS Kosova 2 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/407.ts
-#EXTINF:0,K  Sport 1 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/413.ts
-#EXTINF:0,K  Sport 2 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/412.ts
-#EXTINF:0,K  Sport 3 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/411.ts
-#EXTINF:0,K  Sport 4 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/410.ts
-#EXTINF:0,Eurosport
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/415.ts
-#EXTINF:0,Eurosport 2
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/414.ts
-#EXTINF:0,Tring Sport News HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/395.ts
-#EXTINF:0,Tring Sport 1 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/399.ts
-#EXTINF:0,Tring Sport 2 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/398.ts
-#EXTINF:0,Tring Sport 3 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/397.ts
-#EXTINF:0,Tring Sport 4 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/396.ts
-#EXTINF:0,Telesport
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/400.ts
-#EXTINF:0,Rtsh Sport
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/409.ts
-#EXTINF:0,Tring Planet
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/226.ts
-#EXTINF:0,Tring History
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/229.ts
-#EXTINF:0,Tring World
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/222.ts
-#EXTINF:0,Nat Geo Tring
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/274.ts
-#EXTINF:0,EXP Shkenca
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/315.ts
-#EXTINF:0,EXP Natyra
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/316.ts
-#EXTINF:0,EXP Histori
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/317.ts
-#EXTINF:0,TV Kukesi
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/242.ts
-#EXTINF:0,STV Folk
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/243.ts
-#EXTINF:0,BBF Music
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/337.ts
-#EXTINF:0,My Music
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/275.ts
-#EXTINF:0,Melody TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/281.ts
-#EXTINF:0,IN TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/299.ts
-#EXTINF:0,Folklorit
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/302.ts
-#EXTINF:0,Folk
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/303.ts
-#EXTINF:0,Era Tv
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/329.ts
-#EXTINF:0,Elrodi
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/330.ts
-#EXTINF:0,Club TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/333.ts
-#EXTINF:0,Click
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/334.ts
-#EXTINF:0,City TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/335.ts
-#EXTINF:0,ALB UK
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/340.ts
-#EXTINF:0,AL:Syri Blue HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/342.ts
-#EXTINF:0,AL: MTV Kosova
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/357.ts
-#EXTINF:0,AL: TV Adriamed
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/371.ts
-#EXTINF:0,AL: Blue Sky
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/372.ts
-#EXTINF:0,Klan Music
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/304.ts
-#EXTINF:0,Bang Bang
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/338.ts
-#EXTINF:0,Cufo TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/332.ts
-#EXTINF:0,Junior TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/297.ts
-#EXTINF:0,Tip TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/238.ts
-#EXTINF:0,Kids
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/295.ts
-#EXTINF:0,Tring Tring
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/223.ts
-#EXTINF:0,Baby TV Digitalb
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/339.ts
-#EXTINF:0,Disney Channel Albania
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/331.ts
-#EXTINF:0,Tema Tv
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/240.ts
-#EXTINF:0,TV Rozafa Shkoder
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/219.ts
-#EXTINF:0,TV Kopliku
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/220.ts
-#EXTINF:0,TV Shenja
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/218.ts
-#EXTINF:0,TV 1 Shkoder
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/221.ts
-#EXTINF:0,TNT TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/237.ts
-#EXTINF:0,Star Plus Shkodra
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/245.ts
-#EXTINF:0,LUXE TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/282.ts
-#EXTINF:0,ALB Dreams
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/341.ts
-#EXTINF:0,AL:Camel TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/345.ts
-#EXTINF:0,AL: TV Tetova
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/346.ts
-#EXTINF:0,AL: TV Saranda
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/347.ts
-#EXTINF:0,AL: TV Opoja
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/348.ts
-#EXTINF:0,AL: TV Mitrovica
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/349.ts
-#EXTINF:0,AL: Tribuna Channel
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/350.ts
-#EXTINF:0,AL: T7
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/351.ts
-#EXTINF:0,AL: Kitchen24 shqip
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/365.ts
-#EXTINF:0,AL: Besa TV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/373.ts
-#EXTINF:0,AL: ARTA NEWS
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/374.ts
-#EXTINF:0,AL: TV Shijaku
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/376.ts
-#EXTINF:0,AL TV Dukagjini
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/377.ts
-#EXTINF:0,ACTV
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/378.ts
-#EXTINF:0,Ktv HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/284.ts
-#EXTINF:0,RTK 1
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/269.ts
-#EXTINF:0,RTK 2
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/268.ts
-#EXTINF:0,RTK 3
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/267.ts
-#EXTINF:0,RTK 4
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/266.ts
-#EXTINF:0,RTV 21
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/253.ts
-#EXTINF:0,RTV 21 M
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/251.ts
-#EXTINF:0,RTV 21 Plus
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/250.ts
-#EXTINF:0,RTV 21 Junior HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/252.ts
-#EXTINF:0,RTV 21 Popullore
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/249.ts
-#EXTINF:0,RTV Zik HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/248.ts
-#EXTINF:0,EX-YO: Arena Sport 1 HR
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/750.ts
-#EXTINF:0,EX-YO: Arena Sport 1 RS
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/749.ts
-#EXTINF:0,EX-YO: Arena Sport 2 HR
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/748.ts
-#EXTINF:0,EX-YO: Arena Sport 2 RS
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/747.ts
-#EXTINF:0,EX-YO: Arena Sport 3 HR
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/746.ts
-#EXTINF:0,EX-YO: Arena Sport 3 RS
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/745.ts
-#EXTINF:0,EX-YO: Arena Sport 4 HR
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/744.ts
-#EXTINF:0,EX-YO: Arena Sport 4 RS
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/743.ts
-#EXTINF:0,EX-YO: Arena Sport 5 HR
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/742.ts
-#EXTINF:0,EX-YO: Arena Sport 5 RS
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/741.ts
-#EXTINF:0,EX-YO: Sport Klub 1
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/740.ts
-#EXTINF:0,EX-YO: Sport Klub 2
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/739.ts
-#EXTINF:0,EX-YO: Sport Klub 3
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/738.ts
-#EXTINF:0,EX-YO: Sport Klub 4
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/737.ts
-#EXTINF:0,EX-YO: Sport Klub 5
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/736.ts
-#EXTINF:0,EX-YO: Sport Klub 6
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/735.ts
-#EXTINF:0,DE -- Sky Sport News HD local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/841.ts
-#EXTINF:0,DE -- Sky Sport Austria 1 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/855.ts
-#EXTINF:0,DE -- Sky Sport Austria 2 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/854.ts
-#EXTINF:0,DE -- Sky Sport Austria 3 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/853.ts
-#EXTINF:0,DE -- Sky Sport Austria 4 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/852.ts
-#EXTINF:0,DE -- Sky Sport 1 HD local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/866.ts
-#EXTINF:0,DE -- Sky Sport 2 HD local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/863.ts
-#EXTINF:0,DE -- Sky Sport 3 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/862.ts
-#EXTINF:0,DE -- Sky Sport 4 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/861.ts
-#EXTINF:0,DE -- Sky Sport 5 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/860.ts
-#EXTINF:0,DE -- Sky Sport 6 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/859.ts
-#EXTINF:0,DE -- Sky Sport 7 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/858.ts
-#EXTINF:0,DE -- Sky Sport 8 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/857.ts
-#EXTINF:0,DE -- Sky Sport 9 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/856.ts
-#EXTINF:0,DE -- Sky Sport 10 HD 1080p Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/865.ts
-#EXTINF:0,DE -- Sky Sport 11 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/864.ts
-#EXTINF:0,DE -- Sky Sport Bundesliga 1 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/851.ts
-#EXTINF:0,DE -- Sky Sport Bundesliga 2 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/849.ts
-#EXTINF:0,DE -- Sky Sport Bundesliga 3 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/848.ts
-#EXTINF:0,DE -- Sky Sport Bundesliga 4 HD  Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/847.ts
-#EXTINF:0,DE -- Sky Sport Bundesliga 5 HD  Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/846.ts
-#EXTINF:0,DE -- Sky Sport Bundesliga 6 HD  Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/845.ts
-#EXTINF:0,DE -- Sky Sport Bundesliga 7 HD Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/844.ts
-#EXTINF:0,DE -- Sky Sport Bundesliga 8 HD 1080p Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/843.ts
-#EXTINF:0,DE -- Sky Sport Bundesliga 9 HD 1080p Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/842.ts
-#EXTINF:0,DE -- Sky Sport Bundesliga 10 HD 1080p Local
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/850.ts
-#EXTINF:0,AR: beIN Sports News
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1002.ts
-#EXTINF:0,AR: beIN Sports 1 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1013.ts
-#EXTINF:0,AR: beIN Sports 2 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1010.ts
-#EXTINF:0,AR: beIN Sports 3 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1009.ts
-#EXTINF:0,AR: beIN Sports 4 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1008.ts
-#EXTINF:0,AR: beIN Sports 5 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1007.ts
-#EXTINF:0,AR: beIN Sports 6 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1006.ts
-#EXTINF:0,AR: beIN Sports 7 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1005.ts
-#EXTINF:0,AR: beIN Sports 8 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1004.ts
-#EXTINF:0,AR: beIN Sports 9 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1003.ts
-#EXTINF:0,AR: beIN Sports 10 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1012.ts
-#EXTINF:0,AR: beIN Sports 11 HD
-http://skyhd-iptv.com:8000/live/usr444/4PihiITmPD/1011.ts
-
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="Info Channel" tvg-logo="" group-title="Shqip",Info Channel
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1.ts
+#EXTINF:-1 tvg-ID="RTK 1" tvg-name="RTK 1" tvg-logo="" group-title="Shqip",RTK 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/82.ts
+#EXTINF:-1 tvg-ID="RTK 1" tvg-name="RTK 1 FHD" tvg-logo="" group-title="Shqip",RTK 1 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/68.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTK 2" tvg-logo="" group-title="Shqip",RTK 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTK 3 FHD" tvg-logo="" group-title="Shqip",RTK 3 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTK 4 FHD" tvg-logo="" group-title="Shqip",RTK 4 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/5.ts
+#EXTINF:-1 tvg-ID="RTSH1 HD" tvg-name="RTSH 1" tvg-logo="" group-title="Shqip",RTSH 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1340.ts
+#EXTINF:-1 tvg-ID="RTSH1 HD" tvg-name="RTSH 1 FHD" tvg-logo="" group-title="Shqip",RTSH 1 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH 2" tvg-logo="" group-title="Shqip",RTSH 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1302.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH 3" tvg-logo="" group-title="Shqip",RTSH 3
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1303.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH Film" tvg-logo="" group-title="Shqip",RTSH Film
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1116.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH Shqip" tvg-logo="" group-title="Shqip",RTSH Shqip
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1304.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH Plus" tvg-logo="" group-title="Shqip",RTSH Plus
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1404.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH Kuvend" tvg-logo="" group-title="Shqip",RTSH Kuvend
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1402.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH 24" tvg-logo="" group-title="Shqip",RTSH 24
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1472.ts
+#EXTINF:-1 tvg-ID="KTV" tvg-name="KTV" tvg-logo="" group-title="Shqip",KTV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/84.ts
+#EXTINF:-1 tvg-ID="KTV" tvg-name="KTV FHD" tvg-logo="" group-title="Shqip",KTV FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1102.ts
+#EXTINF:-1 tvg-ID="RTV 21 HD" tvg-name="RTV 21" tvg-logo="" group-title="Shqip",RTV 21
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/85.ts
+#EXTINF:-1 tvg-ID="RTV 21 HD" tvg-name="RTV 21 FHD" tvg-logo="" group-title="Shqip",RTV 21 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/6.ts
+#EXTINF:-1 tvg-ID="RTV 21 MK" tvg-name="RTV 21 MK" tvg-logo="" group-title="Shqip",RTV 21 MK
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1306.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV 21 MK FHD" tvg-logo="" group-title="Shqip",RTV 21 MK FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Klan Kosova" tvg-logo="" group-title="Shqip",Klan Kosova
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Klan Kosova FHD" tvg-logo="" group-title="Shqip",Klan Kosova FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/12.ts
+#EXTINF:-1 tvg-ID="Alsat-M" tvg-name="Alsat M" tvg-logo="" group-title="Shqip",Alsat M
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/16.ts
+#EXTINF:-1 tvg-ID="Alsat-M" tvg-name="Alsat M FHD" tvg-logo="" group-title="Shqip",Alsat M FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TDC" tvg-logo="" group-title="Shqip",TDC
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2069.ts
+#EXTINF:-1 tvg-ID="Top Channel" tvg-name="Top Channel HD" tvg-logo="" group-title="Shqip",Top Channel HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/14.ts
+#EXTINF:-1 tvg-ID="Top Channel HD" tvg-name="Top Channel FHD" tvg-logo="" group-title="Shqip",Top Channel FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/776.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Klan HD" tvg-logo="" group-title="Shqip",Klan HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Klan FHD" tvg-logo="" group-title="Shqip",Klan FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/837.ts
+#EXTINF:-1 tvg-ID="Klan Plus" tvg-name="Klan Plus HD" tvg-logo="" group-title="Shqip",Klan Plus HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/13.ts
+#EXTINF:-1 tvg-ID="Klan Plus" tvg-name="Klan Plus FHD" tvg-logo="" group-title="Shqip",Klan Plus FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1320.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Era" tvg-logo="" group-title="Shqip",TV Era
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/87.ts
+#EXTINF:-1 tvg-ID="Shenja TV" tvg-name="Tv Shenja" tvg-logo="" group-title="Shqip",Tv Shenja
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1338.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Shenja HD" tvg-logo="" group-title="Shqip",Tv Shenja HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/974.ts
+#EXTINF:-1 tvg-ID="" tvg-name="T7" tvg-logo="" group-title="Shqip",T7
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="T7 FHD" tvg-logo="" group-title="Shqip",T7 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1793.ts
+#EXTINF:-1 tvg-ID="Tribuna Channel" tvg-name="Tribuna Channel is shut down" tvg-logo="" group-title="Shqip",Tribuna Channel is shut down
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/92.ts
+#EXTINF:-1 tvg-ID="Tribuna Channel" tvg-name="Tribuna Channel FHD is shut down" tvg-logo="" group-title="Shqip",Tribuna Channel FHD is shut down
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1305.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Dukagjini" tvg-logo="" group-title="Shqip",TV Dukagjini
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/89.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Dukagjini FHD" tvg-logo="" group-title="Shqip",TV Dukagjini FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Opinion" tvg-logo="" group-title="Shqip",Tv Opinion
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1372.ts
+#EXTINF:-1 tvg-ID="Vizion Plus HD" tvg-name="Vizion Plus" tvg-logo="" group-title="Shqip",Vizion Plus
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1339.ts
+#EXTINF:-1 tvg-ID="Vizion Plus HD" tvg-name="Vizion Plus FHD" tvg-logo="" group-title="Shqip",Vizion Plus FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Koha Tv Mk" tvg-logo="" group-title="Shqip",Koha Tv Mk
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/954.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Klan MK" tvg-logo="" group-title="Shqip",Klan MK
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/976.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Globi" tvg-logo="" group-title="Shqip",TV Globi
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Dibra" tvg-logo="" group-title="Shqip",TV Dibra
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1142.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Hana (test)" tvg-logo="" group-title="Shqip",Tv Hana (test)
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1564.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Festa (test)" tvg-logo="" group-title="Shqip",Tv Festa (test)
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1563.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Uskana" tvg-logo="" group-title="Shqip",TV Uskana
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1141.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV2" tvg-logo="" group-title="Shqip",TV2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV 2 SAT" tvg-logo="" group-title="Shqip",MRTV 2 SAT
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/98.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV 2 FHD" tvg-logo="" group-title="Shqip",MRTV 2 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1446.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star Plus" tvg-logo="" group-title="Shqip",Star Plus
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1474.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star Plus FHD" tvg-logo="" group-title="Shqip",Star Plus FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/806.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Alpo Tv" tvg-logo="" group-title="Shqip",Alpo Tv
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1385.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Alb Uk" tvg-logo="" group-title="Shqip",Alb Uk
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Alb Uk +" tvg-logo="" group-title="Shqip",Alb Uk +
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1418.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Channel 7" tvg-logo="" group-title="Shqip",Channel 7
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1386.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Lezha" tvg-logo="" group-title="Shqip",Tv Lezha
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Adrianet" tvg-logo="" group-title="Shqip",Adrianet
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH Korca" tvg-logo="" group-title="Shqip",RTSH Korca
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1400.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Gjirokastra" tvg-logo="" group-title="Shqip",Tv Gjirokastra
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1401.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV 1 Channel Shkoder" tvg-logo="" group-title="Shqip",TV 1 Channel Shkoder
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1473.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv 1 Channel Shkoder FHD" tvg-logo="" group-title="Shqip",Tv 1 Channel Shkoder FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1399.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kombi TV" tvg-logo="" group-title="Shqip",Kombi TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1414.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Tema" tvg-logo="" group-title="Shqip",Tv Tema
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1374.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Syri Vision" tvg-logo="" group-title="Shqip",Syri Vision
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/832.ts
+#EXTINF:-1 tvg-ID="first CHANNEL" tvg-name="First Channel" tvg-logo="" group-title="Shqip",First Channel
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/86.ts
+#EXTINF:-1 tvg-ID="first CHANNEL" tvg-name="First Chanel FHD" tvg-logo="" group-title="Shqip",First Chanel FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1524.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rrokum HD" tvg-logo="" group-title="Shqip",Rrokum HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/93.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rrokum FHD" tvg-logo="" group-title="Shqip",Rrokum FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1344.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV 21 Mix" tvg-logo="" group-title="Shqip",RTV 21 Mix
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV 21 Mix FHD" tvg-logo="" group-title="Shqip",RTV 21 Mix FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Vali" tvg-logo="" group-title="Shqip",Tv Vali
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1070.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Plus TV" tvg-logo="" group-title="Shqip",Plus TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Mitrovica" tvg-logo="" group-title="Shqip",Tv Mitrovica
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/964.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Prizreni" tvg-logo="" group-title="Shqip",TV Prizreni
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1426.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Real RTV" tvg-logo="" group-title="Shqip",Real RTV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1389.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Llapi" tvg-logo="" group-title="Shqip",Tv Llapi
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1366.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jug TV" tvg-logo="" group-title="Shqip",Jug TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Besa" tvg-logo="" group-title="Shqip",Tv Besa
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/284.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Channel One" tvg-logo="" group-title="Shqip",Channel One
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/831.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Channel One FDH" tvg-logo="" group-title="Shqip",Channel One FDH
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1466.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV Aldi" tvg-logo="" group-title="Shqip",RTV Aldi
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1425.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Presheva" tvg-logo="" group-title="Shqip",TV Presheva
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV Bujanoc" tvg-logo="" group-title="Shqip",RTV Bujanoc
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/770.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Boin TV" tvg-logo="" group-title="Shqip",Boin TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1479.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Pako Lajme =================" tvg-logo="" group-title="",== Pako Lajme =================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Top News" tvg-logo="" group-title="Shqip",Top News
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/778.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A2 cnn" tvg-logo="" group-title="Shqip",A2 cnn
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1099.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ora News" tvg-logo="" group-title="Shqip",Ora News
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ora News FHD" tvg-logo="" group-title="Shqip",Ora News FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1354.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arta News" tvg-logo="" group-title="Shqip",Arta News
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/804.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arta News FHD" tvg-logo="" group-title="Shqip",Arta News FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zeri" tvg-logo="" group-title="Shqip",Zeri
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1462.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A1 Raport 1" tvg-logo="" group-title="Shqip",A1 Raport 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/791.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV 21 NewsBiz" tvg-logo="" group-title="Shqip",RTV 21 NewsBiz
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1067.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV 21 NewsBiz FHD" tvg-logo="" group-title="Shqip",RTV 21 NewsBiz FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1355.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Apollon  News TV" tvg-logo="" group-title="Shqip",Apollon  News TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1365.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Apollon News FHD" tvg-logo="" group-title="Shqip",Apollon News FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1467.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ABC 2 News" tvg-logo="" group-title="Shqip",ABC 2 News
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Abc News FHD" tvg-logo="" group-title="Shqip",Abc News FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="News 24" tvg-logo="" group-title="Shqip",News 24
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="News 24 FHD" tvg-logo="" group-title="Shqip",News 24 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fax News" tvg-logo="" group-title="Shqip",Fax News
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1469.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fax News HD" tvg-logo="" group-title="Shqip",Fax News HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1476.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kanali 7" tvg-logo="" group-title="Shqip",Kanali 7
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/99.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Scan Tv" tvg-logo="" group-title="Shqip",Scan Tv
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1468.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UTV" tvg-logo="" group-title="Shqip",UTV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1463.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN" tvg-logo="" group-title="Shqip",CNN
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2066.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC News" tvg-logo="" group-title="Shqip",CNBC News
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2072.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nasa LIVE" tvg-logo="" group-title="Shqip",Nasa LIVE
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2071.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Earth TV" tvg-logo="" group-title="Shqip",Earth TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2064.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Euronews Deutsch" tvg-logo="" group-title="Shqip",Euronews Deutsch
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2054.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY News UK" tvg-logo="" group-title="Shqip",SKY News UK
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2055.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RT Français" tvg-logo="" group-title="Shqip",RT Français
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2057.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RT English" tvg-logo="" group-title="Shqip",RT English
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2056.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Al Jazeera English" tvg-logo="" group-title="Shqip",Al Jazeera English
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2058.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ABC News English" tvg-logo="" group-title="Shqip",ABC News English
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2063.ts
+#EXTINF:-1 tvg-ID="" tvg-name="France 24 Français" tvg-logo="" group-title="Shqip",France 24 Français
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2060.ts
+#EXTINF:-1 tvg-ID="" tvg-name="France 24 English" tvg-logo="" group-title="Shqip",France 24 English
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2059.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Deutsche Welle English" tvg-logo="" group-title="Shqip",Deutsche Welle English
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2061.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Deutsche Welle Deutsch" tvg-logo="" group-title="Shqip",Deutsche Welle Deutsch
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2062.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fashion TV Europe" tvg-logo="" group-title="Shqip",Fashion TV Europe
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2052.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Islam =====================" tvg-logo="" group-title="",== Islam =====================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/282.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rtv Pendimi" tvg-logo="" group-title="Shqip",Rtv Pendimi
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lexo (RTV1)" tvg-logo="" group-title="Shqip",Lexo (RTV1)
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/285.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Peace TV" tvg-logo="" group-title="Shqip",Peace TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/283.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Peace TV Anglisht" tvg-logo="" group-title="Shqip",Peace TV Anglisht
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rtv Islam" tvg-logo="" group-title="Shqip",Rtv Islam
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/286.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A1 Islam" tvg-logo="" group-title="Shqip",A1 Islam
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1482.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Islam Prizen" tvg-logo="" group-title="Shqip",Tv Islam Prizen
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mekka Live" tvg-logo="" group-title="Shqip",Mekka Live
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/287.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Medina Live" tvg-logo="" group-title="Shqip",Medina Live
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/288.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Xhamia e Tabakeve" tvg-logo="" group-title="Shqip",Xhamia e Tabakeve
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/772.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Pako për Fëmijë ============" tvg-logo="" group-title="",== Pako për Fëmijë ============
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bang Bang" tvg-logo="" group-title="Shqip",Bang Bang
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cufo" tvg-logo="" group-title="Shqip",Cufo
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Kids" tvg-logo="" group-title="Shqip",X Kids
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/732.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tom & Jerry" tvg-logo="" group-title="Shqip",Tom & Jerry
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2065.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Duck TV" tvg-logo="" group-title="Shqip",Duck TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1434.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sole TV" tvg-logo="" group-title="Shqip",Sole TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH Femije" tvg-logo="" group-title="Shqip",RTSH Femije
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1565.ts
+#EXTINF:-1 tvg-ID="Tring Kids" tvg-name="Tring Kids" tvg-logo="" group-title="Shqip",Tring Kids
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/782.ts
+#EXTINF:-1 tvg-ID="Tring Tring" tvg-name="Tring Tring" tvg-logo="" group-title="Shqip",Tring Tring
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/47.ts
+#EXTINF:-1 tvg-ID="Tip TV" tvg-name="Tip TV" tvg-logo="" group-title="Shqip",Tip TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Junior" tvg-logo="" group-title="Shqip",Junior
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/64.ts
+#EXTINF:-1 tvg-ID="21 Junior" tvg-name="RTV 21 Junior" tvg-logo="" group-title="Shqip",RTV 21 Junior
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sofia HD" tvg-logo="" group-title="Shqip",Sofia HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1100.ts
+#EXTINF:-1 tvg-ID="Baby TV" tvg-name="BabyTV" tvg-logo="" group-title="Shqip",BabyTV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/773.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Carton Network" tvg-logo="" group-title="Shqip",Carton Network
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1101.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang" tvg-logo="" group-title="Shqip",Boomerang
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== PPV ======================" tvg-logo="" group-title="",== PPV ======================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DIGI Gold" tvg-logo="" group-title="Shqip",DIGI Gold
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DIGI Gold 1" tvg-logo="" group-title="Shqip",DIGI Gold 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/981.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DIGI Gold 2" tvg-logo="" group-title="Shqip",DIGI Gold 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/982.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DIGI Gold 3" tvg-logo="" group-title="Shqip",DIGI Gold 3
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/983.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DIGI Gold 4" tvg-logo="" group-title="Shqip",DIGI Gold 4
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/984.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Filma24" tvg-logo="" group-title="Shqip",X Filma24
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1291.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Pako Digitalb ================" tvg-logo="" group-title="",== Pako Digitalb ================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/55.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Nje FHD" tvg-logo="" group-title="Shqip",Film Nje FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Dy FHD" tvg-logo="" group-title="Shqip",Film Dy FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Nje HD" tvg-logo="" group-title="Shqip",Film Nje HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1345.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Dy HD" tvg-logo="" group-title="Shqip",Film Dy HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Aksion" tvg-logo="" group-title="Shqip",Film Aksion
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2073.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Aksion FHD" tvg-logo="" group-title="Shqip",Film Aksion FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Thriller" tvg-logo="" group-title="Shqip",Film Thriller
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/25.ts
+#EXTINF:-1 tvg-ID="Film Hits" tvg-name="Film Hits" tvg-logo="" group-title="Shqip",Film Hits
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Autor" tvg-logo="" group-title="Shqip",Film Autor
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Drame" tvg-logo="" group-title="Shqip",Film Drame
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Komedi" tvg-logo="" group-title="Shqip",Film Komedi
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Euro Film" tvg-logo="" group-title="Shqip",Euro Film
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/78.ts
+#EXTINF:-1 tvg-ID="Stinet" tvg-name="Film Stinet" tvg-logo="" group-title="Shqip",Film Stinet
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/15.ts
+#EXTINF:-1 tvg-ID="Family HD" tvg-name="Family HD" tvg-logo="" group-title="Shqip",Family HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1347.ts
+#EXTINF:-1 tvg-ID="Family HD" tvg-name="Family FHD" tvg-logo="" group-title="Shqip",Family FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/96.ts
+#EXTINF:-1 tvg-ID="T HD" tvg-name="T HD" tvg-logo="" group-title="Shqip",T HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1350.ts
+#EXTINF:-1 tvg-ID="T HD" tvg-name="T FHD" tvg-logo="" group-title="Shqip",T FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/17.ts
+#EXTINF:-1 tvg-ID="FOX" tvg-name="Fox" tvg-logo="" group-title="Shqip",Fox
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/785.ts
+#EXTINF:-1 tvg-ID="FOX Crime" tvg-name="Fox Crime" tvg-logo="" group-title="Shqip",Fox Crime
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/784.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Movies" tvg-logo="" group-title="Shqip",Fox Movies
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1791.ts
+#EXTINF:-1 tvg-ID="FOX Life" tvg-name="Fox Life" tvg-logo="" group-title="Shqip",Fox Life
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/795.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FHD" tvg-logo="" group-title="Shqip",HBO FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2080.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 FHD" tvg-logo="" group-title="Shqip",HBO 2 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2081.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 3 FHD" tvg-logo="" group-title="Shqip",HBO 3 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2082.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax FHD" tvg-logo="" group-title="Shqip",Cinemax FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2083.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax 2 FHD" tvg-logo="" group-title="Shqip",Cinemax 2 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2084.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Box Plus" tvg-logo="" group-title="Shqip",Film Box Plus
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1435.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Box Extra" tvg-logo="" group-title="Shqip",Film Box Extra
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1433.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Box Premium" tvg-logo="" group-title="Shqip",Film Box Premium
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1432.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Box Arthouse" tvg-logo="" group-title="Shqip",Film Box Arthouse
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2074.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Doku Box" tvg-logo="" group-title="Shqip",Doku Box
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2075.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fashion Box" tvg-logo="" group-title="Shqip",Fashion Box
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2078.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fas & Fun Box" tvg-logo="" group-title="Shqip",Fas & Fun Box
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2076.ts
+#EXTINF:-1 tvg-ID="" tvg-name="360 Tune Box" tvg-logo="" group-title="Shqip",360 Tune Box
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2077.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fight Box" tvg-logo="" group-title="Shqip",Fight Box
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/802.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Game Toon" tvg-logo="" group-title="Shqip",Game Toon
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2079.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GodFather" tvg-logo="" group-title="Shqip",GodFather
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1442.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sofa Tv" tvg-logo="" group-title="Shqip",Sofa Tv
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1443.ts
+#EXTINF:-1 tvg-ID="" tvg-name="7 TV" tvg-logo="" group-title="Shqip",7 TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1470.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="" group-title="Shqip",TLC
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1123.ts
+#EXTINF:-1 tvg-ID="Travel Channel" tvg-name="Travel Channel" tvg-logo="" group-title="Shqip",Travel Channel
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1471.ts
+#EXTINF:-1 tvg-ID="Travel Channel" tvg-name="Travel Channel FHD" tvg-logo="" group-title="Shqip",Travel Channel FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/801.ts
+#EXTINF:-1 tvg-ID="Discovery Channel" tvg-name="Discovery FHD" tvg-logo="" group-title="Shqip",Discovery FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/788.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science FHD" tvg-logo="" group-title="Shqip",Discovery Science FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1122.ts
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="National Geographic" tvg-logo="" group-title="Shqip",National Geographic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1478.ts
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="National Graphic FHD" tvg-logo="" group-title="Shqip",National Graphic FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/256.ts
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Animal Planet FHD" tvg-logo="" group-title="Shqip",Animal Planet FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1127.ts
+#EXTINF:-1 tvg-ID="24 Kitchen" tvg-name="Kitchen24" tvg-logo="" group-title="Shqip",Kitchen24
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/823.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central Extra" tvg-logo="" group-title="Shqip",Comedy Central Extra
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1445.ts
+#EXTINF:-1 tvg-ID="ID Xtra HD" tvg-name="ID Xtra" tvg-logo="" group-title="Shqip",ID Xtra
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DTx" tvg-logo="" group-title="Shqip",DTx
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/973.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Exp Shkenca" tvg-logo="" group-title="Shqip",Exp Shkenca
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Exp Natyra" tvg-logo="" group-title="Shqip",Exp Natyra
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Exp History" tvg-logo="" group-title="Shqip",Exp History
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Privat Channel" tvg-logo="" group-title="Shqip",Privat Channel
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/963.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Pako Tring ==================" tvg-logo="" group-title="",== Pako Tring ==================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Aksion" tvg-logo="" group-title="Shqip",Tring Aksion
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2053.ts
+#EXTINF:-1 tvg-ID="Tring Action" tvg-name="Tring Aksion FHD" tvg-logo="" group-title="Shqip",Tring Aksion FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/42.ts
+#EXTINF:-1 tvg-ID="Tring Super" tvg-name="Tring Super" tvg-logo="" group-title="Shqip",Tring Super
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1348.ts
+#EXTINF:-1 tvg-ID="Tring Super" tvg-name="Tring Super FHD" tvg-logo="" group-title="Shqip",Tring Super FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/43.ts
+#EXTINF:-1 tvg-ID="Tring Comedy" tvg-name="Tring Comedy" tvg-logo="" group-title="Shqip",Tring Comedy
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/41.ts
+#EXTINF:-1 tvg-ID="Tring Fantasy" tvg-name="Tring Fantasy" tvg-logo="" group-title="Shqip",Tring Fantasy
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/38.ts
+#EXTINF:-1 tvg-ID="Tring Life" tvg-name="Tring Life" tvg-logo="" group-title="Shqip",Tring Life
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/45.ts
+#EXTINF:-1 tvg-ID="3 Plus" tvg-name="Tring 3+" tvg-logo="" group-title="Shqip",Tring 3+
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/46.ts
+#EXTINF:-1 tvg-ID="Tring Shqip" tvg-name="Tring Shqip" tvg-logo="" group-title="Shqip",Tring Shqip
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/44.ts
+#EXTINF:-1 tvg-ID="Tring International" tvg-name="Tring International" tvg-logo="" group-title="Shqip",Tring International
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1369.ts
+#EXTINF:-1 tvg-ID="Jolly HD" tvg-name="Jolly HD" tvg-logo="" group-title="Shqip",Jolly HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1349.ts
+#EXTINF:-1 tvg-ID="Jolly HD" tvg-name="Jolly FHD" tvg-logo="" group-title="Shqip",Jolly FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/101.ts
+#EXTINF:-1 tvg-ID="Muse" tvg-name="Tring Muse" tvg-logo="" group-title="Shqip",Tring Muse
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/827.ts
+#EXTINF:-1 tvg-ID="Smile" tvg-name="Tring Smile" tvg-logo="" group-title="Shqip",Tring Smile
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Luxe TV" tvg-logo="" group-title="Shqip",Luxe TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/835.ts
+#EXTINF:-1 tvg-ID="Living HD" tvg-name="Living HD" tvg-logo="" group-title="Shqip",Living HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1351.ts
+#EXTINF:-1 tvg-ID="Living HD" tvg-name="Living FHD" tvg-logo="" group-title="Shqip",Living FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/796.ts
+#EXTINF:-1 tvg-ID="Tring World" tvg-name="Tring World" tvg-logo="" group-title="Shqip",Tring World
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/39.ts
+#EXTINF:-1 tvg-ID="Tring Planet" tvg-name="Tring Planet" tvg-logo="" group-title="Shqip",Tring Planet
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/40.ts
+#EXTINF:-1 tvg-ID="Tring History" tvg-name="Tring History" tvg-logo="" group-title="Shqip",Tring History
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Pako Sky ===================" tvg-logo="" group-title="",== Pako Sky ===================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star HD" tvg-logo="" group-title="Shqip",Star HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1126.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky 7" tvg-logo="" group-title="Shqip",Sky 7
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Max" tvg-logo="" group-title="Shqip",Sky Max
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Aksion" tvg-logo="" group-title="Shqip",Sky Aksion
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1103.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Drame" tvg-logo="" group-title="Shqip",Sky Drame
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Komedi" tvg-logo="" group-title="Shqip",Sky Komedi
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Novela" tvg-logo="" group-title="Shqip",Sky Novela
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Shqip" tvg-logo="" group-title="Shqip",Sky Shqip
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1130.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GALAXY HD" tvg-logo="" group-title="Shqip",GALAXY HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Planet" tvg-logo="" group-title="Shqip",Sky Planet
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Histori" tvg-logo="" group-title="Shqip",Sky Histori
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Pako eXtreme Premium ==========" tvg-logo="" group-title="",== Pako eXtreme Premium ==========
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Premium 1 HD" tvg-logo="" group-title="Shqip",X Premium 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/122.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Premium 2 HD" tvg-logo="" group-title="Shqip",X Premium 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Premium 3 HD" tvg-logo="" group-title="Shqip",X Premium 3 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Premium 4 HD" tvg-logo="" group-title="Shqip",X Premium 4 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1300.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Action HD" tvg-logo="" group-title="Shqip",X Action HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Comedy HD" tvg-logo="" group-title="Shqip",X Comedy HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/399.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Family HD" tvg-logo="" group-title="Shqip",X Family HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Sci-Fi HD" tvg-logo="" group-title="Shqip",X Sci-Fi HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Romance HD" tvg-logo="" group-title="Shqip",X Romance HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Thriller HD" tvg-logo="" group-title="Shqip",X Thriller HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Drama HD" tvg-logo="" group-title="Shqip",X Drama HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/398.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Dark HD" tvg-logo="" group-title="Shqip",X Dark HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/787.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Western HD" tvg-logo="" group-title="Shqip",X Western HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Shkenca HD" tvg-logo="" group-title="Shqip",X Shkenca HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Natyra HD" tvg-logo="" group-title="Shqip",X Natyra HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Histori HD" tvg-logo="" group-title="Shqip",X Histori HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Music Hits HD" tvg-logo="" group-title="Shqip",X Music Hits HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/396.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Popullore HD" tvg-logo="" group-title="Shqip",X Popullore HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/397.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Cifteli HD" tvg-logo="" group-title="Shqip",X Cifteli HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/81.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Humor HD" tvg-logo="" group-title="Shqip",X Humor HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/400.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Stupcat" tvg-logo="" group-title="Shqip",X Stupcat
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2159.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Ca Ka Shpija" tvg-logo="" group-title="Shqip",X Ca Ka Shpija
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2161.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X Osa Mire" tvg-logo="" group-title="Shqip",X Osa Mire
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2160.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== PAKO ART =================" tvg-logo="" group-title="",== PAKO ART =================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2020.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Art Kino 1" tvg-logo="" group-title="Shqip",Art Kino 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2012.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Art Kino 2" tvg-logo="" group-title="Shqip",Art Kino 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2013.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Art Kino 3" tvg-logo="" group-title="Shqip",Art Kino 3
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2014.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Episode" tvg-logo="" group-title="Shqip",Episode
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2021.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Art Doku 1" tvg-logo="" group-title="Shqip",Art Doku 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2015.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Art Doku 2" tvg-logo="" group-title="Shqip",Art Doku 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2016.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Pako Muzik =================" tvg-logo="" group-title="",== Pako Muzik =================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Music" tvg-logo="" group-title="Shqip",My Music
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/774.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Hits" tvg-logo="" group-title="Shqip",MTV Hits
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Dance" tvg-logo="" group-title="Shqip",MTV Dance
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1380.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Rock" tvg-logo="" group-title="Shqip",MTV Rock
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1367.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 Classic" tvg-logo="" group-title="Shqip",VH1 Classic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Kosova" tvg-logo="" group-title="Shqip",MTV Kosova
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/965.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Red TV" tvg-logo="" group-title="Shqip",Red TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2085.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ulqini TV" tvg-logo="" group-title="Shqip",Ulqini TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2026.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MFM Music" tvg-logo="" group-title="Shqip",MFM Music
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1395.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zjarr TV" tvg-logo="" group-title="Shqip",Zjarr TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1464.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zjarr TV FHD" tvg-logo="" group-title="Shqip",Zjarr TV FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/952.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Kopliku" tvg-logo="" group-title="Shqip",Tv Kopliku
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/951.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Kopliku FHD" tvg-logo="" group-title="Shqip",Tv Kopliku FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1465.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV Fontana" tvg-logo="" group-title="Shqip",RTV Fontana
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2023.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bulqiza Tv" tvg-logo="" group-title="Shqip",Bulqiza Tv
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2024.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTVZiK" tvg-logo="" group-title="Shqip",RTVZiK
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH Music" tvg-logo="" group-title="Shqip",RTSH Music
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1403.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Camel TV" tvg-logo="" group-title="Shqip",Camel TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1427.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A1 Shqiptare" tvg-logo="" group-title="Shqip",A1 Shqiptare
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1428.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Tetova" tvg-logo="" group-title="Shqip",Tv Tetova
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1370.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Klan Music" tvg-logo="" group-title="Shqip",Klan Music
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Xiki" tvg-logo="" group-title="Shqip",TV Xiki
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Shota TV" tvg-logo="" group-title="Shqip",Shota TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1421.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Stv Folk" tvg-logo="" group-title="Shqip",Stv Folk
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Vizioni Tv" tvg-logo="" group-title="Shqip",Vizioni Tv
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1424.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Music Box" tvg-logo="" group-title="Shqip",Music Box
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1419.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Spin Tv" tvg-logo="" group-title="Shqip",Spin Tv
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1406.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ALB Swiss TV" tvg-logo="" group-title="Shqip",ALB Swiss TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1381.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hareja TV" tvg-logo="" group-title="Shqip",Hareja TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1413.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Drini" tvg-logo="" group-title="Shqip",Tv Drini
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1392.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Roma TV" tvg-logo="" group-title="Shqip",Roma TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1394.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Atv 1" tvg-logo="" group-title="Shqip",Atv 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1409.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Euro AL" tvg-logo="" group-title="Shqip",Euro AL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1382.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv R" tvg-logo="" group-title="Shqip",Tv R
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1384.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Diaspora TV" tvg-logo="" group-title="Shqip",Diaspora TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1393.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Turbo Channel" tvg-logo="" group-title="Shqip",Turbo Channel
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Melody TV" tvg-logo="" group-title="Shqip",Melody TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/775.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sonic" tvg-logo="" group-title="Shqip",Super Sonic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Balkanika Music" tvg-logo="" group-title="Shqip",Balkanika Music
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/836.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBF Music" tvg-logo="" group-title="Shqip",BBF Music
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Folk +" tvg-logo="" group-title="Shqip",Folk +
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Elrodi TV" tvg-logo="" group-title="Shqip",Elrodi TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Top Estrada" tvg-logo="" group-title="Shqip",Top Estrada
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1387.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Sharri" tvg-logo="" group-title="Shqip",Tv Sharri
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1388.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Amol TV" tvg-logo="" group-title="Shqip",Amol TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Dielli" tvg-logo="" group-title="Shqip",Tv Dielli
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1373.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Syri Blue" tvg-logo="" group-title="Shqip",Syri Blue
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Istogu Channel FHD" tvg-logo="" group-title="Shqip",Istogu Channel FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="City TV" tvg-logo="" group-title="Shqip",City TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/781.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Clik" tvg-logo="" group-title="Shqip",Clik
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/797.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Liria" tvg-logo="" group-title="Shqip",Tv Liria
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1371.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Club TV" tvg-logo="" group-title="Shqip",Club TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/830.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dasma TV" tvg-logo="" group-title="Shqip",Dasma TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Zico" tvg-logo="" group-title="Shqip",Tv Zico
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/966.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Opoja" tvg-logo="" group-title="Shqip",TV Opoja
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/90.ts
+#EXTINF:-1 tvg-ID="" tvg-name="On TV" tvg-logo="" group-title="Shqip",On TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/978.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tirana TV" tvg-logo="" group-title="Shqip",Tirana TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1368.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Albania" tvg-logo="" group-title="Shqip",TNT Albania
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV 21 Popullore" tvg-logo="" group-title="Shqip",RTV 21 Popullore
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/8.ts
+#EXTINF:-1 tvg-ID="21 Popullore" tvg-name="RTV 21 Popullore FHD" tvg-logo="" group-title="Shqip",RTV 21 Popullore FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV 21 Plus" tvg-logo="" group-title="Shqip",RTV 21 Plus
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1343.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV 21 Plus FHD" tvg-logo="" group-title="Shqip",RTV 21 Plus FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Kanale Sport Shqip =============" tvg-logo="" group-title="",== Kanale Sport Shqip =============
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/60.ts
+#EXTINF:-1 tvg-ID="SS Kosova 1" tvg-name="Super Sport Kosova 1 HD" tvg-logo="" group-title="Sport World",Super Sport Kosova 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/34.ts
+#EXTINF:-1 tvg-ID="SS Kosova 2" tvg-name="Super Sport Kosova 2 HD" tvg-logo="" group-title="Sport World",Super Sport Kosova 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/35.ts
+#EXTINF:-1 tvg-ID="SS Kosova 3" tvg-name="Super Sport Kosova 3 HD" tvg-logo="" group-title="Sport World",Super Sport Kosova 3 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1121.ts
+#EXTINF:-1 tvg-ID="SuperSport 1" tvg-name="Super Sport 1 HD" tvg-logo="" group-title="Sport World",Super Sport 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/30.ts
+#EXTINF:-1 tvg-ID="SuperSport 2" tvg-name="Super Sport 2 HD" tvg-logo="" group-title="Sport World",Super Sport 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/31.ts
+#EXTINF:-1 tvg-ID="SuperSport 3" tvg-name="Super Sport 3 HD" tvg-logo="" group-title="Sport World",Super Sport 3 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/32.ts
+#EXTINF:-1 tvg-ID="SuperSport 4" tvg-name="Super Sport 4 HD" tvg-logo="" group-title="Sport World",Super Sport 4 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/33.ts
+#EXTINF:-1 tvg-ID="SuperSport 5" tvg-name="Super Sport 5 HD" tvg-logo="" group-title="Sport World",Super Sport 5 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport 6 HD" tvg-logo="" group-title="Sport World",Super Sport 6 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/780.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport 7 HD" tvg-logo="" group-title="Sport World",Super Sport 7 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/953.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EuroSport1" tvg-logo="" group-title="Sport World",EuroSport1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/799.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EuroSport2" tvg-logo="" group-title="Sport World",EuroSport2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/800.ts
+#EXTINF:-1 tvg-ID="SS Kosova 1" tvg-name="Super Sport Kosova 1 FHD" tvg-logo="" group-title="Sport World",Super Sport Kosova 1 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1315.ts
+#EXTINF:-1 tvg-ID="SS Kosova 2" tvg-name="Super Sport Kosova 2 FHD" tvg-logo="" group-title="Sport World",Super Sport Kosova 2 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1316.ts
+#EXTINF:-1 tvg-ID="SS Kosova 3" tvg-name="Super Sport Kosova 3 FHD" tvg-logo="" group-title="Sport World",Super Sport Kosova 3 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1322.ts
+#EXTINF:-1 tvg-ID="SuperSport 1" tvg-name="Super Sport 1 FHD" tvg-logo="" group-title="Sport World",Super Sport 1 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1307.ts
+#EXTINF:-1 tvg-ID="SuperSport 2" tvg-name="Super Sport 2 FHD" tvg-logo="" group-title="Sport World",Super Sport 2 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1308.ts
+#EXTINF:-1 tvg-ID="SuperSport 3" tvg-name="Super Sport 3 FHD" tvg-logo="" group-title="Sport World",Super Sport 3 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1309.ts
+#EXTINF:-1 tvg-ID="SuperSport 4" tvg-name="Super Sport 4 FHD" tvg-logo="" group-title="Sport World",Super Sport 4 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1310.ts
+#EXTINF:-1 tvg-ID="SuperSport 5" tvg-name="Super Sport 5 FHD" tvg-logo="" group-title="Sport World",Super Sport 5 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1311.ts
+#EXTINF:-1 tvg-ID="SuperSport 6" tvg-name="Super Sport 6 FHD" tvg-logo="" group-title="Sport World",Super Sport 6 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1312.ts
+#EXTINF:-1 tvg-ID="SuperSport 6" tvg-name="Super Sport 7 FHD" tvg-logo="" group-title="Sport World",Super Sport 7 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1313.ts
+#EXTINF:-1 tvg-ID="Eurosport1.de" tvg-name="EuroSport 1 FHD" tvg-logo="" group-title="Sport World",EuroSport 1 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1783.ts
+#EXTINF:-1 tvg-ID="Eurosport2.de" tvg-name="EuroSport 2 FHD" tvg-logo="" group-title="Sport World",EuroSport 2 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1784.ts
+#EXTINF:-1 tvg-ID="Tring Sport News HD" tvg-name="Tring Sport News" tvg-logo="" group-title="Sport World",Tring Sport News
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/52.ts
+#EXTINF:-1 tvg-ID="Tring Sport 1 HD" tvg-name="Tring Sport 1 HD" tvg-logo="" group-title="Sport World",Tring Sport 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/51.ts
+#EXTINF:-1 tvg-ID="Tring Sport 2 HD" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="Sport World",Tring Sport 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/50.ts
+#EXTINF:-1 tvg-ID="Tring Sport 3 HD" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="Sport World",Tring Sport 3 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/49.ts
+#EXTINF:-1 tvg-ID="Tring Sport 4 HD" tvg-name="Tring Sport 4 HD" tvg-logo="" group-title="Sport World",Tring Sport 4 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/48.ts
+#EXTINF:-1 tvg-ID="Tring Sport 1 HD" tvg-name="Tring Sport 1 FHD" tvg-logo="" group-title="Sport World",Tring Sport 1 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1357.ts
+#EXTINF:-1 tvg-ID="Tring Sport 2 HD" tvg-name="Tring Sport 2 FHD" tvg-logo="" group-title="Sport World",Tring Sport 2 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1358.ts
+#EXTINF:-1 tvg-ID="Tring Sport 3 HD" tvg-name="Tring Sport 3 FHD" tvg-logo="" group-title="Sport World",Tring Sport 3 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1359.ts
+#EXTINF:-1 tvg-ID="Tring Sport 4 HD" tvg-name="Tring Sport 4 FHD" tvg-logo="" group-title="Sport World",Tring Sport 4 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTSH Sport FHD" tvg-logo="" group-title="Sport World",RTSH Sport FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/975.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tele Sport" tvg-logo="" group-title="Sport World",Tele Sport
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kujtesa Sport 1" tvg-logo="" group-title="Sport World",Kujtesa Sport 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kujtesa Sport 2" tvg-logo="" group-title="Sport World",Kujtesa Sport 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kujtesa Sport 3" tvg-logo="" group-title="Sport World",Kujtesa Sport 3
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kujtesa Sport 4" tvg-logo="" group-title="Sport World",Kujtesa Sport 4
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kujtesa Sport 5" tvg-logo="" group-title="Sport World",Kujtesa Sport 5
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/977.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kujtesa Sport 1 HD" tvg-logo="" group-title="Sport World",Kujtesa Sport 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1361.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kujtesa Sport 2 HD" tvg-logo="" group-title="Sport World",Kujtesa Sport 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1362.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kujtesa Sport 3 HD" tvg-logo="" group-title="Sport World",Kujtesa Sport 3 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1363.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kujtesa Sport 4 HD" tvg-logo="" group-title="Sport World",Kujtesa Sport 4 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1364.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kujtesa Sport 5 HD" tvg-logo="" group-title="Sport World",Kujtesa Sport 5 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/792.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Art Sport 1 FHD" tvg-logo="" group-title="Sport World",Art Sport 1 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2017.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Art Sport 2 FHD" tvg-logo="" group-title="Sport World",Art Sport 2 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2018.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Art Sport 3 FHD" tvg-logo="" group-title="Sport World",Art Sport 3 FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2019.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Sport Eu ===================" tvg-logo="" group-title="",== Sport Eu ===================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 1 HD HR" tvg-logo="" group-title="Sport World",Sport Klub 1 HD HR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/729.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 2 HD HR" tvg-logo="" group-title="Sport World",Sport Klub 2 HD HR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/730.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 3 HD HR" tvg-logo="" group-title="Sport World",Sport Klub 3 HD HR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/731.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1 HD HR" tvg-logo="" group-title="Sport World",Arena Sport 1 HD HR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/725.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2 HD HR" tvg-logo="" group-title="Sport World",Arena Sport 2 HD HR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/726.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3 HD HR" tvg-logo="" group-title="Sport World",Arena Sport 3 HD HR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/727.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4 HD HR" tvg-logo="" group-title="Sport World",Arena Sport 4 HD HR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/728.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 5 HD HR" tvg-logo="" group-title="Sport World",Arena Sport 5 HD HR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1487.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 6 HD HR" tvg-logo="" group-title="Sport World",Arena Sport 6 HD HR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1488.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 1 HD SR" tvg-logo="" group-title="Sport World",Sport Klub 1 HD SR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1506.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 2 HD SR" tvg-logo="" group-title="Sport World",Sport Klub 2 HD SR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1507.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 3 HD SR" tvg-logo="" group-title="Sport World",Sport Klub 3 HD SR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1 FHD SR" tvg-logo="" group-title="Sport World",Arena Sport 1 FHD SR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1489.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2 FHD SR" tvg-logo="" group-title="Sport World",Arena Sport 2 FHD SR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1490.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3 FHD SR" tvg-logo="" group-title="Sport World",Arena Sport 3 FHD SR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1491.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4 FHD SR" tvg-logo="" group-title="Sport World",Arena Sport 4 FHD SR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1492.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 5 FHD SR" tvg-logo="" group-title="Sport World",Arena Sport 5 FHD SR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1493.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports 1 FHD TR" tvg-logo="" group-title="Sport World",beIN Sports 1 FHD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports 2 FHD TR" tvg-logo="" group-title="Sport World",beIN Sports 2 FHD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports 3 FHD TR" tvg-logo="" group-title="Sport World",beIN Sports 3 FHD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports 4 FHD TR" tvg-logo="" group-title="Sport World",beIN Sports 4 FHD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS MAX 1 HD TR" tvg-logo="" group-title="Sport World",beIN SPORTS MAX 1 HD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS MAX 2 HD TR" tvg-logo="" group-title="Sport World",beIN SPORTS MAX 2 HD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TIVIBU  SPOR 1 HD TR" tvg-logo="" group-title="Sport World",TIVIBU  SPOR 1 HD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TIVIBU  SPOR 2 HD TR" tvg-logo="" group-title="Sport World",TIVIBU  SPOR 2 HD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TIVIBU  SPOR 3 HD TR" tvg-logo="" group-title="Sport World",TIVIBU  SPOR 3 HD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TIVIBU  SPOR 4 HD TR" tvg-logo="" group-title="Sport World",TIVIBU  SPOR 4 HD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRT SPOR FHD TR" tvg-logo="" group-title="Sport World",TRT SPOR FHD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A SPOR FHD TR" tvg-logo="" group-title="Sport World",A SPOR FHD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="S Sport HD TR" tvg-logo="" group-title="Sport World",S Sport HD TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GS TV TR" tvg-logo="" group-title="Sport World",GS TV TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bursa Spor TR" tvg-logo="" group-title="Sport World",Bursa Spor TR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Real Madrid" tvg-logo="" group-title="Sport World",Real Madrid
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2067.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="Sport World",BT Sport 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/495.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="Sport World",BT Sport 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/496.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="Sport World",BT Sport 3 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1552.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Box Nation" tvg-logo="" group-title="Sport World",Box Nation
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/803.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH | Teleclub Sport 1" tvg-logo="" group-title="Sport World",CH | Teleclub Sport 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1509.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH | Teleclub Sport 2" tvg-logo="" group-title="Sport World",CH | Teleclub Sport 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2027.ts
+#EXTINF:-1 tvg-ID="SkySportNews.de" tvg-name="DE | Sky Sport News" tvg-logo="" group-title="Sport World",DE | Sky Sport News
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/335.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport 1" tvg-logo="" group-title="Sport World",DE | Sky Sport 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/337.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Sport 2 HD" tvg-logo="" group-title="Sport World",DE | Sky Sport 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/336.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Danz Sport 1 HD" tvg-logo="" group-title="Sport World",DE | Danz Sport 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1436.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Danz Sport 2 HD" tvg-logo="" group-title="Sport World",DE | Danz Sport 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2070.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | SKY Sport Austria HD" tvg-logo="" group-title="Sport World",DE | SKY Sport Austria HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Bundesliga 1 HD" tvg-logo="" group-title="Sport World",DE | Sky Bundesliga 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Bundesliga 2 HD" tvg-logo="" group-title="Sport World",DE | Sky Bundesliga 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Bundesliga 3 HD" tvg-logo="" group-title="Sport World",DE | Sky Bundesliga 3 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1319.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Sports HD" tvg-logo="" group-title="Sport World",My Sports HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1286.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Sports 1 HD" tvg-logo="" group-title="Sport World",My Sports 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1287.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Sports 2 HD" tvg-logo="" group-title="Sport World",My Sports 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1288.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 1 HD FR" tvg-logo="" group-title="Sport World",BeIN Sport 1 HD FR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 2 HD FR" tvg-logo="" group-title="Sport World",BeIN Sport 2 HD FR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1495.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 3 HD FR" tvg-logo="" group-title="Sport World",BeIN Sport 3 HD FR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1496.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 1HD" tvg-logo="" group-title="Sport World",BeinSports 1HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/685.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 2HD" tvg-logo="" group-title="Sport World",BeinSports 2HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/686.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 3HD" tvg-logo="" group-title="Sport World",BeinSports 3HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/687.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 4HD" tvg-logo="" group-title="Sport World",BeinSports 4HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/688.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 5HD" tvg-logo="" group-title="Sport World",BeinSports 5HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/689.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 6HD" tvg-logo="" group-title="Sport World",BeinSports 6HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/690.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 7HD" tvg-logo="" group-title="Sport World",BeinSports 7HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/691.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 8HD" tvg-logo="" group-title="Sport World",BeinSports 8HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/692.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 9HD" tvg-logo="" group-title="Sport World",BeinSports 9HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/693.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 10HD" tvg-logo="" group-title="Sport World",BeinSports 10HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/694.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 11HD" tvg-logo="" group-title="Sport World",BeinSports 11HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/719.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports 12HD" tvg-logo="" group-title="Sport World",BeinSports 12HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2158.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 1 HD" tvg-logo="" group-title="Sport World",Fox Sport 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1289.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 2 HD" tvg-logo="" group-title="Sport World",Fox Sport 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 3 HD" tvg-logo="" group-title="Sport World",Fox Sport 3 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1498.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 4 HD" tvg-logo="" group-title="Sport World",Fox Sport 4 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1499.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 5 HD" tvg-logo="" group-title="Sport World",Fox Sport 5 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1500.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 1" tvg-logo="" group-title="Sport World",Sport TV 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1501.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 2" tvg-logo="" group-title="Sport World",Sport TV 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1502.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3" tvg-logo="" group-title="Sport World",Sport TV 3
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1503.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 4" tvg-logo="" group-title="Sport World",Sport TV 4
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1504.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 5" tvg-logo="" group-title="Sport World",Sport TV 5
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1505.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Viasat Sport..Sweden" tvg-logo="" group-title="Nordic",Nordic |  Viasat Sport..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2157.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Turkey ====================" tvg-logo="" group-title="",== Turkey ====================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/289.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | TV2" tvg-logo="" group-title="Turkey",TR | TV2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/298.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | TV 8 HD" tvg-logo="" group-title="Turkey",TR | TV 8 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/299.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | TRT 1 HD" tvg-logo="" group-title="Turkey",TR | TRT 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/301.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | STAR HD" tvg-logo="" group-title="Turkey",TR | STAR HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/296.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | Show TV FHD" tvg-logo="" group-title="Turkey",TR | Show TV FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/297.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | KANAL D" tvg-logo="" group-title="Turkey",TR | KANAL D
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/310.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | A TV HD" tvg-logo="" group-title="Turkey",TR | A TV HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | A Haber" tvg-logo="" group-title="Turkey",TR | A Haber
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/317.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | Euro Star" tvg-logo="" group-title="Turkey",TR | Euro Star
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | FOX HD" tvg-logo="" group-title="Turkey",TR | FOX HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/311.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | beIN Series Vice" tvg-logo="" group-title="Turkey",TR | beIN Series Vice
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | beIN Series Sci-Fi" tvg-logo="" group-title="Turkey",TR | beIN Series Sci-Fi
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1574.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | beIN Series Drama" tvg-logo="" group-title="Turkey",TR | beIN Series Drama
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1573.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | beIN Series Comedy" tvg-logo="" group-title="Turkey",TR | beIN Series Comedy
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1572.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | beIN Movies Stars" tvg-logo="" group-title="Turkey",TR | beIN Movies Stars
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1571.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | beIN Movies Premier" tvg-logo="" group-title="Turkey",TR | beIN Movies Premier
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1570.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | beIN Movies Festival" tvg-logo="" group-title="Turkey",TR | beIN Movies Festival
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1569.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | beIN Movies Family" tvg-logo="" group-title="Turkey",TR | beIN Movies Family
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | beIN Movies Comedy" tvg-logo="" group-title="Turkey",TR | beIN Movies Comedy
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1567.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | beIN Movies Action" tvg-logo="" group-title="Turkey",TR | beIN Movies Action
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1566.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | Moviesmart Premium 1 HD" tvg-logo="" group-title="Turkey",TR | Moviesmart Premium 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/295.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | TRT Turk" tvg-logo="" group-title="Turkey",TR | TRT Turk
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/300.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | TRT Muzik" tvg-logo="" group-title="Turkey",TR | TRT Muzik
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/304.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | TRT Haber" tvg-logo="" group-title="Turkey",TR | TRT Haber
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/302.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | TRT Cucuk" tvg-logo="" group-title="Turkey",TR | TRT Cucuk
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/292.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | TRT Avaz" tvg-logo="" group-title="Turkey",TR | TRT Avaz
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/305.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | SALON 1" tvg-logo="" group-title="Turkey",TR | SALON 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/290.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | Power FHD" tvg-logo="" group-title="Turkey",TR | Power FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/315.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | NTV Haber" tvg-logo="" group-title="Turkey",TR | NTV Haber
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/303.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | Kanal 7 HD" tvg-logo="" group-title="Turkey",TR | Kanal 7 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/306.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | Dream TV" tvg-logo="" group-title="Turkey",TR | Dream TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/293.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | Dream Turk" tvg-logo="" group-title="Turkey",TR | Dream Turk
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/314.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR | TV8" tvg-logo="" group-title="Turkey",TR | TV8
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/316.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Macedonia ==================" tvg-logo="" group-title="",== Macedonia ==================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1131.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Alsat TV" tvg-logo="" group-title="Macedonia",MK | Alsat TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Era Tv" tvg-logo="" group-title="Macedonia",MK | Era Tv
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Art TV" tvg-logo="" group-title="Macedonia",MK | Art TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Koha TV" tvg-logo="" group-title="Macedonia",MK | Koha TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1134.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | RTV 21 Maqedoni" tvg-logo="" group-title="Macedonia",MK | RTV 21 Maqedoni
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | MRTV 1" tvg-logo="" group-title="Macedonia",MK | MRTV 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1143.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | MRTV 2" tvg-logo="" group-title="Macedonia",MK | MRTV 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1144.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | MRTV 3" tvg-logo="" group-title="Macedonia",MK | MRTV 3
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1145.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Kanal 5" tvg-logo="" group-title="Macedonia",MK | Kanal 5
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Kanal 5 Plus" tvg-logo="" group-title="Macedonia",MK | Kanal 5 Plus
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Vesti 24" tvg-logo="" group-title="Macedonia",MK | Vesti 24
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Telma" tvg-logo="" group-title="Macedonia",MK | Telma
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1150.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Sitel TV" tvg-logo="" group-title="Macedonia",MK | Sitel TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Sitel 3" tvg-logo="" group-title="Macedonia",MK | Sitel 3
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1153.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Alfa TV" tvg-logo="" group-title="Macedonia",MK | Alfa TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Nova TV" tvg-logo="" group-title="Macedonia",MK | Nova TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1147.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Nasha TV" tvg-logo="" group-title="Macedonia",MK | Nasha TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1148.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MK | Folk MK" tvg-logo="" group-title="Macedonia",MK | Folk MK
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1155.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Ex-Yu =====================" tvg-logo="" group-title="",== Ex-Yu =====================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1207.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | RTS 2" tvg-logo="" group-title="EX-YU",EXYU | RTS 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | RTS 1" tvg-logo="" group-title="EX-YU",EXYU | RTS 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1222.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Rtcg TV" tvg-logo="" group-title="EX-YU",EXYU | Rtcg TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | PTC" tvg-logo="" group-title="EX-YU",EXYU | PTC
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1220.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | PTC 3" tvg-logo="" group-title="EX-YU",EXYU | PTC 3
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1221.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink World TV" tvg-logo="" group-title="EX-YU",EXYU | Pink World TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Western" tvg-logo="" group-title="EX-YU",EXYU | Pink Western
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1226.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Triler TV" tvg-logo="" group-title="EX-YU",EXYU | Pink Triler TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1228.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Pedia" tvg-logo="" group-title="EX-YU",EXYU | Pink Pedia
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1229.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Action" tvg-logo="" group-title="EX-YU",EXYU | Pink Action
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1230.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Horror" tvg-logo="" group-title="EX-YU",EXYU | Pink Horror
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1231.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Movies TV" tvg-logo="" group-title="EX-YU",EXYU | Pink Movies TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1232.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Music" tvg-logo="" group-title="EX-YU",EXYU | Pink Music
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1233.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink kuvar" tvg-logo="" group-title="EX-YU",EXYU | Pink kuvar
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1234.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Hits 2" tvg-logo="" group-title="EX-YU",EXYU | Pink Hits 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1235.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Crime & Mystery" tvg-logo="" group-title="EX-YU",EXYU | Pink Crime & Mystery
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1236.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Sci-fi & Fantasy" tvg-logo="" group-title="EX-YU",EXYU | Pink Sci-fi & Fantasy
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1237.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Comedy" tvg-logo="" group-title="EX-YU",EXYU | Pink Comedy
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1238.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink Folk 1" tvg-logo="" group-title="EX-YU",EXYU | Pink Folk 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1225.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink BH TV HD" tvg-logo="" group-title="EX-YU",EXYU | Pink BH TV HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink 3 TV" tvg-logo="" group-title="EX-YU",EXYU | Pink 3 TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1240.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Pink 2 TV" tvg-logo="" group-title="EX-YU",EXYU | Pink 2 TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Grand" tvg-logo="" group-title="EX-YU",EXYU | Grand
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1224.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | OBN" tvg-logo="" group-title="EX-YU",EXYU | OBN
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1209.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Valentino" tvg-logo="" group-title="EX-YU",EXYU | Valentino
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Mtv Igman BH TV" tvg-logo="" group-title="EX-YU",EXYU | Mtv Igman BH TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Lov i Ribolov" tvg-logo="" group-title="EX-YU",EXYU | Lov i Ribolov
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1208.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | NOVA TV" tvg-logo="" group-title="EX-YU",EXYU | NOVA TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Hrt 1" tvg-logo="" group-title="EX-YU",EXYU | Hrt 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Hrt 2" tvg-logo="" group-title="EX-YU",EXYU | Hrt 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1211.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Hrt 3" tvg-logo="" group-title="EX-YU",EXYU | Hrt 3
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1212.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Hrt 4" tvg-logo="" group-title="EX-YU",EXYU | Hrt 4
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | RTL" tvg-logo="" group-title="EX-YU",EXYU | RTL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1547.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | RTL 2" tvg-logo="" group-title="EX-YU",EXYU | RTL 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1548.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | RTL Living" tvg-logo="" group-title="EX-YU",EXYU | RTL Living
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | RTL Passion" tvg-logo="" group-title="EX-YU",EXYU | RTL Passion
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1550.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Hbo Comedy" tvg-logo="" group-title="EX-YU",EXYU | Hbo Comedy
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1215.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Hbo Adria" tvg-logo="" group-title="EX-YU",EXYU | Hbo Adria
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Hayat TV" tvg-logo="" group-title="EX-YU",EXYU | Hayat TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1246.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Hayat Plus TV" tvg-logo="" group-title="EX-YU",EXYU | Hayat Plus TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1247.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Hayat Music TV" tvg-logo="" group-title="EX-YU",EXYU | Hayat Music TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1248.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Hayat Folk TV" tvg-logo="" group-title="EX-YU",EXYU | Hayat Folk TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1249.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Face TV HD" tvg-logo="" group-title="EX-YU",EXYU | Face TV HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Cine Star" tvg-logo="" group-title="EX-YU",EXYU | Cine Star
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1216.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Cine Max 2" tvg-logo="" group-title="EX-YU",EXYU | Cine Max 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Cine Max 1" tvg-logo="" group-title="EX-YU",EXYU | Cine Max 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Cinestar Action" tvg-logo="" group-title="EX-YU",EXYU | Cinestar Action
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1540.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Cinestar Premiere 1" tvg-logo="" group-title="EX-YU",EXYU | Cinestar Premiere 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Cinestar Premier 2" tvg-logo="" group-title="EX-YU",EXYU | Cinestar Premier 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | FilmBox Extra" tvg-logo="" group-title="EX-YU",EXYU | FilmBox Extra
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Gramd 2" tvg-logo="" group-title="EX-YU",EXYU | Gramd 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1223.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | ATV" tvg-logo="" group-title="EX-YU",EXYU | ATV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1252.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXYU | Ajazzera Balkan" tvg-logo="" group-title="EX-YU",EXYU | Ajazzera Balkan
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Germany ===================" tvg-logo="" group-title="",== Germany ===================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/320.ts
+#EXTINF:-1 tvg-ID="ZDF.de" tvg-name="DE | ZDF HD" tvg-logo="" group-title="Germany",DE | ZDF HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/321.ts
+#EXTINF:-1 tvg-ID="Vox.de" tvg-name="DE | VOX" tvg-logo="" group-title="Germany",DE | VOX
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/322.ts
+#EXTINF:-1 tvg-ID="RTL.de" tvg-name="DE | RTL" tvg-logo="" group-title="Germany",DE | RTL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/365.ts
+#EXTINF:-1 tvg-ID="RTL2.de" tvg-name="DE | RTL 2" tvg-logo="" group-title="Germany",DE | RTL 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/364.ts
+#EXTINF:-1 tvg-ID="RTLCrime.de" tvg-name="DE | RTL Crime" tvg-logo="" group-title="Germany",DE | RTL Crime
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/363.ts
+#EXTINF:-1 tvg-ID="RTLPlus.de" tvg-name="DE | RTL Nitro" tvg-logo="" group-title="Germany",DE | RTL Nitro
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/361.ts
+#EXTINF:-1 tvg-ID="RTLPassion.de" tvg-name="DE | RTL Passion HD" tvg-logo="" group-title="Germany",DE | RTL Passion HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sat 1" tvg-logo="" group-title="Germany",DE | Sat 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/347.ts
+#EXTINF:-1 tvg-ID="ProSiebenFun.de" tvg-name="DE | Prosieben" tvg-logo="" group-title="Germany",DE | Prosieben
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/961.ts
+#EXTINF:-1 tvg-ID="Pro7.de" tvg-name="DE | Pro 7" tvg-logo="" group-title="Germany",DE | Pro 7
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/367.ts
+#EXTINF:-1 tvg-ID="ProSiebenMaxx.de" tvg-name="DE | Pro 7 Maxx HD" tvg-logo="" group-title="Germany",DE | Pro 7 Maxx HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/366.ts
+#EXTINF:-1 tvg-ID="DMax.de" tvg-name="DE | DMAX HD" tvg-logo="" group-title="Germany",DE | DMAX HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/383.ts
+#EXTINF:-1 tvg-ID="Kabel1.de" tvg-name="DE | Kabel" tvg-logo="" group-title="Germany",DE | Kabel
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/962.ts
+#EXTINF:-1 tvg-ID="TNTComedy.de" tvg-name="DE | kabel eins Doku" tvg-logo="" group-title="Germany",DE | kabel eins Doku
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/960.ts
+#EXTINF:-1 tvg-ID="ntv.de" tvg-name="DE | N-TV" tvg-logo="" group-title="Germany",DE | N-TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/373.ts
+#EXTINF:-1 tvg-ID="n24.de" tvg-name="DE | N24 News" tvg-logo="" group-title="Germany",DE | N24 News
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/372.ts
+#EXTINF:-1 tvg-ID="Anixe.de" tvg-name="DE | Anixe HD" tvg-logo="" group-title="Germany",DE | Anixe HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Zee One" tvg-logo="" group-title="Germany",DE | Zee One
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2025.ts
+#EXTINF:-1 tvg-ID="TNTSerie.de" tvg-name="DE | TNT Serie" tvg-logo="" group-title="Germany",DE | TNT Serie
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/323.ts
+#EXTINF:-1 tvg-ID="TNTFilm.de" tvg-name="DE | TNT Film" tvg-logo="" group-title="Germany",DE | TNT Film
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/324.ts
+#EXTINF:-1 tvg-ID="Fox.de" tvg-name="DE | Fox HD" tvg-logo="" group-title="Germany",DE | Fox HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/957.ts
+#EXTINF:-1 tvg-ID="Kika.de" tvg-name="DE | KIKA" tvg-logo="" group-title="Germany",DE | KIKA
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/377.ts
+#EXTINF:-1 tvg-ID="SuperRTL.de" tvg-name="DE | Super RTL HD" tvg-logo="" group-title="Germany",DE | Super RTL HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/326.ts
+#EXTINF:-1 tvg-ID="DisneyJunior.de" tvg-name="DE | Disney Junior HD" tvg-logo="" group-title="Germany",DE | Disney Junior HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/384.ts
+#EXTINF:-1 tvg-ID="DisneyXD.de" tvg-name="DE | Disney XD HD" tvg-logo="" group-title="Germany",DE | Disney XD HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/385.ts
+#EXTINF:-1 tvg-ID="Nickelodeon.de" tvg-name="DE | Nickelodeon" tvg-logo="" group-title="Germany",DE | Nickelodeon
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/386.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Boomerang" tvg-logo="" group-title="Germany",DE | Boomerang
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1790.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH | SRF INFO" tvg-logo="" group-title="Germany",CH | SRF INFO
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2043.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH | SRF 1" tvg-logo="" group-title="Germany",CH | SRF 1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH | SRF 2" tvg-logo="" group-title="Germany",CH | SRF 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH | 5 HD" tvg-logo="" group-title="Germany",CH | 5 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2042.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH | 4 HD" tvg-logo="" group-title="Germany",CH | 4 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2041.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH | 3 HD" tvg-logo="" group-title="Germany",CH | 3 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2040.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH | TEL CLUB ZOOM" tvg-logo="" group-title="Germany",CH | TEL CLUB ZOOM
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2046.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH | TEL CLUB ACTION" tvg-logo="" group-title="Germany",CH | TEL CLUB ACTION
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2045.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH | TEL CLUB CINEMA" tvg-logo="" group-title="Germany",CH | TEL CLUB CINEMA
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2044.ts
+#EXTINF:-1 tvg-ID="Arte.de" tvg-name="DE | Arte HD" tvg-logo="" group-title="Germany",DE | Arte HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/958.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | ORF 1 HD" tvg-logo="" group-title="Germany",DE | ORF 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/370.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | ORF 2 HD" tvg-logo="" group-title="Germany",DE | ORF 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/369.ts
+#EXTINF:-1 tvg-ID="SkyAction.de" tvg-name="DE | Sky Cinema Action" tvg-logo="" group-title="Germany",DE | Sky Cinema Action
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/358.ts
+#EXTINF:-1 tvg-ID="SkyHits.de" tvg-name="DE | Sky Cinema Hits" tvg-logo="" group-title="Germany",DE | Sky Cinema Hits
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/349.ts
+#EXTINF:-1 tvg-ID="SkyKrimi.de" tvg-name="DE | Sky Krimi" tvg-logo="" group-title="Germany",DE | Sky Krimi
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/348.ts
+#EXTINF:-1 tvg-ID="SkyCinema.de" tvg-name="DE | Sky Cinema" tvg-logo="" group-title="Germany",DE | Sky Cinema
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/356.ts
+#EXTINF:-1 tvg-ID="SkyCinemaPlus1.de" tvg-name="DE | Sky Cinema 1 HD" tvg-logo="" group-title="Germany",DE | Sky Cinema 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/355.ts
+#EXTINF:-1 tvg-ID="SkyCinemaPlus24.de" tvg-name="DE | Sky Cinema 24" tvg-logo="" group-title="Germany",DE | Sky Cinema 24
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/354.ts
+#EXTINF:-1 tvg-ID="SkyComedy.de" tvg-name="DE | Sky Comedy" tvg-logo="" group-title="Germany",DE | Sky Comedy
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Nostalgie" tvg-logo="" group-title="Germany",DE | Sky Nostalgie
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/345.ts
+#EXTINF:-1 tvg-ID="NatGeo.de" tvg-name="DE | National Geographic" tvg-logo="" group-title="Germany",DE | National Geographic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Nat Geo Wild FHD" tvg-logo="" group-title="Germany",DE | Nat Geo Wild FHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Select 1 HD" tvg-logo="" group-title="Germany",DE | Sky Select 1 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/340.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Select 2 HD" tvg-logo="" group-title="Germany",DE | Sky Select 2 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Select 3 HD" tvg-logo="" group-title="Germany",DE | Sky Select 3 HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | Sky Select 4" tvg-logo="" group-title="Germany",DE | Sky Select 4
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/343.ts
+#EXTINF:-1 tvg-ID="Romance.de" tvg-name="DE | Tv Romance" tvg-logo="" group-title="Germany",DE | Tv Romance
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/959.ts
+#EXTINF:-1 tvg-ID="DeLuxeMusic.de" tvg-name="DE | Deluxe Music HD" tvg-logo="" group-title="Germany",DE | Deluxe Music HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/388.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA PREMIERE HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA PREMIERE HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2036.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA ACTION HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA ACTION HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2029.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA COMEDY HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA COMEDY HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2028.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA AVENTURE HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA AVENTURE HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2031.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA DRAMA HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA DRAMA HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2032.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE THRILLER HD" tvg-logo="" group-title="Germany",DE | EAGLE THRILLER HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2068.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA HORROR HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA HORROR HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2034.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA SCI FI HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA SCI FI HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2039.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA SAAL HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA SAAL HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2038.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA ROMANTISCH HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA ROMANTISCH HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2037.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA LÄCHEIN HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA LÄCHEIN HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2035.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA GESCHICHTE HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA GESCHICHTE HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2033.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE | EAGLE CINEMA ANIMATION HD" tvg-logo="" group-title="Germany",DE | EAGLE CINEMA ANIMATION HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2030.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== Franca ====================" tvg-logo="" group-title="",== Franca ====================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TF1" tvg-logo="" group-title="Franca",FR | TF1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/995.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | M6" tvg-logo="" group-title="Franca",FR | M6
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/807.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | Tele" tvg-logo="" group-title="Franca",FR | Tele
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/808.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | Syfy HD" tvg-logo="" group-title="Franca",FR | Syfy HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/997.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | RTL9" tvg-logo="" group-title="Franca",FR | RTL9
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/999.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | NT1" tvg-logo="" group-title="Franca",FR | NT1
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/813.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | France 2" tvg-logo="" group-title="Franca",FR | France 2
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/809.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | France 3" tvg-logo="" group-title="Franca",FR | France 3
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/811.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | France 4" tvg-logo="" group-title="Franca",FR | France 4
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/812.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | France 5" tvg-logo="" group-title="Franca",FR | France 5
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/810.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | RTSUNHD" tvg-logo="" group-title="Franca",FR | RTSUNHD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/991.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | USHUAIA TV" tvg-logo="" group-title="Franca",FR | USHUAIA TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/992.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TV5 MONDE" tvg-logo="" group-title="Franca",FR | TV5 MONDE
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/993.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | Boing" tvg-logo="" group-title="Franca",FR | Boing
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/994.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | Serie club HD" tvg-logo="" group-title="Franca",FR | Serie club HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/996.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SCIENCE&VIE" tvg-logo="" group-title="Franca",FR | SCIENCE&VIE
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/998.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | NRJ Hits" tvg-logo="" group-title="Franca",FR | NRJ Hits
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1003.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PLANETE Ci" tvg-logo="" group-title="Franca",FR | PLANETE Ci
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1000.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PLANETE" tvg-logo="" group-title="Franca",FR | PLANETE
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1001.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PARAMOUNT CHNANNEL" tvg-logo="" group-title="Franca",FR | PARAMOUNT CHNANNEL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1002.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | NATIONAL GEOGRAFIC" tvg-logo="" group-title="Franca",FR | NATIONAL GEOGRAFIC
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1004.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | L'EQUIPE" tvg-logo="" group-title="Franca",FR | L'EQUIPE
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1005.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | iTELE" tvg-logo="" group-title="Franca",FR | iTELE
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1006.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | GULLI" tvg-logo="" group-title="Franca",FR | GULLI
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1007.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DISNEY JUNIOR HD" tvg-logo="" group-title="Franca",FR | DISNEY JUNIOR HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1008.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | National Geo Wild" tvg-logo="" group-title="Franca",FR | National Geo Wild
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1009.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | Discovery HD" tvg-logo="" group-title="Franca",FR | Discovery HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1010.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE PREMIERE" tvg-logo="" group-title="Franca",FR | CINE PREMIERE
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1011.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE POLAR" tvg-logo="" group-title="Franca",FR | CINE POLAR
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1012.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE FX" tvg-logo="" group-title="Franca",FR | CINE FX
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1013.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE FRISSON" tvg-logo="" group-title="Franca",FR | CINE FRISSON
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1014.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE FAMIZ" tvg-logo="" group-title="Franca",FR | CINE FAMIZ
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1015.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE CLASSIC" tvg-logo="" group-title="Franca",FR | CINE CLASSIC
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1016.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CHASSE&PECHE" tvg-logo="" group-title="Franca",FR | CHASSE&PECHE
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1017.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CARTON NETWORK" tvg-logo="" group-title="Franca",FR | CARTON NETWORK
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1018.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | Canal  Decale HD" tvg-logo="" group-title="Franca",FR | Canal  Decale HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1019.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CANAL HD" tvg-logo="" group-title="Franca",FR | CANAL HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1020.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CANAL FAMILY" tvg-logo="" group-title="Franca",FR | CANAL FAMILY
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1021.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CANAL CINEMA" tvg-logo="" group-title="Franca",FR | CANAL CINEMA
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1022.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | ARTE HD" tvg-logo="" group-title="Franca",FR | ARTE HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1023.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | ANIMAUX" tvg-logo="" group-title="Franca",FR | ANIMAUX
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1024.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | Planete CI HD" tvg-logo="" group-title="Franca",FR | Planete CI HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1025.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | W9" tvg-logo="" group-title="Franca",FR | W9
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1026.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | 13EME RUE" tvg-logo="" group-title="Franca",FR | 13EME RUE
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/1027.ts
+#EXTINF:-1 tvg-ID="" tvg-name="== NORDIC ======================" tvg-logo="" group-title="",== NORDIC ======================
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2122.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | MTV_Live_Nordic_HD" tvg-logo="" group-title="Nordic",Nordic | MTV_Live_Nordic_HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2095.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Disney_XD_Nordic" tvg-logo="" group-title="Nordic",Nordic | Disney_XD_Nordic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Disney_Junior_Nordic" tvg-logo="" group-title="Nordic",Nordic | Disney_Junior_Nordic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Disney_Channel_Sweden" tvg-logo="" group-title="Nordic",Nordic | Disney_Channel_Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Classic_Looney_Tunes_Nordic" tvg-logo="" group-title="Nordic",Nordic | Classic_Looney_Tunes_Nordic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Cartoon_Network_Nordic" tvg-logo="" group-title="Nordic",Nordic | Cartoon_Network_Nordic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Nickelodeon_Sweden" tvg-logo="" group-title="Nordic",Nordic | Nickelodeon_Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | FOX_Sweden" tvg-logo="" group-title="Nordic",Nordic | FOX_Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2096.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Viasat Film Premiere..Sweden" tvg-logo="" group-title="Nordic",Nordic |  Viasat Film Premiere..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Viasat Film Hits..Sweden" tvg-logo="" group-title="Nordic",Nordic |  Viasat Film Hits..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Viasat Film Action..Sweden" tvg-logo="" group-title="Nordic",Nordic |  Viasat Film Action..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2131.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Viasat Nature..Sweden" tvg-logo="" group-title="Nordic",Nordic |  Viasat Nature..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2128.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Viasat History..Sweden" tvg-logo="" group-title="Nordic",Nordic |  Viasat History..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2130.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Viasat Explorer..Sweden" tvg-logo="" group-title="Nordic",Nordic |  Viasat Explorer..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2129.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Viasat_Film_Family_Nordic" tvg-logo="" group-title="Nordic",Nordic | Viasat_Film_Family_Nordic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2088.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | C_More_Stars_Nordic_HD" tvg-logo="" group-title="Nordic",Nordic | C_More_Stars_Nordic_HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2093.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | C_More_First_Nordic_HD" tvg-logo="" group-title="Nordic",Nordic | C_More_First_Nordic_HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2094.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Comedy_Central_Sweden" tvg-logo="" group-title="Nordic",Nordic | Comedy_Central_Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2097.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | National_Geographic_Channel_Sweden" tvg-logo="" group-title="Nordic",Nordic | National_Geographic_Channel_Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Discovery_Channel_Sweden" tvg-logo="" group-title="Nordic",Nordic | Discovery_Channel_Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2116.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Investigation_Discovery_Nordic" tvg-logo="" group-title="Nordic",Nordic | Investigation_Discovery_Nordic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | History_Channel_Nordic" tvg-logo="" group-title="Nordic",Nordic | History_Channel_Nordic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | H2_Nordic" tvg-logo="" group-title="Nordic",Nordic | H2_Nordic
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  TV4 HD..Sweden" tvg-logo="" group-title="Nordic",Nordic |  TV4 HD..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  SVT 2..Sweden" tvg-logo="" group-title="Nordic",Nordic |  SVT 2..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  SVT 1 HD..Sweden" tvg-logo="" group-title="Nordic",Nordic |  SVT 1 HD..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  SBS 6 HD..NL" tvg-logo="" group-title="Nordic",Nordic |  SBS 6 HD..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2143.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  RTL Z HD..NL" tvg-logo="" group-title="Nordic",Nordic |  RTL Z HD..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  RTL Lounge..NL" tvg-logo="" group-title="Nordic",Nordic |  RTL Lounge..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  RTL 8 HD..NL" tvg-logo="" group-title="Nordic",Nordic |  RTL 8 HD..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2145.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  RTL 7 HD..NL" tvg-logo="" group-title="Nordic",Nordic |  RTL 7 HD..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2144.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  RTL 5 HD..NL" tvg-logo="" group-title="Nordic",Nordic |  RTL 5 HD..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2142.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  RTL 4 HD..NL" tvg-logo="" group-title="Nordic",Nordic |  RTL 4 HD..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2141.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  NPO 3..NL" tvg-logo="" group-title="Nordic",Nordic |  NPO 3..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  NPO 2..NL" tvg-logo="" group-title="Nordic",Nordic |  NPO 2..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  NPO 1..NL" tvg-logo="" group-title="Nordic",Nordic |  NPO 1..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2138.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  NET 5 HD..NL" tvg-logo="" group-title="Nordic",Nordic |  NET 5 HD..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2147.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Nat Geo Wild..Sweden" tvg-logo="" group-title="Nordic",Nordic |  Nat Geo Wild..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  HBO HD..NL" tvg-logo="" group-title="Nordic",Nordic |  HBO HD..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2148.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  HBO 3..NL" tvg-logo="" group-title="Nordic",Nordic |  HBO 3..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2150.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  HBO 2..NL" tvg-logo="" group-title="Nordic",Nordic |  HBO 2..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Film1 Spotlight..NL" tvg-logo="" group-title="Nordic",Nordic |  Film1 Spotlight..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Film1 Premiere..NL" tvg-logo="" group-title="Nordic",Nordic |  Film1 Premiere..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2153.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Film1 Action..NL" tvg-logo="" group-title="Nordic",Nordic |  Film1 Action..NL
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Discovery World..Sweden" tvg-logo="" group-title="Nordic",Nordic |  Discovery World..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  Discovery Science..Sweden" tvg-logo="" group-title="Nordic",Nordic |  Discovery Science..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2137.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  C More Series..Sweden" tvg-logo="" group-title="Nordic",Nordic |  C More Series..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2127.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic |  C More Hits..Sweden" tvg-logo="" group-title="Nordic",Nordic |  C More Hits..Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2126.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | TV8" tvg-logo="" group-title="Nordic",Nordic | TV8
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | TV6_Sweden_HD" tvg-logo="" group-title="Nordic",Nordic | TV6_Sweden_HD
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | TV6_Sweden" tvg-logo="" group-title="Nordic",Nordic | TV6_Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2099.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | TV4_Guld" tvg-logo="" group-title="Nordic",Nordic | TV4_Guld
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2092.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | TV4_Film" tvg-logo="" group-title="Nordic",Nordic | TV4_Film
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2091.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | TV4_Fakta" tvg-logo="" group-title="Nordic",Nordic | TV4_Fakta
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2090.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | TV3" tvg-logo="" group-title="Nordic",Nordic | TV3
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2089.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | TV2 Fyn" tvg-logo="" group-title="Nordic",Nordic | TV2 Fyn
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | TV_2_Region_Oest" tvg-logo="" group-title="Nordic",Nordic | TV_2_Region_Oest
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | TV_12" tvg-logo="" group-title="Nordic",Nordic | TV_12
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | TV_10" tvg-logo="" group-title="Nordic",Nordic | TV_10
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Sjuan" tvg-logo="" group-title="Nordic",Nordic | Sjuan
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Kunskapskanalen" tvg-logo="" group-title="Nordic",Nordic | Kunskapskanalen
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Kanal_9_Sweden" tvg-logo="" group-title="Nordic",Nordic | Kanal_9_Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2103.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Kanal_5_Sweden" tvg-logo="" group-title="Nordic",Nordic | Kanal_5_Sweden
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2098.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Kanal_11" tvg-logo="" group-title="Nordic",Nordic | Kanal_11
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | Axess_TV" tvg-logo="" group-title="Nordic",Nordic | Axess_TV
+http://tv.extrem-iptv.com:8844/live/Zgjimixxxx636252/WkJiWNGAjr/2108.ts
