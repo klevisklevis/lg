@@ -1,46 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="xxx",Big Ass HD 18+
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:0,Big Dick HD 18+
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:0,Big Tits HD 18+
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:0,Blowjob HD 18+
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:0,RedTraffic Cuckold HD 18+
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:0,RedTraffic Fetish HD 18+
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:0,RedTraffic Hardcore HD 18+
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:0,RedTraffic Interracial HD 18+
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:0,RedTraffic Latina HD 18+
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:0,RedTraffic Lesbian HD 18+
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:0,RedTraffic MILF HD 18+
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:0,RedTraffic Pornstar HD 18+
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:0,RedTraffic POV HD 18+
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:0,RedTraffic Russian HD 18+
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:0,RedTraffic Teen HD 18+
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:0,RedTraffic Threesome HD 18+
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTM3U
-#EXTINF:-1,BRAZZERS HD
-http://googleadsnetwork.redirectme.net:2780/live/erotike/SQqemX23KtCyFQ9BuyEVsqncfzKn57qvXE8px9AP/74.ts
-#EXTINF:-1,HUSTLER HD
-http://googleadsnetwork.redirectme.net:2780/live/erotike/SQqemX23KtCyFQ9BuyEVsqncfzKn57qvXE8px9AP/73.ts
-#EXTINF:-1,XXL HD
-http://googleadsnetwork.redirectme.net:2780/live/erotike/SQqemX23KtCyFQ9BuyEVsqncfzKn57qvXE8px9AP/72.ts
-#EXTINF:-1,FAKE TAXI
-http://googleadsnetwork.redirectme.net:2780/live/erotike/SQqemX23KtCyFQ9BuyEVsqncfzKn57qvXE8px9AP/71.ts
-#EXTINF:-1,DORCEL HD
-http://googleadsnetwork.redirectme.net:2780/live/erotike/SQqemX23KtCyFQ9BuyEVsqncfzKn57qvXE8px9AP/70.ts
-#EXTINF:-1,VIVID TV
-http://googleadsnetwork.redirectme.net:2780/live/erotike/SQqemX23KtCyFQ9BuyEVsqncfzKn57qvXE8px9AP/69.ts
+#EXTINF:-1 ,LA 2
+#EXTVLCOPT:http-referrer=http://163.172.39.175:8081/live/BEINSPORT6/playlist.m3u8
+#EXTVLCOPT:http-user-agent=albboxapp
+http://163.172.39.175:8081/live/BEINSPORT6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSA0OjMxOjIwIFBNJmhhc2hfdmFsdWU9TE1TMFN4bUhYMlFCMDJrZEhjdCtkQT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTU=
