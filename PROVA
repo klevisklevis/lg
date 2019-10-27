@@ -2,4 +2,4 @@
 #EXTINF:-1 ,TOP TOP
 #EXTVLCOPT:http-user-agent=albboxapp
 #EXTVLCOPT:http-referrer=https://albboxapp.xyz/
-http://51.15.3.71:8081/live/TOPCHANNEL/chunks.m3u8?nimblesessionid=5408685&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSA1OjQwOjU5IFBNJmhhc2hfdmFsdWU9QnZEbzhYM3I4SkRUYUMyZm9uQVRQZz09JnZhbGlkbWludXRlcz0xJmlkPTUmc3RybV9sZW49NQ==
+http://51.15.3.71:8081/live/TOPCHANNEL/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSA1OjQwOjU5IFBNJmhhc2hfdmFsdWU9QnZEbzhYM3I4SkRUYUMyZm9uQVRQZz09JnZhbGlkbWludXRlcz0xJmlkPTUmc3RybV9sZW49NQ==
