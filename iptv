@@ -39,6 +39,8 @@ https://tv.oranews.tv:443/channelone/channelone/playlist.m3u8
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1,3 Plus
 http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/233.ts
+#EXTINF:-1,3 Plus 2
+http://95.107.132.104/out/u/31_3.m3u8
 #EXTINF:-1,Jolly 
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/549
 #EXTINF:-1,Jolly HD
