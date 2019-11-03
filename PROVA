@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,TOP TOP
+#EXTINF:-1 ,goodf
 #EXTVLCOPT:http-user-agent=albboxapp
-#EXTVLCOPT:http-referrer=https://albboxapp.xyz/
-http://51.15.3.71:8081/live/TOPCHANNEL/chunks.m3u8?nimblesessionid=5408685&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSA1OjQwOjU5IFBNJmhhc2hfdmFsdWU9QnZEbzhYM3I4SkRUYUMyZm9uQVRQZz09JnZhbGlkbWludXRlcz0xJmlkPTUmc3RybV9sZW49NQ==
+#EXTVLCOPT:https://drmkey.tibo.tv/apiv2/token/verizon/aa
+http://wpc.9c446.rhocdn.net:80/809C446/srv235/lokale/godfather/playlist.m3u8hfdmFsdWU9QnZEbzhYM3I4SkRUYUMyZm9uQVRQZz09JnZhbGlkbWludXRlcz0xJmlkPTUmc3RybV9sZW49NQ==
