@@ -45,12 +45,18 @@ http://kqyrshlir.com:25461/RasimMuzlijaj/rtxkY18xr5/78
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/958373538?ticket=5280C8CA03023011AD20D578E29897CF7F4946C1&profile=pass
 #EXTINF:-1,Jolly 
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/549
-#EXTINF:-1,Jolly HD
-http://163.172.39.96:8000/live/Tvshqip/new/35.ts
 #EXTINF:-1,Top Channel SD
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/904
 #EXTINF:-1,Klan HD
 http://95.107.132.222:80/live/localdisk/KlanTV/SA/KlanTV.m3u8
+#EXTINF:-1,Top Channel
+http://163.172.39.96:8000/live/Tvshqip/new/7.ts
+#EXTINF:-1,Klan TV
+http://163.172.39.96:8000/live/Tvshqip/new/8.ts
+#EXTINF:-1,Klan plus
+http://163.172.39.96:8000/live/Tvshqip/new/10.ts
+#EXTINF:-1,Vizion Plus
+http://163.172.39.96:8000/live/Tvshqip/new/9.ts
 #EXTINF:-1,film famly
 http://163.172.39.96:8000/live/Tvshqip/new/74.ts
 #EXTINF:-1,X shkence
@@ -93,14 +99,6 @@ http://163.172.39.96:8000/live/Tvshqip/new/36.ts
 http://163.172.39.96:8000/live/Tvshqip/new/34.ts
 #EXTINF:-1,Jolly HD
 http://163.172.39.96:8000/live/Tvshqip/new/35.ts
-#EXTINF:-1,Top Channel
-http://163.172.39.96:8000/live/Tvshqip/new/7.ts
-#EXTINF:-1,Klan TV
-http://163.172.39.96:8000/live/Tvshqip/new/8.ts
-#EXTINF:-1,Klan plus
-http://163.172.39.96:8000/live/Tvshqip/new/10.ts
-#EXTINF:-1,Vizion Plus
-http://163.172.39.96:8000/live/Tvshqip/new/9.ts
 #EXTINF:-1,Alsat
 http://163.172.39.96:8000/live/Tvshqip/new/11.ts
 #EXTINF:-1,T HD Channel
