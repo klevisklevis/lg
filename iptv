@@ -47,18 +47,10 @@ http://iptvshqiplive.diskstation.org:9981/stream/channelid/958373538?ticket=5280
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/549
 #EXTINF:-1,Jolly HD
 http://163.172.39.96:8000/live/Tvshqip/new/35.ts
-#EXTINF:-1,Top Channel
-http://163.172.39.96:8000/live/Tvshqip/new/7.ts
 #EXTINF:-1,Top Channel SD
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/904
 #EXTINF:-1,Klan HD
 http://95.107.132.222:80/live/localdisk/KlanTV/SA/KlanTV.m3u8
-#EXTINF:-1,Klan TV
-http://163.172.39.96:8000/live/Tvshqip/new/8.ts
-#EXTINF:-1,Klan plus
-http://163.172.39.96:8000/live/Tvshqip/new/10.ts
-#EXTINF:-1,Vizion Plus
-http://163.172.39.96:8000/live/Tvshqip/new/9.ts
 #EXTINF:-1,film famly
 http://163.172.39.96:8000/live/Tvshqip/new/74.ts
 #EXTINF:-1,X shkence
@@ -93,8 +85,22 @@ http://163.172.39.96:8000/live/Tvshqip/new/43.ts
 http://163.172.39.96:8000/live/Tvshqip/new/39.ts
 #EXTINF:-1,Tring Fantazi
 http://163.172.39.96:8000/live/Tvshqip/new/44.ts
+#EXTINF:-1,Tring 3 Plus
+http://163.172.39.96:8000/live/Tvshqip/new/45.ts
+#EXTINF:-1,Tring life
+http://163.172.39.96:8000/live/Tvshqip/new/36.ts
 #EXTINF:-1,Junior
 http://163.172.39.96:8000/live/Tvshqip/new/34.ts
+#EXTINF:-1,Jolly HD
+http://163.172.39.96:8000/live/Tvshqip/new/35.ts
+#EXTINF:-1,Top Channel
+http://163.172.39.96:8000/live/Tvshqip/new/7.ts
+#EXTINF:-1,Klan TV
+http://163.172.39.96:8000/live/Tvshqip/new/8.ts
+#EXTINF:-1,Klan plus
+http://163.172.39.96:8000/live/Tvshqip/new/10.ts
+#EXTINF:-1,Vizion Plus
+http://163.172.39.96:8000/live/Tvshqip/new/9.ts
 #EXTINF:-1,Alsat
 http://163.172.39.96:8000/live/Tvshqip/new/11.ts
 #EXTINF:-1,T HD Channel
@@ -123,26 +129,6 @@ http://163.172.39.96:8000/live/Tvshqip/new/22.ts
 http://163.172.39.96:8000/live/Tvshqip/new/23.ts
 #EXTINF:-1,Bang Bang
 http://163.172.39.96:8000/live/Tvshqip/new/25.ts
-#EXTINF:-1,X prem 1
-http://163.172.84.252:25461/LokuTV/TVloku/1
-#EXTINF:-1,X prem 2
-http://163.172.84.252:25461/LokuTV/TVloku/2
-#EXTINF:-1,X prem 3
-http://163.172.84.252:25461/LokuTV/TVloku/3
-#EXTINF:-1,X prem 4
-http://163.172.84.252:25461/LokuTV/TVloku/4
-#EXTINF:-1,Sky action
-http://163.172.84.252:25461/LokuTV/TVloku/5
-#EXTINF:-1,Kujt 1
-http://163.172.84.252:25461/LokuTV/TVloku/6
-#EXTINF:-1,Kujt 2
-http://163.172.84.252:25461/LokuTV/TVloku/7
-#EXTINF:-1,Kujt 3
-http://163.172.84.252:25461/LokuTV/TVloku/8
-#EXTINF:-1,Kujt 4
-http://163.172.84.252:25461/LokuTV/TVloku/9
-#EXTINF:-1,Sky max
-http://163.172.84.252:25461/LokuTV/TVloku/10
 #EXTINF:-1,Arena 4
 http://5.135.92.133:31652/out/u/493_2.m3u8
 #EXTINF:-1,Arena 3
