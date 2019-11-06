@@ -143,14 +143,6 @@ http://163.172.84.252:25461/Ss/ts/20
 http://163.172.84.252:25461/Ss/ts/21
 #EXTINF:-1,Ts 4
 http://163.172.84.252:25461/Ss/ts/22
-#EXTINF:-1,TS1
-http://163.172.39.96:8000/live/Shqiptv/loku/65.ts
-#EXTINF:-1,TS2
-http://163.172.39.96:8000/live/Shqiptv/loku/66.ts
-#EXTINF:-1,TS3
-http://163.172.39.96:8000/live/Shqiptv/loku/67.ts
-#EXTINF:-1,TS4
-http://163.172.39.96:8000/live/Shqiptv/loku/68.ts
 #EXTINF:-1,SS1
 http://163.172.39.96:8000/live/Shqiptv/loku/60.ts
 #EXTINF:-1,SS2
