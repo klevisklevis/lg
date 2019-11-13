@@ -57,6 +57,7 @@ http://163.172.39.96:8000/live/Tvshqip/new/8.ts
 http://163.172.39.96:8000/live/Tvshqip/new/10.ts
 #EXTINF:-1,Vizion Plus
 http://163.172.39.96:8000/live/Tvshqip/new/9.ts
+
 #EXTINF:-1,film famly
 http://163.172.39.96:8000/live/Tvshqip/new/74.ts
 #EXTINF:-1,X shkence
@@ -127,14 +128,28 @@ http://163.172.39.96:8000/live/Tvshqip/new/22.ts
 http://163.172.39.96:8000/live/Tvshqip/new/23.ts
 #EXTINF:-1,Bang Bang
 http://163.172.39.96:8000/live/Tvshqip/new/25.ts
-#EXTINF:-1,Arena 4
-http://5.135.92.133:31652/out/u/493_2.m3u8
-#EXTINF:-1,Arena 3
-http://5.135.92.133:31652/out/u/490_2.m3u8
-#EXTINF:-1,Arena 2
-http://5.135.92.133:31652/out/u/487_2.m3u8
-#EXTINF:-1,Arena 1
-http://5.135.92.133:31652/out/u/485_1.m3u8
+#EXTINF:-1,X prem 1
+http://163.172.84.252:25461/LokuTV/TVloku/1
+#EXTINF:-1,X prem 2
+http://163.172.84.252:25461/LokuTV/TVloku/2
+#EXTINF:-1,X prem 3
+http://163.172.84.252:25461/LokuTV/TVloku/3
+#EXTINF:-1,X prem 4
+http://163.172.84.252:25461/LokuTV/TVloku/4
+#EXTINF:-1,Sky action
+http://163.172.84.252:25461/LokuTV/TVloku/5
+#EXTINF:-1,Kujt 1
+http://163.172.84.252:25461/LokuTV/TVloku/6
+#EXTINF:-1,Kujt 2
+http://163.172.84.252:25461/LokuTV/TVloku/7
+#EXTINF:-1,Kujt 3
+http://163.172.84.252:25461/LokuTV/TVloku/8
+#EXTINF:-1,Kujt 4
+http://163.172.84.252:25461/LokuTV/TVloku/9
+#EXTINF:-1,Sky max
+http://163.172.84.252:25461/LokuTV/TVloku/10
+#EXTINF:-1,Smile
+http://163.172.84.252:25461/LokuTV/TVloku/65
 #EXTINF:-1,Ts 1
 http://163.172.84.252:25461/Ss/ts/19
 #EXTINF:-1,Ts 2
@@ -155,6 +170,18 @@ http://163.172.84.252:25461/Ss/ts/33
 http://163.172.84.252:25461/Ss/ts/34
 #EXTINF:-1,Bn6
 http://163.172.84.252:25461/Ss/ts/35
+#EXTINF:-1,Bn 7
+http://163.172.84.252:25461/Ss/ts/61
+#EXTINF:-1,Bn 8
+http://163.172.84.252:25461/Ss/ts/62
+#EXTINF:-1,Bn 9
+http://163.172.84.252:25461/Ss/ts/63
+#EXTINF:-1,Arena 3
+http://163.172.39.96:8000/live/Shqiptv/loku/73.ts
+#EXTINF:-1,Arena 2
+http://163.172.39.96:8000/live/Shqiptv/loku/72.ts
+#EXTINF:-1,Arena 1
+http://163.172.39.96:8000/live/Shqiptv/loku/71.ts
 #EXTINF:-1,SS1
 http://163.172.39.96:8000/live/Shqiptv/loku/60.ts
 #EXTINF:-1,SS2
@@ -165,12 +192,14 @@ http://163.172.39.96:8000/live/Shqiptv/loku/62.ts
 http://163.172.39.96:8000/live/Shqiptv/loku/63.ts
 #EXTINF:-1,SS5
 http://163.172.39.96:8000/live/Shqiptv/loku/64.ts
+#EXTINF:-1,Arena 4
+http://5.135.92.133:31652/out/u/493_2.m3u8
 #EXTINF:-1,Arena 3
-http://163.172.39.96:8000/live/Shqiptv/loku/73.ts
+http://5.135.92.133:31652/out/u/490_2.m3u8
 #EXTINF:-1,Arena 2
-http://163.172.39.96:8000/live/Shqiptv/loku/72.ts
+http://5.135.92.133:31652/out/u/487_2.m3u8
 #EXTINF:-1,Arena 1
-http://163.172.39.96:8000/live/Shqiptv/loku/71.ts
+http://5.135.92.133:31652/out/u/485_1.m3u8
 #EXTINF:-1,group-title="LG-TV 2",VizionPlus
 http://5.135.92.133:42692/out/u/wjfidshgosg.m3u8
 #EXTINF:0,Top Chanel
