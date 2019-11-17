@@ -239,6 +239,22 @@ http://5.135.92.133:52841/out/u/fhgahgahdghapha.m3u8
 http://5.135.92.133:52841/out/u/ghsdaghoaidshgoaisdg.m3u8
 #EXTINF:0,TRING HISTORI
 http://5.135.92.133:52841/out/u/fjhgjfhlajhfglajhf.m3u8
+#EXTINF:0,National Geographic AL
+http://5.135.92.133:52841/out/u/83_1.m3u8
+#EXTINF:0,Club TV
+http://5.135.92.133:52841/out/u/87_1.m3u8
+#EXTINF:0,Italia Uno
+http://5.135.92.133:52841/out/u/51_1.m3u8
+#EXTINF:0,Mediaset Italia
+http://5.135.92.133:52841/out/u/75_1.m3u8
+#EXTINF:0,LA 7
+http://5.135.92.133:52841/out/u/70_1.m3u8
+#EXTINF:0,DiGicom 24
+http://5.135.92.133:52841/out/u/71_1.m3u8
+#EXTINF:0,RealTime +1
+http://5.135.92.133:52841/out/u/111_1.m3u8
+#EXTINF:0,BBC World
+http://5.135.92.133:52841/out/u/131_1.m3u8
 #EXTINF:0,supersport 1
 http://5.135.92.133:31652/out/u/djflkjsdlkjflsdjf.m3u8
 #EXTINF:0,supersport 2
@@ -261,6 +277,8 @@ http://5.135.92.133:42692/out/u/rhfsdgfdshfgsfh.m3u8
 http://5.135.92.133:42692/out/u/wagdgfdgsfhsfdh.m3u8
 #EXTINF:0, Folk +
 http://5.135.92.133:52841/out/u/44_1.m3u8
+#EXTINF:0,RTV 21 Mix
+http://5.135.92.133:52841/out/u/135_1.m3u8
 #EXTINF:-1,24 Kitchen
 http://217.19.18.92:7500/play/24kitchensd
 #EXTINF:-1,A2 CNN
