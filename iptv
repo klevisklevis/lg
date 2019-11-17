@@ -39,6 +39,8 @@ rtmp://66.55.93.204/livepkgr/stream?adbe-live-event=report
 https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:-1,NEWS 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,NEWS 24 2
+http://5.135.92.133:31652/out/u/647_1.m3u8
 #EXTINF:-1,3 Plus
 http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/233.ts
 #EXTINF:-1,3 Plus 2
@@ -205,11 +207,27 @@ http://5.135.92.133:31652/out/u/485_1.m3u8
 http://5.135.92.133:42692/out/u/wjfidshgosg.m3u8
 #EXTINF:0,Top Chanel
 http://5.135.92.133:31652/out/u/ffhfsfhfsfhgsfhsdfh.m3u8
+#EXTINF:0,Top Chanel HD
+http://5.135.92.133:31652/out/u/797_1.m3u8
 #EXTINF:0,KlanHD
+http://5.135.92.133:31652/out/u/710_1.m3u8
+#EXTINF:0,KlanTV
 http://5.135.92.133:31652/out/u/fnlkdfhhdgfdgag.m3u8
 #EXTINF:0,Klan Plus
 http://5.135.92.133:31652/out/u/dkjgksdjglkajgda.m3u8
-#EXTINF:0,TringAksion
+#EXTINF:0,Tring Kids
+http://5.135.92.133:52841/out/u/339_1.m3u8
+#EXTINF:0,Tring Tring
+http://5.135.92.133:52841/out/u/355_1.m3u8
+#EXTINF:0,Tip TV
+http://5.135.92.133:52841/out/u/359_1.m3u8
+#EXTINF:0,Tring Click
+http://5.135.92.133:52841/out/u/413_1.m3u8
+#EXTINF:0,Tring Muse
+http://5.135.92.133:52841/out/u/403_1.m3u8
+#EXTINF:0,Tring Smile
+http://5.135.92.133:52841/out/u/349_1.m3u8
+#EXTINF:0,Tring Aksion
 http://5.135.92.133:52841/out/u/fhdfhdfjhasdha.m3u8
 #EXTINF:0,Tring comedy
 http://5.135.92.133:52841/out/u/fhdhsfjhsfhsfdh.m3u8
@@ -223,10 +241,14 @@ http://5.135.92.133:52841/out/u/dgsghodahgohga.m3u8
 http://5.135.92.133:52841/out/u/gfjsgjsgjsgjsfgsfhfh.m3u8
 #EXTINF:0,FOX
 http://5.135.92.133:52841/out/u/dgfdhbfhbddsgsdg.m3u8
+#EXTINF:0,FOX Life
+http://5.135.92.133:52841/out/u/379_1.m3u8
+#EXTINF:0,Travel
+http://5.135.92.133:52841/out/u/395_1.m3u8
 #EXTINF:0,Fine Living
 http://5.135.92.133:52841/out/u/500_1.m3u8
 #EXTINF:0,Tring Living
-http://5.135.92.133:52841/out/u/djlsdjgldsvd.m3u8
+http://5.135.92.133:52841/out/u/479_1.m3u8
 #EXTINF:0,Tring 3 Plus
 http://5.135.92.133:52841/out/u/fdhghpsdfhdhfadfh.m3u8
 #EXTINF:0,Tring Tring
@@ -243,10 +265,26 @@ http://5.135.92.133:52841/out/u/ghsdaghoaidshgoaisdg.m3u8
 http://5.135.92.133:52841/out/u/fjhgjfhlajhfglajhf.m3u8
 #EXTINF:0,National Geographic AL
 http://5.135.92.133:52841/out/u/83_1.m3u8
+#EXTINF:0,T HD
+http://5.135.92.133:31652/out/u/809_1.m3u8
+#EXTINF:0,Film Autor
+http://5.135.92.133:31652/out/u/191_1.m3u8
+#EXTINF:0,Film Aksion
+http://5.135.92.133:31652/out/u/749_1.m3u8
+#EXTINF:0,Film Hits
+http://5.135.92.133:31652/out/u/rejfbqjexqdjsbfkasdf.m3u8
+#EXTINF:0,Film Komedi
+http://5.135.92.133:31652/out/u/663_1.m3u8
+#EXTINF:0,Film Nje
+http://5.135.92.133:31652/out/u/701_1.m3u8
 #EXTINF:0,Club TV
 http://5.135.92.133:52841/out/u/87_1.m3u8
+#EXTINF:0,Rai 1
+http://5.135.92.133:52841/out/u/439_1.m3u8
 #EXTINF:0,Italia Uno
 http://5.135.92.133:52841/out/u/51_1.m3u8
+#EXTINF:0,Rete 5
+http://5.135.92.133:52841/out/u/423_1.m3u8
 #EXTINF:0,Mediaset Italia
 http://5.135.92.133:52841/out/u/75_1.m3u8
 #EXTINF:0,LA 7
@@ -257,6 +295,10 @@ http://5.135.92.133:52841/out/u/71_1.m3u8
 http://5.135.92.133:52841/out/u/111_1.m3u8
 #EXTINF:0,BBC World
 http://5.135.92.133:52841/out/u/131_1.m3u8
+#EXTINF:0,Open Beyond
+http://5.135.92.133:31652/out/u/653_1.m3u8
+#EXTINF:0,A2
+http://5.135.92.133:31652/out/u/705_1.m3u8
 #EXTINF:0,supersport 1
 http://5.135.92.133:31652/out/u/djflkjsdlkjflsdjf.m3u8
 #EXTINF:0,supersport 2
@@ -267,6 +309,10 @@ http://5.135.92.133:31652/out/u/tldjgklfjhlfjshdfh.m3u8
 http://5.135.92.133:31652/out/u/righifhgkfdhkfh.m3u8
 #EXTINF:0,supersport 5
 http://5.135.92.133:31652/out/u/312_2.m3u8
+#EXTINF:0,Euro Sport 1
+http://5.135.92.133:52841/out/u/509_1.m3u8
+#EXTINF:0,SportKlub 1
+http://5.135.92.133:31652/out/u/740_1.m3u8
 #EXTINF:0,ErtSport
 http://5.135.92.133:31652/out/u/583_1.m3u8
 #EXTINF:0,Tring Sport 1
@@ -277,11 +323,23 @@ http://5.135.92.133:42692/out/u/hhdsgsdgsdgdhs.m3u8
 http://5.135.92.133:42692/out/u/rhfsdgfdshfgsfh.m3u8
 #EXTINF:0,Tring Sport 4
 http://5.135.92.133:42692/out/u/wagdgfdgsfhsfdh.m3u8
-#EXTINF:0, Folk +
+#EXTINF:0,Folk +
 http://5.135.92.133:52841/out/u/44_1.m3u8
-#EXTINF:0,RTV 21 Mix
+#EXTINF:0,Rtv 21 mix
 http://5.135.92.133:52841/out/u/135_1.m3u8
-#EXTINF:-1,24 Kitchen
+#EXTINF:0,Abc News
+http://5.135.92.133:31652/out/u/825_1.m3u8
+#EXTINF:0,Report TV
+http://5.135.92.133:31652/out/u/28_1.m3u8
+#EXTINF:0,Fox News
+http://5.135.92.133:52841/out/u/229_1.m3u8
+#EXTINF:0,News 7
+http://5.135.92.133:52841/out/u/332_1.m3u8
+#EXTINF:0,Ora TV
+http://5.135.92.133:52841/out/u/345_1.m3u8
+#EXTINF:0,Ora News
+http://5.135.92.133:52841/out/u/523_1.m3u8
+#EXTINF:-1,group-title="LG-TV 3",24 Kitchen
 http://217.19.18.92:7500/play/24kitchensd
 #EXTINF:-1,A2 CNN
 http://217.19.18.92:7500/play/a2cnnn
