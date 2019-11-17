@@ -5,6 +5,8 @@ http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
 http://5.135.92.133:52841/out/u/155_1.m3u8
 #EXTINF:-1,AlbMusic
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1,Tirana tv
+http://5.135.92.133:52841/out/u/165_1.m3u8
 #EXTINF:-1,RTSH Shqip
 http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
 #EXTINF:-1,RTSH Plus
