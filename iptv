@@ -131,28 +131,34 @@ http://163.172.39.96:8000/live/Tvshqip/new/22.ts
 http://163.172.39.96:8000/live/Tvshqip/new/23.ts
 #EXTINF:-1,Bang Bang
 http://163.172.39.96:8000/live/Tvshqip/new/25.ts
-#EXTINF:-1,X prem 1
-http://163.172.84.252:25461/LokuTV/TVloku/1
-#EXTINF:-1,X prem 2
-http://163.172.84.252:25461/LokuTV/TVloku/2
-#EXTINF:-1,X prem 3
-http://163.172.84.252:25461/LokuTV/TVloku/3
-#EXTINF:-1,X prem 4
-http://163.172.84.252:25461/LokuTV/TVloku/4
+#EXTINF:-1,Ks1
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/2
+#EXTINF:-1,Ks2
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/3
+#EXTINF:-1,Ks3
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/4
+#EXTINF:-1,Ks4
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/5
+#EXTINF:-1,Ts4
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/6
+#EXTINF:-1,Ts3
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/7
+#EXTINF:-1,Ts2
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/8
+#EXTINF:-1,Ts1
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/9
 #EXTINF:-1,Sky action
-http://163.172.84.252:25461/LokuTV/TVloku/5
-#EXTINF:-1,Kujt 1
-http://163.172.84.252:25461/LokuTV/TVloku/6
-#EXTINF:-1,Kujt 2
-http://163.172.84.252:25461/LokuTV/TVloku/7
-#EXTINF:-1,Kujt 3
-http://163.172.84.252:25461/LokuTV/TVloku/8
-#EXTINF:-1,Kujt 4
-http://163.172.84.252:25461/LokuTV/TVloku/9
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/10
 #EXTINF:-1,Sky max
-http://163.172.84.252:25461/LokuTV/TVloku/10
-#EXTINF:-1,Smile
-http://163.172.84.252:25461/LokuTV/TVloku/65
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/11
+#EXTINF:-1,X prem 1
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/12
+#EXTINF:-1,X prem 2
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/13
+#EXTINF:-1,X prem 3
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/14
+#EXTINF:-1,X prem 4
+http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/15
 #EXTINF:-1,Ts 1
 http://163.172.84.252:25461/Ss/ts/19
 #EXTINF:-1,Ts 2
