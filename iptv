@@ -63,6 +63,8 @@ http://163.172.39.96:8000/live/Tvshqip/new/8.ts
 http://163.172.39.96:8000/live/Tvshqip/new/10.ts
 #EXTINF:-1,Vizion Plus
 http://163.172.39.96:8000/live/Tvshqip/new/9.ts
+#EXTINF:-1,Vizion +
+http://95.107.132.131:3344/udp/238.11.12.2:9009
 #EXTINF:-1,film famly
 http://163.172.39.96:8000/live/Tvshqip/new/74.ts
 #EXTINF:-1,X shkence
