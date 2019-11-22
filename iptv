@@ -51,6 +51,8 @@ http://iptvshqiplive.diskstation.org:9981/stream/channelid/958373538?ticket=5280
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/549
 #EXTINF:-1,Top Channel SD
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/904
+#EXTINF:-1,Top Channel HD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/11447.m3u8
 #EXTINF:-1,Klan HD
 http://95.107.132.222:80/live/localdisk/KlanTV/SA/KlanTV.m3u8
 #EXTINF:-1,Klan 2
