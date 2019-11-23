@@ -355,8 +355,7 @@ http://5.135.92.133:52841/out/u/332_1.m3u8
 http://5.135.92.133:52841/out/u/345_1.m3u8
 #EXTINF:0,Ora News
 http://5.135.92.133:52841/out/u/523_1.m3u8
-
-#EXTINF:-1,TOP CHANNEL
+#EXTINF:-1,group-title="LG-TV 3",TOP CHANNEL
 http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/8.ts?playlist.m3u8
 #EXTINF:-1,TV KLAN
 http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/6.ts?playlist.m3u8
