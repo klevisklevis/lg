@@ -183,6 +183,44 @@ http://5.135.92.133:31652/out/u/490_2.m3u8
 http://5.135.92.133:31652/out/u/487_2.m3u8
 #EXTINF:-1,Arena 1
 http://5.135.92.133:31652/out/u/485_1.m3u8
+#EXTINF:-1,Bein Sport 1
+http://95.216.2.179:80/brotherstv/722040/331173/339/219.ts
+#EXTINF:-1,Bein Sport 2
+http://95.216.2.179:80/brotherstv/722040/331173/339/220.ts
+#EXTINF:-1,Bein Sport 3
+http://95.216.2.179:80/brotherstv/722040/331173/339/221.ts
+#EXTINF:-1,Bein Sport 4
+http://95.216.2.179:80/brotherstv/722040/331173/339/222.ts
+#EXTINF:-1,Bein Sport 5
+http://95.216.2.179:80/brotherstv/722040/331173/339/223.ts
+#EXTINF:-1,Bein Sport 6
+http://95.216.2.179:80/brotherstv/722040/331173/339/224.ts
+#EXTINF:-1,Bein Sport 7
+http://95.216.2.179:80/brotherstv/722040/331173/339/225.ts
+#EXTINF:-1,Bein Sport 8
+http://95.216.2.179:80/brotherstv/722040/331173/339/226.ts
+#EXTINF:-1,Bein Sport 9
+http://95.216.2.179:80/brotherstv/722040/331173/339/227.ts
+#EXTINF:-1,Bein Sport 10
+http://95.216.2.179:80/brotherstv/722040/331173/339/228.ts
+#EXTINF:-1,Setanta Sport
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1,Ziggo Sport
+http://95.170.215.118:80/hls/m3u8/ZIGGO-voetbal.m3u8
+#EXTINF:-1,Sky Sport Football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1,Sky Sport Arena
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-Arena.m3u8
+#EXTINF:-1,Sky Sport Main Event
+http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1,Sky Sport Premier L
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1,Fox Sport 1
+http://95.170.215.118:80/hls/m3u8/Fox-Sport-1.m3u8
+#EXTINF:-1,EuroSport 2
+http://95.170.215.118:80/hls/m3u8/EURO-Sport-2.m3u8
+#EXTINF:-1,EuroSport 1
+http://95.170.215.118:80/hls/m3u8/EURO-Sport-1.m3u8
 #EXTINF:-1,group-title="LG-TV 2",VizionPlus
 http://5.135.92.133:42692/out/u/wjfidshgosg.m3u8
 #EXTINF:0,Top Chanel
