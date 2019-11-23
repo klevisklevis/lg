@@ -355,61 +355,63 @@ http://5.135.92.133:52841/out/u/332_1.m3u8
 http://5.135.92.133:52841/out/u/345_1.m3u8
 #EXTINF:0,Ora News
 http://5.135.92.133:52841/out/u/523_1.m3u8
-#EXTINF:-1,group-title="LG-TV 3",TOP CHANNEL
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/8.ts?playlist.m3u8
+#EXTINF:-1,group-title="LG-TV 3",TOP CHANNEl,TOP CHANNEL
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/8.ts
 #EXTINF:-1,TV KLAN
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/6.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/6.ts
 #EXTINF:-1,VIZION PLUS
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/45.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/45.ts
 #EXTINF:-1,NEWS 24
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/73.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/73.ts
 #EXTINF:-1,ORA NEWS
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/74.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/74.ts
 #EXTINF:-1,REPORT TV
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/75.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/75.ts
 #EXTINF:-1,KLAN PLUS
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/10.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/10.ts
 #EXTINF:-1,KLAN KOSOVA
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/35.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/35.ts
 #EXTINF:-1,ALSAT M
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/63.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/63.ts
 #EXTINF:-1,ORA HD
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/77.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/77.ts
 #EXTINF:-1,TRT SPOR
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/76.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/76.ts
 #EXTINF:-1,ShqipTv Western
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/67.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/67.ts
 #EXTINF:-1,ALBKANALE TV
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/72.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/72.ts
 #EXTINF:-1,ShqipTv Komedi
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/64.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/64.ts
 #EXTINF:-1,ShqipTv Horror
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/65.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/65.ts
 #EXTINF:-1,ShqipTv Hindi
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/66.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/66.ts
 #EXTINF:-1,ShqipTv Film
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/70.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/70.ts
 #EXTINF:-1,ShqipTv Fantasy
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/68.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/68.ts
 #EXTINF:-1,LIVE 1
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/69.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/69.ts
 #EXTINF:-1,ShqipTv Aksion
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/71.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/71.ts
 #EXTINF:-1,JUNIOR TV
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/20.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/20.ts
 #EXTINF:-1,EXPLORER SHKENCE
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/30.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/30.ts
 #EXTINF:-1,EXPLORER NATYRE
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/31.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/31.ts
 #EXTINF:-1,EXPLORER HISTORI
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/32.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/32.ts
 #EXTINF:-1,RTSH 1
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/87.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/87.ts
 #EXTINF:-1,BANG BANG
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/19.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/19.ts
 #EXTINF:-1,CUFO TV
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/21.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/21.ts
 #EXTINF:-1,LIVE 2
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/78.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/78.ts
 #EXTINF:-1,KLAN MACEDONIA
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/62.ts?playlist.m3u8
+http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/62.ts
+
+
