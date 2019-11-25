@@ -357,74 +357,345 @@ http://5.135.92.133:52841/out/u/332_1.m3u8
 http://5.135.92.133:52841/out/u/345_1.m3u8
 #EXTINF:0,Ora News
 http://5.135.92.133:52841/out/u/523_1.m3u8
-#EXTINF:-1,group-title="LG-TV 3",TOP CHANNEl,TOP CHANNEL
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/8.ts
-#EXTINF:-1,TV KLAN
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/6.ts
-#EXTINF:-1,VIZION PLUS
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/45.ts
-#EXTINF:-1,NEWS 24
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/73.ts
-#EXTINF:-1,ORA NEWS
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/74.ts
-#EXTINF:-1,REPORT TV
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/75.ts
-#EXTINF:-1,KLAN PLUS
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/10.ts
-#EXTINF:-1,KLAN KOSOVA
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/35.ts
-#EXTINF:-1,ALSAT M
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/63.ts
-#EXTINF:-1,ORA HD
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/77.ts
-#EXTINF:-1,TRT SPOR
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/76.ts
-#EXTINF:-1,ShqipTv Aksion
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/71.ts
-#EXTINF:-1,JUNIOR TV
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/20.ts
-#EXTINF:-1,EXPLORER SHKENCE
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/30.ts
-#EXTINF:-1,EXPLORER NATYRE
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/31.ts
-#EXTINF:-1,EXPLORER HISTORI
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/32.ts
-#EXTINF:-1,RTSH 1
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/87.ts
-#EXTINF:-1,BANG BANG
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/19.ts
-#EXTINF:-1,CUFO TV
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/21.ts
-#EXTINF:-1,KLAN MACEDONIA
-http://albkanalegenerator.ga:8080/live/client/GHNv76BfAJFckM2ugZpXYH3F4XM6j2QHW6nvXehG/62.ts
-#EXTINF:-1,JOLLY HD
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/106.ts
-#EXTINF:-1,3 PLUS
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/77.ts
-#EXTINF:-1,FILM KOMEDI
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/105.ts
-#EXTINF:-1,FILM DRAME
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/107.ts
-#EXTINF:-1,FILM AUTOR
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/55.ts
-#EXTINF:-1,FILM 2
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/54.ts
-#EXTINF:-1,FILM 1
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/53.ts
-#EXTINF:-1,FILM AKSION
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/108.ts
-#EXTINF:-1,FRAME TV
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/109.ts
-#EXTINF:-1,SYRI VISION
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/110.ts
-#EXTINF:-1,USKANA TV
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/104.ts
-#EXTINF:-1,ORA HD
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/89.ts
-#EXTINF:-1,TV KOHA
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/88.ts
-#EXTINF:-1,RTV RED
-http://topkanalelokale.cf:8080/live/lokale/XCMLqJjLGca5etwBskRGxt4phLr7rNrJ6ZjY3m2A/56.ts
-
-
-
+#EXTINF:-1,group-title="LG-TV 3",TOP CHANNEl,Al.T 7
+http://62.210.209.100:86/live/Shabani/Shabani/159.ts
+#EXTINF:-1,X SHKENC
+http://62.210.209.100:86/live/Shabani/Shabani/132.ts
+#EXTINF:-1,X NATYRE
+http://62.210.209.100:86/live/Shabani/Shabani/134.ts
+#EXTINF:-1,X Histori HD
+http://62.210.209.100:86/live/Shabani/Shabani/129.ts
+#EXTINF:-1,X DARK HD
+http://62.210.209.100:86/live/Shabani/Shabani/130.ts
+#EXTINF:-1,X ACTION
+http://62.210.209.100:86/live/Shabani/Shabani/128.ts
+#EXTINF:-1,AL.Kino premier 1
+http://62.210.209.100:86/live/Shabani/Shabani/79.ts
+#EXTINF:-1,Al.Kino premium 3
+http://62.210.209.100:86/live/Shabani/Shabani/81.ts
+#EXTINF:-1,Al.Kino premium 2
+http://62.210.209.100:86/live/Shabani/Shabani/80.ts
+#EXTINF:-1,AL.Kino premier  4
+http://62.210.209.100:86/live/Shabani/Shabani/133.ts
+#EXTINF:-1,Tv dielli
+http://62.210.209.100:86/live/Shabani/Shabani/259.ts
+#EXTINF:-1,Tr.ucan kus
+http://62.210.209.100:86/live/Shabani/Shabani/260.ts
+#EXTINF:-1,Tr.tvve 2
+http://62.210.209.100:86/live/Shabani/Shabani/262.ts
+#EXTINF:-1,Raport tv
+http://62.210.209.100:86/live/Shabani/Shabani/257.ts
+#EXTINF:-1,Mu.utv
+http://62.210.209.100:86/live/Shabani/Shabani/261.ts
+#EXTINF:-1,Mk.rtv plus
+http://62.210.209.100:86/live/Shabani/Shabani/263.ts
+#EXTINF:-1,Euro.al
+http://62.210.209.100:86/live/Shabani/Shabani/258.ts
+#EXTINF:-1,De.tnt film
+http://62.210.209.100:86/live/Shabani/Shabani/247.ts
+#EXTINF:-1,Cz.joj plus
+http://62.210.209.100:86/live/Shabani/Shabani/265.ts
+#EXTINF:-1,Cz.joj family
+http://62.210.209.100:86/live/Shabani/Shabani/264.ts
+#EXTINF:-1,Cz.Joj
+http://62.210.209.100:86/live/Shabani/Shabani/266.ts
+#EXTINF:-1,Tr.ben sport 3
+http://62.210.209.100:86/live/Shabani/Shabani/255.ts
+#EXTINF:-1,Tr.ben sport 2
+http://62.210.209.100:86/live/Shabani/Shabani/254.ts
+#EXTINF:-1,Al.sky max
+http://62.210.209.100:86/live/Shabani/Shabani/252.ts
+#EXTINF:-1,Al.Sky action
+http://62.210.209.100:86/live/Shabani/Shabani/253.ts
+#EXTINF:-1,Al.eleven sport 1
+http://62.210.209.100:86/live/Shabani/Shabani/256.ts
+#EXTINF:-1,Al.tv dugagjini
+http://62.210.209.100:86/live/Shabani/Shabani/246.ts
+#EXTINF:-1,UK.HBO
+http://62.210.209.100:86/live/Shabani/Shabani/244.ts
+#EXTINF:-1,Tr.ben sport 1
+http://62.210.209.100:86/live/Shabani/Shabani/245.ts
+#EXTINF:-1,Al.film triler
+http://62.210.209.100:86/live/Shabani/Shabani/243.ts
+#EXTINF:-1,Ss 5
+http://62.210.209.100:86/live/Shabani/Shabani/239.ts
+#EXTINF:-1,SK 3
+http://62.210.209.100:86/live/Shabani/Shabani/125.ts
+#EXTINF:-1,SK 2
+http://62.210.209.100:86/live/Shabani/Shabani/124.ts
+#EXTINF:-1,SK 1
+http://62.210.209.100:86/live/Shabani/Shabani/82.ts
+#EXTINF:-1,AL.VIZION PLUS
+http://62.210.209.100:86/live/Shabani/Shabani/166.ts
+#EXTINF:-1,Al.tring shqip
+http://62.210.209.100:86/live/Shabani/Shabani/229.ts
+#EXTINF:-1,Al.tring sport 3
+http://62.210.209.100:86/live/Shabani/Shabani/242.ts
+#EXTINF:-1,Al.tr sport 2
+http://62.210.209.100:86/live/Shabani/Shabani/241.ts
+#EXTINF:-1,Al.tr sport 1
+http://62.210.209.100:86/live/Shabani/Shabani/240.ts
+#EXTINF:-1,AL.TOP CHANEL
+http://62.210.209.100:86/live/Shabani/Shabani/164.ts
+#EXTINF:-1,Al.TDC
+http://62.210.209.100:86/live/Shabani/Shabani/123.ts
+#EXTINF:-1,Al.t super
+http://62.210.209.100:86/live/Shabani/Shabani/230.ts
+#EXTINF:-1,Al.t life
+http://62.210.209.100:86/live/Shabani/Shabani/234.ts
+#EXTINF:-1,AL.T HD
+http://62.210.209.100:86/live/Shabani/Shabani/170.ts
+#EXTINF:-1,Al.t fantazi
+http://62.210.209.100:86/live/Shabani/Shabani/233.ts
+#EXTINF:-1,Al.t comedi
+http://62.210.209.100:86/live/Shabani/Shabani/232.ts
+#EXTINF:-1,Al.t aksion
+http://62.210.209.100:86/live/Shabani/Shabani/231.ts
+#EXTINF:-1,Al.ss4
+http://62.210.209.100:86/live/Shabani/Shabani/238.ts
+#EXTINF:-1,Al.ss3
+http://62.210.209.100:86/live/Shabani/Shabani/237.ts
+#EXTINF:-1,Al.ss2
+http://62.210.209.100:86/live/Shabani/Shabani/236.ts
+#EXTINF:-1,Al.ss1
+http://62.210.209.100:86/live/Shabani/Shabani/235.ts
+#EXTINF:-1,AL.KTV
+http://62.210.209.100:86/live/Shabani/Shabani/156.ts
+#EXTINF:-1,AL.KLAN TV
+http://62.210.209.100:86/live/Shabani/Shabani/165.ts
+#EXTINF:-1,AL.KLAN PLUS
+http://62.210.209.100:86/live/Shabani/Shabani/167.ts
+#EXTINF:-1,Al.Klan ks
+http://62.210.209.100:86/live/Shabani/Shabani/158.ts
+#EXTINF:-1,AL.Film nje hd
+http://62.210.209.100:86/live/Shabani/Shabani/174.ts
+#EXTINF:-1,AL.Film Komedi
+http://62.210.209.100:86/live/Shabani/Shabani/172.ts
+#EXTINF:-1,AL.Film Hits
+http://62.210.209.100:86/live/Shabani/Shabani/173.ts
+#EXTINF:-1,AL.Film dy hd
+http://62.210.209.100:86/live/Shabani/Shabani/175.ts
+#EXTINF:-1,AL.Film Dram
+http://62.210.209.100:86/live/Shabani/Shabani/176.ts
+#EXTINF:-1,AL.Film Autor
+http://62.210.209.100:86/live/Shabani/Shabani/177.ts
+#EXTINF:-1,AL.FILM AKSION
+http://62.210.209.100:86/live/Shabani/Shabani/171.ts
+#EXTINF:-1,Al.exp shkenc
+http://62.210.209.100:86/live/Shabani/Shabani/225.ts
+#EXTINF:-1,Al.exp natyr
+http://62.210.209.100:86/live/Shabani/Shabani/224.ts
+#EXTINF:-1,Al.exp histori
+http://62.210.209.100:86/live/Shabani/Shabani/226.ts
+#EXTINF:-1,Al.cufo
+http://62.210.209.100:86/live/Shabani/Shabani/227.ts
+#EXTINF:-1,AL.ALSAT M
+http://62.210.209.100:86/live/Shabani/Shabani/169.ts
+#EXTINF:-1,Al.21 tv
+http://62.210.209.100:86/live/Shabani/Shabani/157.ts
+#EXTINF:-1,Ak.bang bang
+http://62.210.209.100:86/live/Shabani/Shabani/228.ts
+#EXTINF:-1,Uk.bt sport 2
+http://62.210.209.100:86/live/Shabani/Shabani/221.ts
+#EXTINF:-1,Uk.bt sport 1
+http://62.210.209.100:86/live/Shabani/Shabani/220.ts
+#EXTINF:-1,Zigo fusball
+http://62.210.209.100:86/live/Shabani/Shabani/181.ts
+#EXTINF:-1,UK.SKY ACTION
+http://62.210.209.100:86/live/Shabani/Shabani/138.ts
+#EXTINF:-1,Uk.Hbo 3
+http://62.210.209.100:86/live/Shabani/Shabani/142.ts
+#EXTINF:-1,Uk.Hbo 2
+http://62.210.209.100:86/live/Shabani/Shabani/143.ts
+#EXTINF:-1,Uk.EURO SPPRT 2
+http://62.210.209.100:86/live/Shabani/Shabani/139.ts
+#EXTINF:-1,Uk Ziggo
+http://62.210.209.100:86/live/Shabani/Shabani/141.ts
+#EXTINF:-1,Uk sky select
+http://62.210.209.100:86/live/Shabani/Shabani/144.ts
+#EXTINF:-1,Uk sky premier
+http://62.210.209.100:86/live/Shabani/Shabani/145.ts
+#EXTINF:-1,Uk sky family
+http://62.210.209.100:86/live/Shabani/Shabani/149.ts
+#EXTINF:-1,Uk sky drame
+http://62.210.209.100:86/live/Shabani/Shabani/147.ts
+#EXTINF:-1,Uk sky disney
+http://62.210.209.100:86/live/Shabani/Shabani/148.ts
+#EXTINF:-1,Uk sky comedi
+http://62.210.209.100:86/live/Shabani/Shabani/146.ts
+#EXTINF:-1,Uk fx
+http://62.210.209.100:86/live/Shabani/Shabani/153.ts
+#EXTINF:-1,Uk fox family
+http://62.210.209.100:86/live/Shabani/Shabani/150.ts
+#EXTINF:-1,Uk fox chanel
+http://62.210.209.100:86/live/Shabani/Shabani/152.ts
+#EXTINF:-1,Uk fox action
+http://62.210.209.100:86/live/Shabani/Shabani/151.ts
+#EXTINF:-1,Uk doco box
+http://62.210.209.100:86/live/Shabani/Shabani/154.ts
+#EXTINF:-1,Tvibu sport 3
+http://62.210.209.100:86/live/Shabani/Shabani/180.ts
+#EXTINF:-1,Tvibu sport 2
+http://62.210.209.100:86/live/Shabani/Shabani/179.ts
+#EXTINF:-1,Tvibu sport 1
+http://62.210.209.100:86/live/Shabani/Shabani/178.ts
+#EXTINF:-1,Trt turk
+http://62.210.209.100:86/live/Shabani/Shabani/213.ts
+#EXTINF:-1,Trt spor
+http://62.210.209.100:86/live/Shabani/Shabani/218.ts
+#EXTINF:-1,Trt okul
+http://62.210.209.100:86/live/Shabani/Shabani/216.ts
+#EXTINF:-1,Trt cucuk
+http://62.210.209.100:86/live/Shabani/Shabani/215.ts
+#EXTINF:-1,Trt 1
+http://62.210.209.100:86/live/Shabani/Shabani/214.ts
+#EXTINF:-1,Star tv
+http://62.210.209.100:86/live/Shabani/Shabani/219.ts
+#EXTINF:-1,Rai uno
+http://62.210.209.100:86/live/Shabani/Shabani/211.ts
+#EXTINF:-1,Rai 5
+http://62.210.209.100:86/live/Shabani/Shabani/212.ts
+#EXTINF:-1,Rai 4
+http://62.210.209.100:86/live/Shabani/Shabani/210.ts
+#EXTINF:-1,Rai 3
+http://62.210.209.100:86/live/Shabani/Shabani/209.ts
+#EXTINF:-1,Mk.telma
+http://62.210.209.100:86/live/Shabani/Shabani/193.ts
+#EXTINF:-1,Mk.sitel
+http://62.210.209.100:86/live/Shabani/Shabani/192.ts
+#EXTINF:-1,Mk.kanal 5
+http://62.210.209.100:86/live/Shabani/Shabani/191.ts
+#EXTINF:-1,Mk.24vesti
+http://62.210.209.100:86/live/Shabani/Shabani/194.ts
+#EXTINF:-1,Kanal d
+http://62.210.209.100:86/live/Shabani/Shabani/217.ts
+#EXTINF:-1,Italia1 HD
+http://62.210.209.100:86/live/Shabani/Shabani/37.ts
+#EXTINF:-1,It.rai premium
+http://62.210.209.100:86/live/Shabani/Shabani/207.ts
+#EXTINF:-1,It.rai mowie
+http://62.210.209.100:86/live/Shabani/Shabani/208.ts
+#EXTINF:-1,Fox sport 1
+http://62.210.209.100:86/live/Shabani/Shabani/182.ts
+#EXTINF:-1,EURO SPORT
+http://62.210.209.100:86/live/Shabani/Shabani/140.ts
+#EXTINF:-1,CONTACT VIZION
+http://62.210.209.100:86/live/Shabani/Shabani/163.ts
+#EXTINF:-1,BT Sport 1
+http://62.210.209.100:86/live/Shabani/Shabani/27.ts
+#EXTINF:-1,Bein movi 4
+http://62.210.209.100:86/live/Shabani/Shabani/186.ts
+#EXTINF:-1,Bein movi 2
+http://62.210.209.100:86/live/Shabani/Shabani/184.ts
+#EXTINF:-1,Bein movi 1
+http://62.210.209.100:86/live/Shabani/Shabani/183.ts
+#EXTINF:-1,AZ.IDMAN
+http://62.210.209.100:86/live/Shabani/Shabani/190.ts
+#EXTINF:-1,Al.zjarr
+http://62.210.209.100:86/live/Shabani/Shabani/205.ts
+#EXTINF:-1,Al.tv usa
+http://62.210.209.100:86/live/Shabani/Shabani/196.ts
+#EXTINF:-1,Al.tv koha
+http://62.210.209.100:86/live/Shabani/Shabani/199.ts
+#EXTINF:-1,Al.tetova tv
+http://62.210.209.100:86/live/Shabani/Shabani/201.ts
+#EXTINF:-1,Al.rtv zik
+http://62.210.209.100:86/live/Shabani/Shabani/195.ts
+#EXTINF:-1,Al.rtk 3
+http://62.210.209.100:86/live/Shabani/Shabani/189.ts
+#EXTINF:-1,Al.rtk 2
+http://62.210.209.100:86/live/Shabani/Shabani/188.ts
+#EXTINF:-1,Al.rtk 1
+http://62.210.209.100:86/live/Shabani/Shabani/187.ts
+#EXTINF:-1,Al.roma tv
+http://62.210.209.100:86/live/Shabani/Shabani/206.ts
+#EXTINF:-1,AL.RAPORT TV
+http://62.210.209.100:86/live/Shabani/Shabani/168.ts
+#EXTINF:-1,Al.oranews
+http://62.210.209.100:86/live/Shabani/Shabani/197.ts
+#EXTINF:-1,Al.opoja
+http://62.210.209.100:86/live/Shabani/Shabani/200.ts
+#EXTINF:-1,Al.News24
+http://62.210.209.100:86/live/Shabani/Shabani/198.ts
+#EXTINF:-1,Al.dasma tv
+http://62.210.209.100:86/live/Shabani/Shabani/202.ts
+#EXTINF:-1,Al.alb.uk
+http://62.210.209.100:86/live/Shabani/Shabani/203.ts
+#EXTINF:-1,Al.alb muzik
+http://62.210.209.100:86/live/Shabani/Shabani/204.ts
+#EXTINF:-1,X TRILER
+http://62.210.209.100:86/live/Shabani/Shabani/160.ts
+#EXTINF:-1,X DRAME
+http://62.210.209.100:86/live/Shabani/Shabani/161.ts
+#EXTINF:-1,X COMEDI
+http://62.210.209.100:86/live/Shabani/Shabani/162.ts
+#EXTINF:-1,Tring World
+http://62.210.209.100:86/live/Shabani/Shabani/249.ts
+#EXTINF:-1,Tring Planet
+http://62.210.209.100:86/live/Shabani/Shabani/250.ts
+#EXTINF:-1,Tring History
+http://62.210.209.100:86/live/Shabani/Shabani/251.ts
+#EXTINF:-1,KLAN MK
+http://62.210.209.100:86/live/Shabani/Shabani/126.ts
+#EXTINF:-1,Frist chanell.al
+http://62.210.209.100:86/live/Shabani/Shabani/136.ts
+#EXTINF:-1,FILM SHQIP
+http://62.210.209.100:86/live/Shabani/Shabani/137.ts
+#EXTINF:-1,wwe
+http://62.210.209.100:86/live/Shabani/Shabani/64.ts
+#EXTINF:-1,UK:Sky_Sports_4_HD
+http://62.210.209.100:86/live/Shabani/Shabani/65.ts
+#EXTINF:-1,UK:Sky_Sports_3_HD
+http://62.210.209.100:86/live/Shabani/Shabani/66.ts
+#EXTINF:-1,UK:Sky_Sports_2_HD
+http://62.210.209.100:86/live/Shabani/Shabani/67.ts
+#EXTINF:-1,UK:Sky_Sports_1_HD
+http://62.210.209.100:86/live/Shabani/Shabani/68.ts
+#EXTINF:-1,Mk.alfa
+http://62.210.209.100:86/live/Shabani/Shabani/223.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://62.210.209.100:86/live/Shabani/Shabani/31.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://62.210.209.100:86/live/Shabani/Shabani/30.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://62.210.209.100:86/live/Shabani/Shabani/29.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://62.210.209.100:86/live/Shabani/Shabani/28.ts
+#EXTINF:-1,DE: Arenasport 5 HD
+http://62.210.209.100:86/live/Shabani/Shabani/26.ts
+#EXTINF:-1,DE: Arenasport 4 HD
+http://62.210.209.100:86/live/Shabani/Shabani/25.ts
+#EXTINF:-1,DE: Arenasport 3 HD
+http://62.210.209.100:86/live/Shabani/Shabani/24.ts
+#EXTINF:-1,DE: Arenasport 2 HD
+http://62.210.209.100:86/live/Shabani/Shabani/23.ts
+#EXTINF:-1,DE: Arenasport 1 HD
+http://62.210.209.100:86/live/Shabani/Shabani/22.ts
+#EXTINF:-1,DE.DAZN 1
+http://62.210.209.100:86/live/Shabani/Shabani/127.ts
+#EXTINF:-1,Bein_Sport_9_HD
+http://62.210.209.100:86/live/Shabani/Shabani/111.ts
+#EXTINF:-1,Bein_Sport_8_HD
+http://62.210.209.100:86/live/Shabani/Shabani/112.ts
+#EXTINF:-1,Bein_Sport_7_HD
+http://62.210.209.100:86/live/Shabani/Shabani/113.ts
+#EXTINF:-1,Bein_Sport_6_HD
+http://62.210.209.100:86/live/Shabani/Shabani/114.ts
+#EXTINF:-1,Bein_Sport_5_HD
+http://62.210.209.100:86/live/Shabani/Shabani/115.ts
+#EXTINF:-1,Bein_Sport_4_HD
+http://62.210.209.100:86/live/Shabani/Shabani/116.ts
+#EXTINF:-1,Bein_Sport_3_HD
+http://62.210.209.100:86/live/Shabani/Shabani/117.ts
+#EXTINF:-1,Bein_Sport_2_HD
+http://62.210.209.100:86/live/Shabani/Shabani/118.ts
+#EXTINF:-1,Bein_Sport_1_HD
+http://62.210.209.100:86/live/Shabani/Shabani/119.ts
+#EXTINF:-1,Kujtesa sport 4
+http://62.210.209.100:86/live/Shabani/Shabani/272.ts
+#EXTINF:-1,Kujtesa sport 3
+http://62.210.209.100:86/live/Shabani/Shabani/271.ts
+#EXTINF:-1,Kujtesa sport 2
+http://62.210.209.100:86/live/Shabani/Shabani/270.ts
+#EXTINF:-1,Al.kujtesa sport 1
+http://62.210.209.100:86/live/Shabani/Shabani/269.ts
