@@ -59,124 +59,122 @@ http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/11447.m3u8
 http://95.107.132.222:80/live/localdisk/KlanTV/SA/KlanTV.m3u8
 #EXTINF:-1,Klan 2
 http://95.107.132.131:3344/udp/235.0.0.1:9009
-#EXTINF:-1,Top Channel
-http://163.172.39.96:8000/live/Tvshqip/new/7.ts
-#EXTINF:-1,Klan TV
-http://163.172.39.96:8000/live/Tvshqip/new/8.ts
-#EXTINF:-1,Klan plus
-http://163.172.39.96:8000/live/Tvshqip/new/10.ts
-#EXTINF:-1,Vizion Plus
-http://163.172.39.96:8000/live/Tvshqip/new/9.ts
-#EXTINF:-1,Vizion +
-http://95.107.132.131:3344/udp/238.11.12.2:9009
-#EXTINF:-1,film famly
-http://163.172.39.96:8000/live/Tvshqip/new/74.ts
-#EXTINF:-1,X shkence
-http://163.172.39.96:8000/live/Tvshqip/new/75.ts
-#EXTINF:-1,X Natyre
-http://163.172.39.96:8000/live/Tvshqip/new/76.ts
-#EXTINF:-1,X Histori HD
-http://163.172.39.96:8000/live/Tvshqip/new/78.ts
-#EXTINF:-1,X dark
-http://163.172.39.96:8000/live/Tvshqip/new/79.ts
-#EXTINF:-1,X action
-http://163.172.39.96:8000/live/Tvshqip/new/80.ts
-#EXTINF:-1,X  Humor
-http://163.172.39.96:8000/live/Tvshqip/new/77.ts
-#EXTINF:-1,Tring Action
-http://163.172.39.96:8000/live/Tvshqip/new/50.ts
-#EXTINF:-1,Film Thriller
-http://163.172.39.96:8000/live/Tvshqip/new/49.ts
+#EXTINF:-1,Top-Channel HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/223
+#EXTINF:-1,Klan-TV HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/224
+#EXTINF:-1,Vizion-Plus HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/225
+#EXTINF:-1,Klan-Plus HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/226
+#EXTINF:-1,Film-Thriller
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/227
+#EXTINF:-1,Film-Drame
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/229
+#EXTINF:-1,Film-Autor
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/230
+#EXTINF:-1,Film-Komedi
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/231
+#EXTINF:-1,Film-Aksion
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/232
+#EXTINF:-1,Film-Hits
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/233
+#EXTINF:-1,Film-Nje HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/234
+#EXTINF:-1,Family-HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/235
+#EXTINF:-1,Film-Dy HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/236
+#EXTINF:-1,T-HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/237
+#EXTINF:-1,Explorer Shkence
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/238
+#EXTINF:-1,Explorer Natyra
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/239
+#EXTINF:-1,Explorer Histori
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/240
 #EXTINF:-1,Tring World
-http://163.172.39.96:8000/live/Tvshqip/new/37.ts
-#EXTINF:-1,Tring tring
-http://163.172.39.96:8000/live/Tvshqip/new/46.ts
-#EXTINF:-1,Tring Super
-http://163.172.39.96:8000/live/Tvshqip/new/41.ts
-#EXTINF:-1,Tring Shqip
-http://163.172.39.96:8000/live/Tvshqip/new/40.ts
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/241
 #EXTINF:-1,Tring Planet
-http://163.172.39.96:8000/live/Tvshqip/new/38.ts
-#EXTINF:-1,Tring Komedi
-http://163.172.39.96:8000/live/Tvshqip/new/43.ts
-#EXTINF:-1,Tring Histori
-http://163.172.39.96:8000/live/Tvshqip/new/39.ts
-#EXTINF:-1,Tring Fantazi
-http://163.172.39.96:8000/live/Tvshqip/new/44.ts
-#EXTINF:-1,Tring 3 Plus
-http://163.172.39.96:8000/live/Tvshqip/new/45.ts
-#EXTINF:-1,Tring life
-http://163.172.39.96:8000/live/Tvshqip/new/36.ts
-#EXTINF:-1,Junior
-http://163.172.39.96:8000/live/Tvshqip/new/34.ts
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/242
+#EXTINF:-1,Tring History
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/243
+#EXTINF:-1,Tring-Shqip
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/244
+#EXTINF:-1,Tring-Life
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/245
+#EXTINF:-1,Tring-Super
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/246
+#EXTINF:-1,Tring-Comedy
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/247
+#EXTINF:-1,Tring-Fantasy
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/248
+#EXTINF:-1,Tring-Action
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/249
 #EXTINF:-1,Jolly HD
-http://163.172.39.96:8000/live/Tvshqip/new/35.ts
-#EXTINF:-1,Alsat
-http://163.172.39.96:8000/live/Tvshqip/new/11.ts
-#EXTINF:-1,T HD Channel
-http://163.172.39.96:8000/live/Tvshqip/new/12.ts
-#EXTINF:-1,Film Nje HD
-http://163.172.39.96:8000/live/Tvshqip/new/16.ts
-#EXTINF:-1,Film Komedi
-http://163.172.39.96:8000/live/Tvshqip/new/14.ts
-#EXTINF:-1,Film Hits
-http://163.172.39.96:8000/live/Tvshqip/new/15.ts
-#EXTINF:-1,Film Dy HD
-http://163.172.39.96:8000/live/Tvshqip/new/17.ts
-#EXTINF:-1,Film Dram
-http://163.172.39.96:8000/live/Tvshqip/new/18.ts
-#EXTINF:-1,Film Autor
-http://163.172.39.96:8000/live/Tvshqip/new/19.ts
-#EXTINF:-1,Film Aksion
-http://163.172.39.96:8000/live/Tvshqip/new/13.ts
-#EXTINF:-1,EXP Shkenca
-http://163.172.39.96:8000/live/Tvshqip/new/20.ts
-#EXTINF:-1,EXP Natyra
-http://163.172.39.96:8000/live/Tvshqip/new/21.ts
-#EXTINF:-1,EXP Histori
-http://163.172.39.96:8000/live/Tvshqip/new/22.ts
-#EXTINF:-1,Cufo
-http://163.172.39.96:8000/live/Tvshqip/new/23.ts
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/250
+#EXTINF:-1,X Premium 2 HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/251
+#EXTINF:-1,X Premium 1 HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/252
+#EXTINF:-1,X Premium 3 HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/253
+#EXTINF:-1,X Premium 4 HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/254
+#EXTINF:-1,X SHKENC
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/255
+#EXTINF:-1,X NATYRE
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/256
+#EXTINF:-1,X HUMOR
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/257
+#EXTINF:-1,X DARK HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/258
+#EXTINF:-1,X ACTION
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/259
+#EXTINF:-1,X DRAME
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/260
+#EXTINF:-1,X TRILER
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/261
+#EXTINF:-1,X COMEDI
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/262
 #EXTINF:-1,Bang Bang
-http://163.172.39.96:8000/live/Tvshqip/new/25.ts
-#EXTINF:-1,Ks1
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/2
-#EXTINF:-1,Ks2
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/3
-#EXTINF:-1,Ks3
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/4
-#EXTINF:-1,Ks4
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/5
-#EXTINF:-1,Ts4
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/6
-#EXTINF:-1,Ts3
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/7
-#EXTINF:-1,Ts2
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/8
-#EXTINF:-1,Ts1
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/9
-#EXTINF:-1,Sky action
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/10
-#EXTINF:-1,Sky max
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/11
-#EXTINF:-1,X prem 1
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/12
-#EXTINF:-1,X prem 2
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/13
-#EXTINF:-1,X prem 3
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/14
-#EXTINF:-1,X prem 4
-http://163.172.84.252:25461/Aaaaaa/M6yv2QpxXi/15
-#EXTINF:-1,SS1
-http://163.172.39.96:8000/live/Shqiptv/loku/60.ts
-#EXTINF:-1,SS2
-http://163.172.39.96:8000/live/Shqiptv/loku/61.ts
-#EXTINF:-1,SS3
-http://163.172.39.96:8000/live/Shqiptv/loku/62.ts
-#EXTINF:-1,SS4
-http://163.172.39.96:8000/live/Shqiptv/loku/63.ts
-#EXTINF:-1,SS5
-http://163.172.39.96:8000/live/Shqiptv/loku/64.ts
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/263
+#EXTINF:-1,Cufo
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/264
+#EXTINF:-1,Tring Kids
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/265
+#EXTINF:-1,Tring-Sport 4 HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/268
+#EXTINF:-1,Tring-Sport 3 HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/269
+#EXTINF:-1,Tring-Sport 2 HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/270
+#EXTINF:-1,Tring-Sport 1 HD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/271
+#EXTINF:-1,Super-Sport 5
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/272
+#EXTINF:-1,Super-Sport 4 SD
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/273
+#EXTINF:-1,Super-Sport 3
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/274
+#EXTINF:-1,Super-Sport 2
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/275
+#EXTINF:-1,Super-Sport1
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/276
+#EXTINF:-1,Kujtesa Sport 1
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/277
+#EXTINF:-1,Kujtesa Sport 2
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/278
+#EXTINF:-1,Kujtesa Sport 3
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/279
+#EXTINF:-1,Kujtesa Sport 4
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/280
+#EXTINF:-1,Tring tring
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/281
+#EXTINF:-1,Alsat M
+http://195.154.146.20:25461/Lklklk/mJRCvY0w6V/282
+#EXTINF:-1,Kill Chain 2019
+http://195.154.146.20:25461/movie/Lklklk/mJRCvY0w6V/283.mp4
 #EXTINF:-1,Arena 4
 http://5.135.92.133:31652/out/u/493_2.m3u8
 #EXTINF:-1,Arena 3
